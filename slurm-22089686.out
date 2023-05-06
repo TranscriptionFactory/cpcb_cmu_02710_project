@@ -1,0 +1,10 @@
+/bin/bash: /opt/anaconda3-cluster/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+  File "/net/dali/home/mscbio/aar126/genomics/jubilant-barnacle/CSHMM-for-time-series-scRNA-Seq-py3/CSHMM_TF_train_release.py", line 831
+    print(marker)_idx
+                 ^
+SyntaxError: invalid syntax
+copying files
+sending incremental file list
+
+sent 4,630 bytes  received 37 bytes  9,334.00 bytes/sec
+total size is 1,383,046,221  speedup is 296,345.88
