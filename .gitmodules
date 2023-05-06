@@ -1,3 +1,6 @@
 [submodule "TcellDev"]
 	path = TcellDev
 	url = git@github.com:QuKunLab/T-cell-development.git
+[submodule "CSHMM-for-time-series-scRNA-Seq"]
+	path = CSHMM-for-time-series-scRNA-Seq
+	url = git@github.com:TranscriptionFactory/CSHMM-for-time-series-scRNA-Seq.git
