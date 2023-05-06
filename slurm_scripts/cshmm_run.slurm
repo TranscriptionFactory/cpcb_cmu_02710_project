@@ -6,7 +6,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=4
 #SBATCH --mail-user=aar126@pitt.edu
-#SBATCH --mail-type=ALL
+
 
 source ~/.bashrc
 
@@ -24,4 +24,4 @@ module load cuda
 eval "$(conda shell.bash hook)"
 
 source activate scdiffenv
-python CSHMM-for-time-series-scRNA-Seq/CSHMM_trainpy3.py --data_file data/tcell_data2.E --structure_file scdiff_runs/tcell_data_filtered_variance.out/tcell_data2.E.h5ad --n_split 20 -ng 1000 --n_iteration 2 --cross_validation 0 --random_seed 0 --model_name test_model_csh
+python CSHMM-for-time-series-scRNA-Seq/CSHMM_trainpy3.py --data_file scdiff_runs/tcell_data_filtered_variance.out/tcell_data2.E.h5ad --structure_file scdiff_runs/tcell_data_filtered_variance.out/tcell_data2.E.h5 --n_split 20 -ng 1000 --n_iteration 2 --cross_validation 0 --random_seed 0 --model_name test_model_csh

@@ -4,3 +4,6 @@
 [submodule "CSHMM-for-time-series-scRNA-Seq"]
 	path = CSHMM-for-time-series-scRNA-Seq
 	url = git@github.com:TranscriptionFactory/CSHMM-for-time-series-scRNA-Seq.git
+[submodule "scdiff"]
+	path = scdiff
+	url = git@github.com:phoenixding/scdiff.git
