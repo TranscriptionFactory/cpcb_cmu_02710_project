@@ -1,0 +1,6471 @@
+/bin/bash: /opt/anaconda3-cluster/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+start clustering...
+calculating affinity matrix ...
+cell:0
+cell:1
+cell:2
+cell:3
+cell:4
+cell:5
+cell:6
+cell:7
+cell:8
+cell:9
+cell:10
+cell:11
+cell:12
+cell:13
+cell:14
+cell:15
+cell:16
+cell:17
+cell:18
+cell:19
+cell:20
+cell:21
+cell:22
+cell:23
+cell:24
+cell:25
+cell:26
+cell:27
+cell:28
+cell:29
+cell:30
+cell:31
+cell:32
+cell:33
+cell:34
+cell:35
+cell:36
+cell:37
+cell:38
+cell:39
+cell:40
+cell:41
+cell:42
+cell:43
+cell:44
+cell:45
+cell:46
+cell:47
+cell:48
+cell:49
+cell:50
+cell:51
+cell:52
+cell:53
+cell:54
+cell:55
+cell:56
+cell:57
+cell:58
+cell:59
+cell:60
+cell:61
+cell:62
+cell:63
+cell:64
+cell:65
+cell:66
+cell:67
+cell:68
+cell:69
+cell:70
+cell:71
+cell:72
+cell:73
+cell:74
+cell:75
+cell:76
+cell:77
+cell:0
+cell:1
+cell:2
+cell:3
+cell:4
+cell:5
+cell:6
+cell:7
+cell:8
+cell:9
+cell:10
+cell:11
+cell:12
+cell:13
+cell:14
+cell:15
+cell:16
+cell:17
+cell:18
+cell:19
+cell:20
+cell:21
+cell:22
+cell:23
+cell:24
+cell:25
+cell:26
+cell:27
+cell:28
+cell:29
+cell:30
+cell:31
+cell:32
+cell:33
+cell:34
+cell:35
+cell:36
+cell:37
+cell:38
+cell:39
+cell:40
+cell:41
+cell:42
+cell:43
+cell:44
+cell:45
+cell:46
+cell:47
+cell:48
+cell:49
+cell:50
+cell:51
+cell:52
+cell:53
+cell:54
+cell:55
+cell:56
+cell:57
+cell:58
+cell:59
+cell:60
+cell:61
+cell:62
+cell:63
+cell:64
+cell:65
+cell:66
+cell:67
+cell:68
+cell:69
+cell:70
+cell:71
+cell:72
+cell:73
+cell:74
+cell:75
+cell:76
+cell:77
+cell:78
+cell:79
+cell:80
+cell:81
+cell:82
+cell:83
+cell:84
+cell:85
+cell:86
+cell:87
+cell:88
+cell:89
+cell:90
+cell:91
+cell:92
+cell:93
+cell:94
+cell:95
+cell:96
+cell:97
+cell:98
+cell:99
+cell:100
+cell:101
+cell:102
+cell:103
+cell:104
+cell:105
+cell:106
+cell:107
+cell:108
+cell:109
+cell:110
+cell:111
+cell:112
+cell:113
+cell:114
+cell:115
+cell:116
+cell:117
+cell:118
+cell:119
+cell:120
+cell:121
+cell:122
+cell:123
+cell:124
+cell:125
+cell:126
+cell:127
+cell:128
+cell:129
+cell:130
+cell:131
+cell:132
+cell:133
+cell:134
+cell:135
+cell:136
+cell:137
+cell:138
+cell:139
+cell:140
+cell:141
+cell:142
+cell:143
+cell:144
+cell:145
+cell:146
+cell:147
+cell:148
+cell:149
+cell:150
+cell:151
+cell:152
+cell:153
+cell:154
+cell:155
+cell:156
+cell:0
+cell:1
+cell:2
+cell:3
+cell:4
+cell:5
+cell:6
+cell:7
+cell:8
+cell:9
+cell:10
+cell:11
+cell:12
+cell:13
+cell:14
+cell:15
+cell:16
+cell:17
+cell:18
+cell:19
+cell:20
+cell:21
+cell:22
+cell:23
+cell:24
+cell:25
+cell:26
+cell:27
+cell:28
+cell:29
+cell:30
+cell:31
+cell:32
+cell:33
+cell:34
+cell:35
+cell:36
+cell:37
+cell:38
+cell:39
+cell:40
+cell:41
+cell:42
+cell:43
+cell:44
+cell:45
+cell:46
+cell:47
+cell:48
+cell:49
+cell:50
+cell:51
+cell:52
+cell:53
+cell:54
+cell:55
+cell:56
+cell:57
+cell:58
+cell:59
+cell:60
+cell:61
+cell:62
+cell:63
+cell:64
+cell:65
+cell:66
+cell:67
+cell:68
+cell:69
+cell:70
+cell:71
+cell:72
+cell:73
+cell:74
+cell:75
+cell:76
+cell:77
+cell:78
+cell:79
+cell:80
+cell:81
+cell:82
+cell:83
+cell:84
+cell:85
+cell:86
+cell:87
+cell:88
+cell:89
+cell:90
+cell:91
+cell:92
+cell:93
+cell:94
+cell:95
+cell:96
+cell:97
+cell:98
+cell:99
+cell:100
+cell:101
+cell:102
+cell:103
+cell:104
+cell:105
+cell:106
+cell:107
+cell:108
+cell:109
+cell:110
+cell:111
+cell:112
+cell:113
+cell:114
+cell:115
+cell:116
+cell:117
+cell:118
+cell:119
+cell:120
+cell:121
+cell:122
+cell:123
+cell:124
+cell:125
+cell:126
+cell:127
+cell:128
+cell:129
+cell:130
+cell:131
+cell:132
+cell:133
+cell:134
+cell:135
+cell:136
+cell:137
+cell:138
+cell:139
+cell:140
+cell:141
+cell:142
+cell:143
+cell:144
+cell:145
+cell:146
+cell:147
+cell:148
+cell:149
+cell:150
+cell:151
+cell:152
+cell:153
+cell:154
+cell:155
+cell:156
+cell:157
+cell:158
+cell:159
+cell:160
+cell:161
+cell:162
+cell:163
+cell:164
+cell:165
+cell:166
+cell:167
+cell:168
+cell:169
+cell:170
+cell:171
+cell:172
+cell:173
+cell:174
+cell:175
+cell:176
+cell:177
+cell:178
+cell:179
+cell:180
+cell:181
+cell:182
+cell:183
+cell:184
+cell:185
+cell:186
+cell:187
+cell:188
+cell:189
+cell:190
+cell:191
+cell:192
+cell:193
+cell:194
+cell:195
+cell:196
+cell:197
+cell:198
+cell:199
+cell:200
+cell:201
+cell:202
+cell:203
+cell:204
+cell:205
+cell:206
+cell:207
+cell:208
+cell:209
+cell:210
+cell:211
+cell:212
+cell:213
+cell:214
+cell:215
+cell:216
+cell:217
+cell:218
+cell:219
+cell:220
+cell:221
+cell:222
+cell:223
+cell:224
+cell:225
+cell:226
+cell:227
+cell:228
+cell:229
+cell:230
+cell:231
+cell:232
+cell:233
+cell:234
+cell:235
+cell:236
+cell:237
+cell:238
+cell:239
+cell:240
+cell:241
+cell:242
+cell:243
+cell:244
+cell:245
+cell:246
+cell:247
+cell:248
+cell:249
+cell:250
+cell:251
+cell:252
+cell:253
+cell:254
+cell:255
+cell:256
+cell:257
+cell:258
+cell:259
+cell:260
+cell:261
+cell:262
+cell:263
+cell:264
+cell:265
+cell:266
+cell:267
+cell:268
+cell:269
+cell:270
+cell:271
+cell:272
+cell:273
+cell:274
+cell:275
+cell:276
+cell:277
+cell:278
+cell:279
+cell:280
+cell:281
+cell:282
+cell:283
+cell:284
+cell:285
+cell:286
+cell:287
+cell:288
+cell:289
+cell:290
+cell:291
+cell:292
+cell:293
+cell:294
+cell:295
+cell:296
+cell:297
+cell:298
+cell:299
+cell:300
+cell:301
+cell:302
+cell:303
+cell:304
+cell:305
+cell:306
+cell:307
+cell:308
+cell:309
+cell:310
+cell:311
+cell:312
+cell:313
+cell:314
+cell:315
+cell:316
+cell:317
+cell:318
+cell:319
+cell:320
+cell:321
+cell:322
+cell:323
+cell:324
+cell:325
+cell:326
+cell:327
+cell:328
+cell:329
+cell:330
+cell:331
+cell:332
+cell:333
+cell:334
+cell:335
+cell:336
+cell:337
+cell:338
+cell:339
+cell:340
+cell:341
+cell:342
+cell:343
+cell:344
+cell:345
+cell:346
+cell:347
+cell:348
+cell:349
+cell:350
+cell:351
+cell:352
+cell:353
+cell:354
+cell:355
+cell:356
+cell:357
+cell:358
+cell:359
+cell:360
+cell:361
+cell:362
+cell:363
+cell:364
+cell:365
+cell:366
+cell:367
+cell:368
+cell:369
+cell:370
+cell:371
+cell:372
+cell:373
+cell:374
+cell:375
+cell:376
+cell:377
+cell:378
+cell:379
+cell:380
+cell:381
+cell:382
+cell:383
+cell:384
+cell:385
+cell:386
+cell:387
+cell:388
+cell:389
+cell:390
+cell:391
+cell:392
+cell:393
+cell:394
+cell:395
+cell:396
+cell:397
+cell:398
+cell:399
+cell:400
+cell:401
+cell:402
+cell:403
+cell:404
+cell:405
+cell:406
+cell:407
+cell:408
+cell:409
+cell:410
+cell:411
+cell:412
+cell:413
+cell:414
+cell:415
+cell:416
+cell:417
+cell:418
+cell:419
+cell:420
+cell:421
+cell:422
+cell:423
+cell:424
+cell:425
+cell:426
+cell:427
+cell:428
+cell:429
+cell:430
+cell:431
+cell:432
+cell:433
+cell:434
+cell:435
+cell:436
+cell:437
+cell:438
+cell:439
+cell:440
+cell:441
+cell:442
+cell:443
+cell:444
+cell:445
+cell:446
+cell:447
+cell:448
+cell:449
+cell:450
+cell:451
+cell:452
+cell:453
+cell:454
+cell:455
+cell:456
+cell:457
+cell:458
+cell:459
+cell:460
+cell:461
+cell:462
+cell:463
+cell:464
+cell:465
+cell:466
+cell:467
+cell:468
+cell:469
+cell:470
+cell:471
+cell:472
+cell:473
+cell:474
+cell:475
+cell:476
+cell:477
+cell:478
+cell:479
+cell:480
+cell:481
+cell:482
+cell:483
+cell:484
+cell:485
+cell:486
+cell:487
+cell:488
+cell:489
+cell:490
+cell:491
+cell:492
+cell:493
+cell:494
+cell:495
+cell:496
+cell:497
+cell:498
+cell:499
+cell:500
+cell:501
+cell:502
+cell:503
+cell:0
+cell:1
+cell:2
+cell:3
+cell:4
+cell:5
+cell:6
+cell:7
+cell:8
+cell:9
+cell:10
+cell:11
+cell:12
+cell:13
+cell:14
+cell:15
+cell:16
+cell:17
+cell:18
+cell:19
+cell:20
+cell:21
+cell:22
+cell:23
+cell:24
+cell:25
+cell:26
+cell:27
+cell:28
+cell:29
+cell:30
+cell:31
+cell:32
+cell:33
+cell:34
+cell:35
+cell:36
+cell:37
+cell:38
+cell:39
+cell:40
+cell:41
+cell:42
+cell:43
+cell:44
+cell:45
+cell:46
+cell:47
+cell:48
+cell:49
+cell:50
+cell:51
+cell:52
+cell:53
+cell:54
+cell:55
+cell:56
+cell:57
+cell:58
+cell:59
+cell:60
+cell:61
+cell:62
+cell:63
+cell:64
+cell:65
+cell:66
+cell:67
+cell:68
+cell:69
+cell:70
+cell:71
+cell:72
+cell:73
+cell:74
+cell:75
+cell:76
+cell:77
+cell:78
+cell:79
+cell:80
+cell:81
+cell:82
+cell:83
+cell:84
+cell:85
+cell:86
+cell:87
+cell:88
+cell:89
+cell:90
+cell:91
+cell:92
+cell:93
+cell:94
+cell:95
+cell:96
+cell:97
+cell:98
+cell:99
+cell:100
+cell:101
+cell:102
+cell:103
+cell:104
+cell:105
+cell:106
+cell:107
+cell:108
+cell:109
+cell:110
+cell:111
+cell:112
+cell:113
+cell:114
+cell:115
+cell:116
+cell:117
+cell:118
+cell:119
+cell:120
+cell:121
+cell:122
+cell:123
+cell:124
+cell:125
+cell:126
+cell:127
+cell:128
+cell:129
+cell:130
+cell:131
+cell:132
+cell:133
+cell:134
+cell:135
+cell:136
+cell:137
+cell:138
+cell:139
+cell:140
+cell:141
+cell:142
+cell:143
+cell:144
+cell:145
+cell:146
+cell:147
+cell:148
+cell:149
+cell:150
+cell:151
+cell:152
+cell:153
+cell:154
+cell:155
+cell:156
+cell:157
+cell:158
+cell:159
+cell:160
+cell:161
+cell:162
+cell:163
+cell:164
+cell:165
+cell:166
+cell:167
+cell:168
+cell:169
+cell:170
+cell:171
+cell:172
+cell:173
+cell:174
+cell:175
+cell:176
+cell:177
+cell:178
+cell:179
+cell:180
+cell:181
+cell:182
+cell:183
+cell:184
+cell:185
+cell:186
+cell:187
+cell:188
+cell:189
+cell:190
+cell:191
+cell:192
+cell:193
+cell:194
+cell:195
+cell:196
+cell:197
+cell:198
+cell:199
+cell:200
+cell:201
+cell:202
+cell:203
+cell:204
+cell:205
+cell:206
+cell:207
+cell:208
+cell:209
+cell:210
+cell:211
+cell:212
+cell:213
+cell:214
+cell:215
+cell:216
+cell:217
+cell:218
+cell:219
+cell:220
+cell:221
+cell:222
+cell:223
+cell:224
+cell:225
+cell:226
+cell:227
+cell:228
+cell:229
+cell:230
+cell:231
+cell:232
+cell:233
+cell:234
+cell:235
+cell:236
+cell:237
+cell:238
+cell:239
+cell:240
+cell:241
+cell:242
+cell:243
+cell:244
+cell:245
+cell:246
+cell:247
+cell:248
+cell:249
+cell:250
+cell:251
+cell:252
+cell:253
+cell:254
+cell:255
+cell:256
+cell:257
+cell:258
+cell:259
+cell:260
+cell:261
+cell:262
+cell:263
+cell:264
+cell:265
+cell:266
+cell:267
+cell:268
+cell:269
+cell:270
+cell:271
+cell:272
+cell:273
+cell:274
+cell:275
+cell:276
+cell:277
+cell:278
+cell:279
+cell:280
+cell:281
+cell:282
+cell:283
+cell:284
+cell:285
+cell:286
+cell:287
+cell:288
+cell:289
+cell:290
+cell:291
+cell:292
+cell:293
+cell:294
+cell:295
+cell:296
+cell:297
+cell:298
+cell:299
+cell:300
+cell:301
+cell:302
+cell:303
+cell:304
+cell:305
+cell:306
+cell:307
+cell:308
+cell:309
+cell:310
+cell:311
+cell:312
+cell:313
+cell:314
+cell:315
+cell:316
+cell:317
+cell:318
+cell:319
+cell:320
+cell:321
+cell:322
+cell:323
+cell:324
+cell:325
+cell:326
+cell:327
+cell:328
+cell:329
+cell:330
+cell:331
+cell:332
+cell:333
+cell:334
+cell:335
+cell:336
+cell:337
+cell:338
+cell:339
+cell:340
+cell:341
+cell:342
+cell:343
+cell:344
+cell:345
+cell:346
+cell:347
+cell:348
+cell:349
+cell:350
+cell:351
+cell:352
+cell:353
+cell:354
+cell:355
+cell:356
+cell:357
+cell:358
+cell:359
+cell:360
+cell:361
+cell:362
+cell:363
+cell:364
+cell:365
+cell:366
+cell:367
+cell:368
+cell:369
+cell:370
+cell:371
+cell:372
+cell:373
+cell:374
+cell:375
+cell:376
+cell:377
+cell:378
+cell:379
+cell:380
+cell:381
+cell:382
+cell:383
+cell:384
+cell:385
+cell:386
+cell:387
+cell:388
+cell:389
+cell:390
+cell:391
+cell:392
+cell:393
+cell:394
+cell:395
+cell:396
+cell:397
+cell:398
+cell:399
+cell:400
+cell:401
+cell:402
+cell:403
+cell:404
+cell:405
+cell:406
+cell:407
+cell:408
+cell:409
+cell:410
+cell:411
+cell:412
+cell:413
+cell:414
+cell:415
+cell:416
+cell:417
+cell:418
+cell:419
+cell:420
+cell:421
+cell:422
+cell:423
+cell:424
+cell:425
+cell:426
+cell:427
+cell:428
+cell:429
+cell:430
+cell:431
+cell:432
+cell:433
+cell:434
+cell:435
+cell:436
+cell:437
+cell:438
+cell:439
+cell:440
+cell:441
+cell:442
+cell:443
+cell:444
+cell:445
+cell:446
+cell:447
+cell:448
+cell:449
+cell:450
+cell:451
+cell:452
+cell:453
+cell:454
+cell:455
+cell:456
+cell:457
+cell:458
+cell:459
+cell:460
+cell:461
+cell:462
+cell:463
+cell:464
+cell:465
+cell:466
+cell:467
+cell:468
+cell:469
+cell:470
+cell:471
+cell:472
+cell:473
+cell:474
+cell:475
+cell:476
+cell:477
+cell:478
+cell:479
+cell:480
+cell:481
+cell:482
+cell:483
+cell:484
+cell:485
+cell:486
+cell:487
+cell:488
+cell:489
+cell:490
+cell:491
+cell:492
+cell:493
+cell:494
+cell:495
+cell:496
+cell:497
+cell:498
+cell:499
+cell:500
+cell:0
+cell:1
+cell:2
+cell:3
+cell:4
+cell:5
+cell:6
+cell:7
+cell:8
+cell:9
+cell:10
+cell:11
+cell:12
+cell:13
+cell:14
+cell:15
+cell:16
+cell:17
+cell:18
+cell:19
+cell:20
+cell:21
+cell:22
+cell:23
+cell:24
+cell:25
+cell:26
+cell:27
+cell:28
+cell:29
+cell:30
+cell:31
+cell:32
+cell:33
+cell:34
+cell:35
+cell:36
+cell:37
+cell:38
+cell:39
+cell:40
+cell:41
+cell:42
+cell:43
+cell:44
+cell:45
+cell:46
+cell:47
+cell:48
+cell:49
+cell:50
+cell:51
+cell:52
+cell:53
+cell:54
+cell:55
+cell:56
+cell:57
+cell:58
+cell:59
+cell:60
+cell:61
+cell:62
+cell:63
+cell:64
+cell:65
+cell:66
+cell:67
+cell:68
+cell:69
+cell:70
+cell:71
+cell:72
+cell:73
+cell:74
+cell:75
+cell:76
+cell:77
+cell:78
+cell:79
+cell:80
+cell:81
+cell:82
+cell:83
+cell:84
+cell:85
+cell:86
+cell:87
+cell:88
+cell:89
+cell:90
+cell:91
+cell:92
+cell:93
+cell:94
+cell:95
+cell:96
+cell:97
+cell:98
+cell:99
+cell:100
+cell:101
+cell:102
+cell:103
+cell:104
+cell:105
+cell:106
+cell:107
+cell:108
+cell:109
+cell:110
+cell:111
+cell:112
+cell:113
+cell:114
+cell:115
+cell:116
+cell:117
+cell:118
+cell:119
+cell:120
+cell:121
+cell:122
+cell:123
+cell:124
+cell:125
+cell:126
+cell:127
+cell:128
+cell:129
+cell:130
+cell:131
+cell:132
+cell:133
+cell:134
+cell:135
+cell:136
+cell:137
+cell:138
+cell:139
+cell:140
+cell:141
+cell:142
+cell:143
+cell:144
+cell:145
+cell:146
+cell:147
+cell:148
+cell:149
+cell:150
+cell:151
+cell:152
+cell:153
+cell:154
+cell:155
+cell:156
+cell:157
+cell:158
+cell:159
+cell:160
+cell:161
+cell:162
+cell:163
+cell:164
+cell:165
+cell:166
+cell:167
+cell:168
+cell:169
+cell:170
+cell:171
+cell:172
+cell:173
+cell:174
+cell:175
+cell:176
+cell:177
+cell:178
+cell:179
+cell:180
+cell:181
+cell:182
+cell:183
+cell:184
+cell:185
+cell:186
+cell:187
+cell:188
+cell:189
+cell:190
+cell:191
+cell:192
+cell:193
+cell:194
+cell:195
+cell:196
+cell:197
+cell:198
+cell:199
+cell:200
+cell:201
+cell:202
+cell:203
+cell:204
+cell:205
+cell:206
+cell:207
+cell:208
+cell:209
+cell:210
+cell:211
+cell:212
+cell:213
+cell:214
+cell:215
+cell:216
+cell:217
+cell:218
+cell:219
+cell:220
+cell:221
+cell:222
+cell:223
+cell:224
+cell:225
+cell:226
+cell:227
+cell:228
+cell:229
+cell:230
+cell:231
+cell:232
+cell:233
+cell:234
+cell:235
+cell:236
+cell:237
+cell:238
+cell:239
+cell:240
+cell:241
+cell:242
+cell:243
+cell:244
+cell:245
+cell:246
+cell:247
+cell:248
+cell:249
+cell:250
+cell:251
+cell:252
+cell:253
+cell:254
+cell:255
+cell:256
+cell:257
+cell:258
+cell:259
+cell:260
+cell:261
+cell:262
+cell:263
+cell:264
+cell:265
+cell:266
+cell:267
+cell:268
+cell:269
+cell:270
+cell:271
+cell:272
+cell:273
+cell:274
+cell:275
+cell:276
+cell:277
+cell:278
+cell:279
+cell:280
+cell:281
+cell:282
+cell:283
+cell:284
+cell:285
+cell:286
+cell:287
+cell:288
+cell:289
+cell:290
+cell:291
+cell:292
+cell:293
+cell:294
+cell:295
+cell:296
+cell:297
+cell:298
+cell:299
+cell:300
+cell:301
+cell:302
+cell:303
+cell:304
+cell:305
+cell:306
+cell:307
+cell:308
+cell:309
+cell:310
+cell:311
+cell:312
+cell:313
+cell:314
+cell:315
+cell:316
+cell:317
+cell:318
+cell:319
+cell:320
+cell:321
+cell:322
+cell:323
+cell:324
+cell:325
+cell:326
+cell:327
+cell:328
+cell:329
+cell:330
+cell:331
+cell:332
+cell:333
+cell:334
+cell:335
+cell:336
+cell:337
+cell:338
+cell:339
+cell:340
+cell:341
+cell:342
+cell:343
+cell:344
+cell:0
+cell:1
+cell:2
+cell:3
+cell:4
+cell:5
+cell:6
+cell:7
+cell:8
+cell:9
+cell:10
+cell:11
+cell:12
+cell:13
+cell:14
+cell:15
+cell:16
+cell:17
+cell:18
+cell:19
+cell:20
+cell:21
+cell:22
+cell:23
+cell:24
+cell:25
+cell:26
+cell:27
+cell:28
+cell:29
+cell:30
+cell:31
+cell:32
+cell:33
+cell:34
+cell:35
+cell:36
+cell:37
+cell:38
+cell:39
+cell:40
+cell:41
+cell:42
+cell:43
+cell:44
+cell:45
+cell:46
+cell:47
+cell:48
+cell:49
+cell:50
+cell:51
+cell:52
+cell:53
+cell:54
+cell:55
+cell:56
+cell:57
+cell:58
+cell:59
+cell:60
+cell:61
+cell:62
+cell:63
+cell:64
+cell:65
+cell:66
+cell:67
+cell:68
+cell:69
+cell:70
+cell:71
+cell:72
+cell:73
+cell:74
+cell:75
+cell:76
+cell:77
+cell:78
+cell:79
+cell:80
+cell:81
+cell:82
+cell:83
+cell:84
+cell:85
+cell:86
+cell:87
+cell:88
+cell:89
+cell:90
+cell:91
+cell:92
+cell:93
+cell:94
+cell:95
+cell:96
+cell:97
+cell:98
+cell:99
+cell:100
+cell:101
+cell:102
+cell:103
+cell:104
+cell:105
+cell:106
+cell:107
+cell:108
+cell:109
+cell:110
+cell:111
+cell:112
+cell:113
+cell:114
+cell:115
+cell:116
+cell:117
+cell:118
+cell:119
+cell:120
+cell:121
+cell:122
+cell:123
+cell:124
+cell:125
+cell:126
+cell:127
+cell:128
+cell:129
+cell:130
+cell:131
+cell:132
+cell:133
+cell:134
+cell:135
+cell:136
+cell:137
+cell:138
+cell:139
+cell:140
+cell:141
+cell:142
+cell:143
+cell:144
+cell:145
+cell:146
+cell:147
+cell:148
+cell:149
+cell:150
+cell:151
+cell:152
+cell:153
+cell:154
+cell:155
+cell:156
+cell:157
+cell:158
+cell:159
+cell:160
+cell:161
+cell:162
+cell:163
+cell:164
+cell:165
+cell:166
+cell:167
+cell:168
+cell:169
+cell:170
+cell:171
+cell:172
+cell:173
+cell:174
+cell:175
+cell:176
+cell:177
+cell:178
+cell:179
+cell:180
+cell:181
+cell:182
+cell:183
+cell:184
+cell:185
+cell:186
+cell:187
+cell:188
+cell:189
+cell:190
+cell:191
+cell:192
+cell:193
+cell:194
+cell:195
+cell:196
+cell:197
+cell:198
+cell:199
+cell:200
+cell:201
+cell:202
+cell:203
+cell:204
+cell:205
+cell:206
+cell:207
+cell:208
+cell:209
+cell:210
+cell:211
+cell:212
+cell:213
+cell:214
+cell:215
+cell:216
+cell:217
+cell:218
+cell:219
+cell:220
+cell:221
+cell:222
+cell:223
+cell:224
+cell:225
+cell:226
+cell:227
+cell:228
+cell:229
+cell:230
+cell:231
+cell:232
+cell:233
+cell:234
+cell:235
+cell:236
+cell:237
+cell:238
+cell:239
+cell:240
+cell:241
+cell:242
+cell:243
+cell:244
+cell:245
+cell:246
+cell:247
+cell:248
+cell:249
+cell:250
+cell:251
+cell:252
+cell:253
+cell:254
+cell:255
+cell:256
+cell:257
+cell:258
+cell:259
+cell:260
+cell:261
+cell:262
+cell:263
+cell:264
+cell:265
+cell:266
+cell:267
+cell:268
+cell:269
+cell:270
+cell:271
+cell:272
+cell:273
+cell:274
+cell:275
+cell:276
+cell:277
+cell:278
+cell:279
+cell:280
+cell:281
+cell:282
+cell:283
+cell:284
+cell:285
+cell:286
+cell:287
+cell:288
+cell:289
+cell:290
+cell:291
+cell:292
+cell:293
+cell:294
+cell:295
+cell:296
+cell:297
+cell:298
+cell:299
+cell:300
+cell:301
+cell:302
+cell:303
+cell:304
+cell:305
+cell:306
+cell:307
+cell:308
+cell:309
+cell:310
+cell:311
+cell:312
+cell:313
+cell:314
+cell:315
+cell:316
+cell:317
+cell:318
+cell:319
+cell:320
+cell:321
+cell:322
+cell:323
+cell:324
+cell:325
+cell:326
+cell:327
+cell:328
+cell:329
+cell:330
+cell:331
+cell:332
+cell:333
+cell:334
+cell:335
+cell:336
+learning K...
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+4.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+6.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+8.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+10.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+12.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+14.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+16.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+18.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+20.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+22.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+24.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+26.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+28.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+30.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+32.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+34.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+36.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+38.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+40.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+42.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+44.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+46.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+48.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+50.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+52.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+54.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+56.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+58.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+60.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+62.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+64.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+66.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+68.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+70.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+72.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+74.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+76.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+78.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+80.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+82.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+84.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+86.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+88.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+90.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+92.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+94.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+96.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+98.0%
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+2
+3
+4
+5
+6
+7
+8
+9
+100.0%
+learning clustering seeds...
+seeds:0
+seeds:1
+seeds:2
+seeds:3
+seeds:4
+seeds:5
+seeds:6
+seeds:7
+seeds:8
+seeds:9
+seeds:10
+seeds:11
+seeds:12
+seeds:13
+seeds:14
+seeds:15
+seeds:16
+seeds:17
+seeds:18
+seeds:19
+seeds:20
+seeds:21
+seeds:22
+seeds:23
+seeds:24
+seeds:25
+seeds:26
+seeds:27
+seeds:28
+seeds:29
+seeds:30
+seeds:31
+seeds:32
+seeds:33
+seeds:34
+seeds:35
+seeds:36
+seeds:37
+seeds:38
+seeds:39
+seeds:40
+seeds:41
+seeds:42
+seeds:43
+seeds:44
+seeds:45
+seeds:46
+seeds:47
+seeds:48
+seeds:49
+seeds:50
+seeds:51
+seeds:52
+seeds:53
+seeds:54
+seeds:55
+seeds:56
+seeds:57
+seeds:58
+seeds:59
+seeds:60
+seeds:61
+seeds:62
+seeds:63
+seeds:64
+seeds:65
+seeds:66
+seeds:67
+seeds:68
+seeds:69
+seeds:70
+seeds:71
+seeds:72
+seeds:73
+seeds:74
+seeds:75
+seeds:76
+seeds:77
+seeds:78
+seeds:79
+seeds:80
+seeds:81
+seeds:82
+seeds:83
+seeds:84
+seeds:85
+seeds:86
+seeds:87
+seeds:88
+seeds:89
+seeds:90
+seeds:91
+seeds:92
+seeds:93
+seeds:94
+seeds:95
+seeds:96
+seeds:97
+seeds:98
+seeds:99
+seeds:0
+seeds:1
+seeds:2
+seeds:3
+seeds:4
+seeds:5
+seeds:6
+seeds:7
+seeds:8
+seeds:9
+seeds:10
+seeds:11
+seeds:12
+seeds:13
+seeds:14
+seeds:15
+seeds:16
+seeds:17
+seeds:18
+seeds:19
+seeds:20
+seeds:21
+seeds:22
+seeds:23
+seeds:24
+seeds:25
+seeds:26
+seeds:27
+seeds:28
+seeds:29
+seeds:30
+seeds:31
+seeds:32
+seeds:33
+seeds:34
+seeds:35
+seeds:36
+seeds:37
+seeds:38
+seeds:39
+seeds:40
+seeds:41
+seeds:42
+seeds:43
+seeds:44
+seeds:45
+seeds:46
+seeds:47
+seeds:48
+seeds:49
+seeds:50
+seeds:51
+seeds:52
+seeds:53
+seeds:54
+seeds:55
+seeds:56
+seeds:57
+seeds:58
+seeds:59
+seeds:60
+seeds:61
+seeds:62
+seeds:63
+seeds:64
+seeds:65
+seeds:66
+seeds:67
+seeds:68
+seeds:69
+seeds:70
+seeds:71
+seeds:72
+seeds:73
+seeds:74
+seeds:75
+seeds:76
+seeds:77
+seeds:78
+seeds:79
+seeds:80
+seeds:81
+seeds:82
+seeds:83
+seeds:84
+seeds:85
+seeds:86
+seeds:87
+seeds:88
+seeds:89
+seeds:90
+seeds:91
+seeds:92
+seeds:93
+seeds:94
+seeds:95
+seeds:96
+seeds:97
+seeds:98
+seeds:99
+seeds:0
+seeds:1
+seeds:2
+seeds:3
+seeds:4
+seeds:5
+seeds:6
+seeds:7
+seeds:8
+seeds:9
+seeds:10
+seeds:11
+seeds:12
+seeds:13
+seeds:14
+seeds:15
+seeds:16
+seeds:17
+seeds:18
+seeds:19
+seeds:20
+seeds:21
+seeds:22
+seeds:23
+seeds:24
+seeds:25
+seeds:26
+seeds:27
+seeds:28
+seeds:29
+seeds:30
+seeds:31
+seeds:32
+seeds:33
+seeds:34
+seeds:35
+seeds:36
+seeds:37
+seeds:38
+seeds:39
+seeds:40
+seeds:41
+seeds:42
+seeds:43
+seeds:44
+seeds:45
+seeds:46
+seeds:47
+seeds:48
+seeds:49
+seeds:50
+seeds:51
+seeds:52
+seeds:53
+seeds:54
+seeds:55
+seeds:56
+seeds:57
+seeds:58
+seeds:59
+seeds:60
+seeds:61
+seeds:62
+seeds:63
+seeds:64
+seeds:65
+seeds:66
+seeds:67
+seeds:68
+seeds:69
+seeds:70
+seeds:71
+seeds:72
+seeds:73
+seeds:74
+seeds:75
+seeds:76
+seeds:77
+seeds:78
+seeds:79
+seeds:80
+seeds:81
+seeds:82
+seeds:83
+seeds:84
+seeds:85
+seeds:86
+seeds:87
+seeds:88
+seeds:89
+seeds:90
+seeds:91
+seeds:92
+seeds:93
+seeds:94
+seeds:95
+seeds:96
+seeds:97
+seeds:98
+seeds:99
+seeds:0
+seeds:1
+seeds:2
+seeds:3
+seeds:4
+seeds:5
+seeds:6
+seeds:7
+seeds:8
+seeds:9
+seeds:10
+seeds:11
+seeds:12
+seeds:13
+seeds:14
+seeds:15
+seeds:16
+seeds:17
+seeds:18
+seeds:19
+seeds:20
+seeds:21
+seeds:22
+seeds:23
+seeds:24
+seeds:25
+seeds:26
+seeds:27
+seeds:28
+seeds:29
+seeds:30
+seeds:31
+seeds:32
+seeds:33
+seeds:34
+seeds:35
+seeds:36
+seeds:37
+seeds:38
+seeds:39
+seeds:40
+seeds:41
+seeds:42
+seeds:43
+seeds:44
+seeds:45
+seeds:46
+seeds:47
+seeds:48
+seeds:49
+seeds:50
+seeds:51
+seeds:52
+seeds:53
+seeds:54
+seeds:55
+seeds:56
+seeds:57
+seeds:58
+seeds:59
+seeds:60
+seeds:61
+seeds:62
+seeds:63
+seeds:64
+seeds:65
+seeds:66
+seeds:67
+seeds:68
+seeds:69
+seeds:70
+seeds:71
+seeds:72
+seeds:73
+seeds:74
+seeds:75
+seeds:76
+seeds:77
+seeds:78
+seeds:79
+seeds:80
+seeds:81
+seeds:82
+seeds:83
+seeds:84
+seeds:85
+seeds:86
+seeds:87
+seeds:88
+seeds:89
+seeds:90
+seeds:91
+seeds:92
+seeds:93
+seeds:94
+seeds:95
+seeds:96
+seeds:97
+seeds:98
+seeds:99
+seeds:0
+seeds:1
+seeds:2
+seeds:3
+seeds:4
+seeds:5
+seeds:6
+seeds:7
+seeds:8
+seeds:9
+seeds:10
+seeds:11
+seeds:12
+seeds:13
+seeds:14
+seeds:15
+seeds:16
+seeds:17
+seeds:18
+seeds:19
+seeds:20
+seeds:21
+seeds:22
+seeds:23
+seeds:24
+seeds:25
+seeds:26
+seeds:27
+seeds:28
+seeds:29
+seeds:30
+seeds:31
+seeds:32
+seeds:33
+seeds:34
+seeds:35
+seeds:36
+seeds:37
+seeds:38
+seeds:39
+seeds:40
+seeds:41
+seeds:42
+seeds:43
+seeds:44
+seeds:45
+seeds:46
+seeds:47
+seeds:48
+seeds:49
+seeds:50
+seeds:51
+seeds:52
+seeds:53
+seeds:54
+seeds:55
+seeds:56
+seeds:57
+seeds:58
+seeds:59
+seeds:60
+seeds:61
+seeds:62
+seeds:63
+seeds:64
+seeds:65
+seeds:66
+seeds:67
+seeds:68
+seeds:69
+seeds:70
+seeds:71
+seeds:72
+seeds:73
+seeds:74
+seeds:75
+seeds:76
+seeds:77
+seeds:78
+seeds:79
+seeds:80
+seeds:81
+seeds:82
+seeds:83
+seeds:84
+seeds:85
+seeds:86
+seeds:87
+seeds:88
+seeds:89
+seeds:90
+seeds:91
+seeds:92
+seeds:93
+seeds:94
+seeds:95
+seeds:96
+seeds:97
+seeds:98
+seeds:99
+clustering for time: 1.0
+clustering for time: 2.0
+clustering for time: 3.0
+clustering for time: 4.0
+clustering for time: 5.0
+clustering for time: 6.0
+building graph...
+time adjustment...
+connecting nodes ....
+G1
+ID:  1.0_0
+index:  0
+P index:  None
+ST:  0
+T:  0
+cell.ID:  AAAGATGTCCAAGTAC-1
+cell.ID:  AAAGTAGCATACAGCT-1
+cell.ID:  AACACGTGTCCTGCTT-1
+cell.ID:  AACGTTGGTCGGCACT-1
+cell.ID:  AACTCCCAGCTGAAAT-1
+cell.ID:  AACTCTTTCCGAACGC-1
+cell.ID:  ACATCAGCACCATGTA-1
+cell.ID:  ACATGGTGTTAAGATG-1
+cell.ID:  ACCGTAAAGCTCCCAG-1
+cell.ID:  ACGCAGCTCCCGACTT-1
+cell.ID:  ACTGTCCTCATGGTCA-1
+cell.ID:  AGGCCACCAAGGTGTG-1
+cell.ID:  AGGTCCGTCAAGAAGT-1
+cell.ID:  AGTAGTCAGCCATCGC-1
+cell.ID:  AGTAGTCTCCTCGCAT-1
+cell.ID:  AGTGAGGCAGGGATTG-1
+cell.ID:  ATTGGTGCATCGGAAG-1
+cell.ID:  CAACCTCAGAAGATTC-1
+cell.ID:  CAACCTCAGTTAACGA-1
+cell.ID:  CAAGATCTCTTCCTTC-1
+cell.ID:  CAAGGCCGTATATGAG-1
+cell.ID:  CACACAACATCTATGG-1
+cell.ID:  CACAGTATCTTGTTTG-1
+cell.ID:  CAGCGACTCTGTACGA-1
+cell.ID:  CAGTCCTCATGAAGTA-1
+cell.ID:  CATGCCTAGTTTAGGA-1
+cell.ID:  CCACTACAGCCCAGCT-1
+cell.ID:  CCCAGTTGTGATGCCC-1
+cell.ID:  CGGAGCTAGGCAGGTT-1
+cell.ID:  CGTGTAAAGGAACTGC-1
+cell.ID:  CGTTCTGGTAGAAAGG-1
+cell.ID:  CTAATGGGTGTTTGTG-1
+cell.ID:  CTCACACGTCCTGCTT-1
+cell.ID:  CTCAGAATCTCACATT-1
+cell.ID:  CTCTGGTCATTGTGCA-1
+cell.ID:  GAAATGAAGCCCAGCT-1
+cell.ID:  GAATAAGAGCACAGGT-1
+cell.ID:  GACGGCTCACGGTGTC-1
+cell.ID:  GACGGCTCATAACCTG-1
+cell.ID:  GAGGTGACAAGCCCAC-1
+cell.ID:  GATGAGGAGAAGGGTA-1
+cell.ID:  GCAATCACAGACGTAG-1
+cell.ID:  GCACATAGTCCTGCTT-1
+cell.ID:  GCAGTTAAGCTGCGAA-1
+cell.ID:  GCAGTTATCTGGTGTA-1
+cell.ID:  GCATGTATCCTTCAAT-1
+cell.ID:  GGAAAGCTCGCAAGCC-1
+cell.ID:  GGACATTCAAACCTAC-1
+cell.ID:  GGCAATTCACGAAGCA-1
+cell.ID:  GGCCGATGTAAGGGCT-1
+cell.ID:  GGGAGATGTGCAGTAG-1
+cell.ID:  GGGCATCGTCGGCATC-1
+cell.ID:  GTATTCTGTTGTTTGG-1
+cell.ID:  GTCACAAAGATCGATA-1
+cell.ID:  GTGGGTCTCTTGAGAC-1
+cell.ID:  TAAACCGTCAAGATCC-1
+cell.ID:  TACGGTATCAGTTAGC-1
+cell.ID:  TACTCATGTGATAAGT-1
+cell.ID:  TACTTACTCCACGCAG-1
+cell.ID:  TACTTGTAGGAATTAC-1
+cell.ID:  TAGGCATTCTTTACGT-1
+cell.ID:  TCAGATGCAATACGCT-1
+cell.ID:  TCAGCTCGTCATGCCG-1
+cell.ID:  TCGGTAAAGGCTCAGA-1
+cell.ID:  TGACTTTTCTATGTGG-1
+cell.ID:  TGAGAGGGTACGAAAT-1
+cell.ID:  TGAGGGACATGCAATC-1
+cell.ID:  TGCCCATAGGTACTCT-1
+cell.ID:  TGCGTGGCAAGTACCT-1
+cell.ID:  TGTCCCATCAGATAAG-1
+cell.ID:  TGTGGTACATCTCGCT-1
+cell.ID:  TTAGGCATCCTATGTT-1
+cell.ID:  TTCCCAGAGTCGATAA-1
+cell.ID:  TTCCCAGCAATGTAAG-1
+cell.ID:  TTCGAAGAGAAGCCCA-1
+cell.ID:  TTCTCAATCATCTGCC-1
+cell.ID:  TTGTAGGGTAAACCTC-1
+cell.ID:  TTTATGCCAGTGGGAT-1
+ID:  2.0_0
+index:  1
+P index:  0
+ST:  2.0
+T:  1
+cell.ID:  AAACGGGGTATCGCAT-1
+cell.ID:  AAAGTAGGTCAGGACA-1
+cell.ID:  AACTGGTCAAGCCGCT-1
+cell.ID:  AACTTTCAGGTGTTAA-1
+cell.ID:  AACTTTCCAATTCCTT-1
+cell.ID:  AAGACCTGTCGAGATG-1
+cell.ID:  AAGGCAGGTCAGGACA-1
+cell.ID:  AAGGCAGGTGGTCCGT-1
+cell.ID:  ACATCAGTCACCACCT-1
+cell.ID:  ACCCACTAGGCGCTCT-1
+cell.ID:  ACGAGGAAGCTGAACG-1
+cell.ID:  ACGAGGAGTTAGAACA-1
+cell.ID:  ACGATACGTGAGCGAT-1
+cell.ID:  ACGCAGCGTCTGATTG-1
+cell.ID:  ACGGCCAAGCCGATTT-1
+cell.ID:  ACGGGCTTCTGAGGGA-1
+cell.ID:  ACTGAACAGAGCTATA-1
+cell.ID:  AGAGCGAAGCACCGTC-1
+cell.ID:  AGAGCGAGTGATGATA-1
+cell.ID:  AGAGCGATCTACCTGC-1
+cell.ID:  AGAGCTTTCATCGGAT-1
+cell.ID:  AGCCTAATCTGTTTGT-1
+cell.ID:  AGCGTCGTCTACCAGA-1
+cell.ID:  AGCTCCTAGCACGCCT-1
+cell.ID:  AGGCCACAGGACACCA-1
+cell.ID:  AGGCCGTTCCAGATCA-1
+cell.ID:  AGTTGGTTCTTGAGGT-1
+cell.ID:  ATAGACCGTTAAAGAC-1
+cell.ID:  ATCGAGTAGAGGTAGA-1
+cell.ID:  ATGAGGGCACGCCAGT-1
+cell.ID:  ATGTGTGCAGTCCTTC-1
+cell.ID:  ATTGGTGAGCTGTTCA-1
+cell.ID:  CAACCTCGTTAGAACA-1
+cell.ID:  CAACTAGAGAGACGAA-1
+cell.ID:  CAACTAGCACTTAACG-1
+cell.ID:  CAAGAAACACTCGACG-1
+cell.ID:  CAAGTTGAGGCGATAC-1
+cell.ID:  CACACCTGTAACGCGA-1
+cell.ID:  CACACTCGTCAGATAA-1
+cell.ID:  CACAGTATCGTGTAGT-1
+cell.ID:  CACATAGTCTTCGAGA-1
+cell.ID:  CACCTTGCAGATTGCT-1
+cell.ID:  CAGCAGCCACGCGAAA-1
+cell.ID:  CAGCTAACACCCTATC-1
+cell.ID:  CAGCTGGGTCACCCAG-1
+cell.ID:  CAGTAACTCGGCTACG-1
+cell.ID:  CAGTCCTAGGACCACA-1
+cell.ID:  CATCAGATCAGAGCTT-1
+cell.ID:  CATCGAAGTTCGCTAA-1
+cell.ID:  CATGGCGCAAGTAGTA-1
+cell.ID:  CCAGCGAAGTGGTAAT-1
+cell.ID:  CCGGTAGCATAAGACA-1
+cell.ID:  CCTACCACATGACATC-1
+cell.ID:  CCTACCAGTCGAGTTT-1
+cell.ID:  CCTAGCTCAAGACACG-1
+cell.ID:  CCTAGCTTCCATTCTA-1
+cell.ID:  CGAACATGTAGCTGCC-1
+cell.ID:  CGACCTTCATTTCAGG-1
+cell.ID:  CGACCTTTCACCCGAG-1
+cell.ID:  CGATTGATCCCAGGTG-1
+cell.ID:  CGCTGGATCGAACTGT-1
+cell.ID:  CGCTTCACAGGATCGA-1
+cell.ID:  CGGACTGAGGCATGGT-1
+cell.ID:  CGGAGTCCATCGGTTA-1
+cell.ID:  CGGGTCACACCGGAAA-1
+cell.ID:  CGTAGGCGTTTGACAC-1
+cell.ID:  CGTCACTAGACGACGT-1
+cell.ID:  CGTCAGGTCAGCCTAA-1
+cell.ID:  CGTGAGCAGGAGTAGA-1
+cell.ID:  CGTTCTGCAGCCTGTG-1
+cell.ID:  CTACATTCACAGGCCT-1
+cell.ID:  CTACATTGTTCCGTCT-1
+cell.ID:  CTCGGAGCAGTGGGAT-1
+cell.ID:  CTCGTCATCAGGCAAG-1
+cell.ID:  CTCGTCATCTGCAGTA-1
+cell.ID:  CTCTAATGTGACCAAG-1
+cell.ID:  CTGATCCCACCGCTAG-1
+cell.ID:  CTGATCCTCGGCTTGG-1
+cell.ID:  CTGCCTAGTACTTGAC-1
+cell.ID:  CTTACCGCAACGATGG-1
+cell.ID:  CTTACCGGTCATTAGC-1
+cell.ID:  GAACGGATCTGCAGTA-1
+cell.ID:  GAAGCAGAGAACAATC-1
+cell.ID:  GAAGCAGTCACTTATC-1
+cell.ID:  GAATAAGGTACCCAAT-1
+cell.ID:  GACCAATGTCTGGAGA-1
+cell.ID:  GACTAACAGCGTAGTG-1
+cell.ID:  GACTACAGTCCGTCAG-1
+cell.ID:  GAGCAGACACCCTATC-1
+cell.ID:  GAGGTGAAGGATGGTC-1
+cell.ID:  GATCAGTTCACTCTTA-1
+cell.ID:  GATCGATTCATAAAGG-1
+cell.ID:  GCAATCATCAGTTAGC-1
+cell.ID:  GCAGTTAGTTACTGAC-1
+cell.ID:  GCCAAATGTTCCACAA-1
+cell.ID:  GCCTCTACAAATACAG-1
+cell.ID:  GCTGCGAGTCGACTAT-1
+cell.ID:  GGCGTGTCATTGTGCA-1
+cell.ID:  GGGACCTCATAGACTC-1
+cell.ID:  GGGAGATGTAAAGTCA-1
+cell.ID:  GGTGCGTGTTGTACAC-1
+cell.ID:  GTAACGTGTTCCACAA-1
+cell.ID:  GTACTCCTCCCGACTT-1
+cell.ID:  GTACTTTGTGCACTTA-1
+cell.ID:  GTAGGCCAGATCGGGT-1
+cell.ID:  GTAGGCCTCACCCTCA-1
+cell.ID:  GTCGGGTCAAGTAGTA-1
+cell.ID:  GTCGGGTTCTGGTGTA-1
+cell.ID:  GTCTTCGGTCTAGAGG-1
+cell.ID:  GTCTTCGGTGTCGCTG-1
+cell.ID:  GTGCGGTGTATTCGTG-1
+cell.ID:  GTTTCTATCACAAACC-1
+cell.ID:  TACAGTGGTAAGGGAA-1
+cell.ID:  TACTCATAGTACCGGA-1
+cell.ID:  TAGACCAAGAGTCTGG-1
+cell.ID:  TAGCCGGCAAGTACCT-1
+cell.ID:  TAGGCATTCCACGTTC-1
+cell.ID:  TATTACCAGGCTAGAC-1
+cell.ID:  TCAGCTCTCGTCTGAA-1
+cell.ID:  TCGCGAGAGAAACGAG-1
+cell.ID:  TCGGGACAGTCCCACG-1
+cell.ID:  TCTATTGCAGAGTGTG-1
+cell.ID:  TCTATTGCAGCTGTTA-1
+cell.ID:  TCTTTCCAGGTCGGAT-1
+cell.ID:  TGAGAGGCAAGGGTCA-1
+cell.ID:  TGAGAGGGTCAACTGT-1
+cell.ID:  TGAGCCGGTACGCACC-1
+cell.ID:  TGAGGGAAGCACCGTC-1
+cell.ID:  TGCCAAAAGACTAAGT-1
+cell.ID:  TGCTGCTCACAGGTTT-1
+cell.ID:  TGCTGCTCACGGATAG-1
+cell.ID:  TGGCGCATCCACGAAT-1
+cell.ID:  TGGCTGGGTGTGGTTT-1
+cell.ID:  TGTGGTAAGTTAAGTG-1
+cell.ID:  TGTGGTAGTACTCAAC-1
+cell.ID:  TTCGGTCGTTTGGGCC-1
+cell.ID:  TTCTCAATCCCATTTA-1
+cell.ID:  TTGCGTCAGCGAAGGG-1
+cell.ID:  TTTATGCGTTAAGATG-1
+cell.ID:  TTTGGTTGTGTTTGTG-1
+ID:  3.0_0
+index:  2
+P index:  1
+ST:  3.0
+T:  2
+cell.ID:  AAAGATGAGGACCACA-1
+cell.ID:  AAAGATGCAATCTGCA-1
+cell.ID:  AAAGATGGTGCAGGTA-1
+cell.ID:  AAAGATGGTTTGTTTC-1
+cell.ID:  AAAGTAGAGCTGTCTA-1
+cell.ID:  AAATGCCAGGGATACC-1
+cell.ID:  AACACGTAGTGTTGAA-1
+cell.ID:  AACCATGGTGGACGAT-1
+cell.ID:  AACGTTGAGTTCCACA-1
+cell.ID:  AACGTTGCATTCTCAT-1
+cell.ID:  AACTCAGGTTACGCGC-1
+cell.ID:  AACTCCCCAGTTCATG-1
+cell.ID:  AACTCTTTCTGCTGTC-1
+cell.ID:  AACTGGTTCGATCCCT-1
+cell.ID:  AACTGGTTCGTCCAGG-1
+cell.ID:  AACTTTCAGGTACTCT-1
+cell.ID:  AACTTTCTCCACTCCA-1
+cell.ID:  AAGACCTGTGCCTGTG-1
+cell.ID:  AAGCCGCCAGCTTCGG-1
+cell.ID:  AAGCCGCGTTCTGTTT-1
+cell.ID:  AAGGAGCTCTTCATGT-1
+cell.ID:  AAGGTTCTCTGCGTAA-1
+cell.ID:  ACACCGGGTGTGCCTG-1
+cell.ID:  ACAGCCGGTGAGTATA-1
+cell.ID:  ACATACGAGGCTAGAC-1
+cell.ID:  ACATACGAGTAGCCGA-1
+cell.ID:  ACATACGTCCTGTACC-1
+cell.ID:  ACATCAGCAATGAATG-1
+cell.ID:  ACATCAGCAGTGGAGT-1
+cell.ID:  ACCCACTAGCTAAACA-1
+cell.ID:  ACCGTAACAATACGCT-1
+cell.ID:  ACCTTTATCTACTATC-1
+cell.ID:  ACCTTTATCTCTGTCG-1
+cell.ID:  ACGAGCCAGTTCGATC-1
+cell.ID:  ACGAGCCGTGCTTCTC-1
+cell.ID:  ACGAGCCGTTGTCGCG-1
+cell.ID:  ACGATACGTTAAAGAC-1
+cell.ID:  ACGCCAGCAGGCGATA-1
+cell.ID:  ACGCCGAAGGAGTACC-1
+cell.ID:  ACGCCGATCACGCATA-1
+cell.ID:  ACGCCGATCGCCTGAG-1
+cell.ID:  ACGGCCATCAATAAGG-1
+cell.ID:  ACGGGCTCATCCGTGG-1
+cell.ID:  ACGGGTCCATGGTCTA-1
+cell.ID:  ACGGGTCGTGCGATAG-1
+cell.ID:  ACGGGTCGTTCTGTTT-1
+cell.ID:  ACTGAGTAGCCCAACC-1
+cell.ID:  ACTGAGTAGCCGCCTA-1
+cell.ID:  ACTGAGTCAAGGACTG-1
+cell.ID:  ACTGATGAGCAGGTCA-1
+cell.ID:  ACTGATGCACTAAGTC-1
+cell.ID:  ACTGTCCAGGGCATGT-1
+cell.ID:  ACTGTCCTCCTCAACC-1
+cell.ID:  ACTTTCATCACGGTTA-1
+cell.ID:  AGAATAGTCCCATTTA-1
+cell.ID:  AGACGTTAGTCTCGGC-1
+cell.ID:  AGAGCGAAGCGCTCCA-1
+cell.ID:  AGAGCTTAGACTTTCG-1
+cell.ID:  AGAGCTTTCAATAAGG-1
+cell.ID:  AGAGCTTTCGATGAGG-1
+cell.ID:  AGAGTGGAGGGCTTCC-1
+cell.ID:  AGAGTGGAGTGCGTGA-1
+cell.ID:  AGAGTGGCAGACGTAG-1
+cell.ID:  AGAGTGGGTCTCCATC-1
+cell.ID:  AGAGTGGGTGGACGAT-1
+cell.ID:  AGCAGCCAGCGATGAC-1
+cell.ID:  AGCAGCCGTAAGTAGT-1
+cell.ID:  AGCGGTCTCGCGGATC-1
+cell.ID:  AGCGTATCAATAGCAA-1
+cell.ID:  AGCGTCGGTCGGATCC-1
+cell.ID:  AGCGTCGGTCTTCAAG-1
+cell.ID:  AGGCCACAGTTGAGAT-1
+cell.ID:  AGGCCACCACAGTCGC-1
+cell.ID:  AGGCCACTCGTGACAT-1
+cell.ID:  AGGGATGAGTGGACGT-1
+cell.ID:  AGGGTGAAGAGGGCTT-1
+cell.ID:  AGGGTGAGTGAGTATA-1
+cell.ID:  AGGTCATCAGTGAGTG-1
+cell.ID:  AGGTCATGTTTAAGCC-1
+cell.ID:  AGTAGTCCACGTCTCT-1
+cell.ID:  AGTAGTCTCGTACCGG-1
+cell.ID:  AGTCTTTTCACAATGC-1
+cell.ID:  AGTGTCAGTAAAGGAG-1
+cell.ID:  AGTTGGTGTGAGCGAT-1
+cell.ID:  ATAAGAGTCCAATGGT-1
+cell.ID:  ATAGACCAGTAGTGCG-1
+cell.ID:  ATCACGACATGCCCGA-1
+cell.ID:  ATCATCTAGATCACGG-1
+cell.ID:  ATCATCTCAGCTTAAC-1
+cell.ID:  ATCATGGAGTGTCTCA-1
+cell.ID:  ATCATGGGTCCTCTTG-1
+cell.ID:  ATCCACCCATTCTCAT-1
+cell.ID:  ATCGAGTAGGCGCTCT-1
+cell.ID:  ATCGAGTCACAAGACG-1
+cell.ID:  ATCGAGTCACAGCGTC-1
+cell.ID:  ATCGAGTGTCTACCTC-1
+cell.ID:  ATCTACTCAGATAATG-1
+cell.ID:  ATCTACTGTAGAGCTG-1
+cell.ID:  ATCTGCCAGGTCGGAT-1
+cell.ID:  ATCTGCCGTCTCTCGT-1
+cell.ID:  ATCTGCCTCCAAACAC-1
+cell.ID:  ATGCGATAGATCACGG-1
+cell.ID:  ATGGGAGGTCTCTTTA-1
+cell.ID:  ATGTGTGCATTATCTC-1
+cell.ID:  ATTACTCGTGTGAAAT-1
+cell.ID:  ATTCTACTCTGGAGCC-1
+cell.ID:  ATTGGACTCTACTATC-1
+cell.ID:  ATTGGTGTCGGTGTCG-1
+cell.ID:  CAACCAACAATGGAGC-1
+cell.ID:  CAACCAATCACCACCT-1
+cell.ID:  CAACCAATCACGATGT-1
+cell.ID:  CAACTAGAGGCTATCT-1
+cell.ID:  CAACTAGTCACATACG-1
+cell.ID:  CAAGAAACACCACCAG-1
+cell.ID:  CAAGATCGTATGGTTC-1
+cell.ID:  CAAGGCCCAAGTTGTC-1
+cell.ID:  CAAGGCCGTCTAAAGA-1
+cell.ID:  CAAGGCCTCCTTTCGG-1
+cell.ID:  CAAGTTGAGCCACTAT-1
+cell.ID:  CAAGTTGCAGGTGCCT-1
+cell.ID:  CAAGTTGTCCGTCATC-1
+cell.ID:  CACAAACAGTGGGCTA-1
+cell.ID:  CACAAACCATGGATGG-1
+cell.ID:  CACACCTAGTGAAGTT-1
+cell.ID:  CACACCTCACCTCGGA-1
+cell.ID:  CACACCTCACGGACAA-1
+cell.ID:  CACACCTTCAGTCAGT-1
+cell.ID:  CACACTCAGAAGGGTA-1
+cell.ID:  CACACTCAGTTCCACA-1
+cell.ID:  CACAGGCGTAAGGGAA-1
+cell.ID:  CACAGGCTCAGTCCCT-1
+cell.ID:  CACAGGCTCCACTCCA-1
+cell.ID:  CACATTTCATGCAATC-1
+cell.ID:  CACATTTGTAATCACC-1
+cell.ID:  CACATTTTCCGTCATC-1
+cell.ID:  CACCACTGTGCTTCTC-1
+cell.ID:  CACCAGGCACACCGCA-1
+cell.ID:  CACCAGGCATGTAAGA-1
+cell.ID:  CACCTTGAGTACGTTC-1
+cell.ID:  CACCTTGGTCGAAAGC-1
+cell.ID:  CAGAATCAGCTAGTTC-1
+cell.ID:  CAGAATCGTTGTTTGG-1
+cell.ID:  CAGATCAGTCTAGAGG-1
+cell.ID:  CAGCAGCAGACCGGAT-1
+cell.ID:  CAGCAGCCATTGGGCC-1
+cell.ID:  CAGCTAAAGTTGCAGG-1
+cell.ID:  CAGCTGGTCCACGCAG-1
+cell.ID:  CAGGTGCCAACGATGG-1
+cell.ID:  CAGGTGCCATGCGCAC-1
+cell.ID:  CAGTAACTCGAACGGA-1
+cell.ID:  CATATGGGTTGCTCCT-1
+cell.ID:  CATATTCCATGCTAGT-1
+cell.ID:  CATATTCGTCCGCTGA-1
+cell.ID:  CATATTCTCCGCGTTT-1
+cell.ID:  CATCAAGCATCTCCCA-1
+cell.ID:  CATCAAGGTGGACGAT-1
+cell.ID:  CATCAAGTCGCATGGC-1
+cell.ID:  CATCAGATCCGAACGC-1
+cell.ID:  CATCCACAGCTAACAA-1
+cell.ID:  CATCGGGGTTGAACTC-1
+cell.ID:  CATGACAAGAGCCTAG-1
+cell.ID:  CATGCCTGTCTAGCGC-1
+cell.ID:  CATGGCGGTTCGCGAC-1
+cell.ID:  CATTATCCACGAAATA-1
+cell.ID:  CATTATCGTAGCGCTC-1
+cell.ID:  CCACCTAAGAAGATTC-1
+cell.ID:  CCACCTAAGGTGACCA-1
+cell.ID:  CCACCTACAGTGACAG-1
+cell.ID:  CCACCTAGTGGCCCTA-1
+cell.ID:  CCACCTATCCGCATAA-1
+cell.ID:  CCACGGAGTTCGTCTC-1
+cell.ID:  CCACGGATCCAACCAA-1
+cell.ID:  CCACTACAGGAATTAC-1
+cell.ID:  CCAGCGAGTAGATTAG-1
+cell.ID:  CCATGTCGTCAGAGGT-1
+cell.ID:  CCCAATCGTGCTAGCC-1
+cell.ID:  CCCATACAGTCCGTAT-1
+cell.ID:  CCGGTAGCATCACGTA-1
+cell.ID:  CCGGTAGCATTACGAC-1
+cell.ID:  CCGGTAGTCATTCACT-1
+cell.ID:  CCGTACTCAGCAGTTT-1
+cell.ID:  CCGTGGAAGTTATCGC-1
+cell.ID:  CCGTGGAGTGGTAACG-1
+cell.ID:  CCGTGGAGTTCAGGCC-1
+cell.ID:  CCGTTCAAGATGTTAG-1
+cell.ID:  CCTACCACAGCGTTCG-1
+cell.ID:  CCTAGCTCAAACGTGG-1
+cell.ID:  CCTAGCTTCCTTCAAT-1
+cell.ID:  CCTCAGTTCGGATGGA-1
+cell.ID:  CCTCTGACAGGAATGC-1
+cell.ID:  CCTTACGCAAAGTGCG-1
+cell.ID:  CCTTCCCTCATGCAAC-1
+cell.ID:  CCTTCGAGTACCCAAT-1
+cell.ID:  CCTTTCTTCTCCAACC-1
+cell.ID:  CGAATGTAGAGTCGGT-1
+cell.ID:  CGAATGTGTACAGACG-1
+cell.ID:  CGACCTTAGTTGAGAT-1
+cell.ID:  CGAGAAGAGCGATGAC-1
+cell.ID:  CGAGCACCACACCGAC-1
+cell.ID:  CGAGCACCATAAGACA-1
+cell.ID:  CGAGCACGTCAAGCGA-1
+cell.ID:  CGAGCACGTTCAGTAC-1
+cell.ID:  CGATCGGAGTGAATTG-1
+cell.ID:  CGATGGCGTACGACCC-1
+cell.ID:  CGATGGCGTATTACCG-1
+cell.ID:  CGCGGTAAGGGATACC-1
+cell.ID:  CGCGGTATCACCACCT-1
+cell.ID:  CGCTGGATCTGCCAGG-1
+cell.ID:  CGGACACGTCTGGAGA-1
+cell.ID:  CGGACGTGTGTTGGGA-1
+cell.ID:  CGGACTGAGCCAGGAT-1
+cell.ID:  CGGCTAGCATATGGTC-1
+cell.ID:  CGGCTAGCATGTCGAT-1
+cell.ID:  CGGCTAGGTGAGTGAC-1
+cell.ID:  CGGCTAGGTGGTACAG-1
+cell.ID:  CGTAGCGGTGTGCCTG-1
+cell.ID:  CGTCACTTCTGAAAGA-1
+cell.ID:  CGTCCATTCAAACGGG-1
+cell.ID:  CGTCTACAGATGGGTC-1
+cell.ID:  CGTGTAATCGATAGAA-1
+cell.ID:  CGTGTCTGTCATACTG-1
+cell.ID:  CGTGTCTTCGCGTAGC-1
+cell.ID:  CGTTAGACAGTGACAG-1
+cell.ID:  CGTTAGATCAGCGACC-1
+cell.ID:  CGTTGGGGTCAACTGT-1
+cell.ID:  CTAAGACAGATAGTCA-1
+cell.ID:  CTAAGACTCAACGAAA-1
+cell.ID:  CTAATGGCAGTCAGAG-1
+cell.ID:  CTAATGGTCGTCTGCT-1
+cell.ID:  CTACACCGTCGCATAT-1
+cell.ID:  CTACACCGTCGTGGCT-1
+cell.ID:  CTACACCTCTTGAGAC-1
+cell.ID:  CTACCCATCGCATGGC-1
+cell.ID:  CTAGAGTCAAACTGTC-1
+cell.ID:  CTAGAGTGTGTTAAGA-1
+cell.ID:  CTAGCCTAGCCACCTG-1
+cell.ID:  CTAGCCTGTACAGACG-1
+cell.ID:  CTCAGAAAGCCAGTAG-1
+cell.ID:  CTCATTAAGGATCGCA-1
+cell.ID:  CTCATTATCTTTAGGG-1
+cell.ID:  CTCCTAGAGTACTTGC-1
+cell.ID:  CTCCTAGAGTGCCAGA-1
+cell.ID:  CTCGAAAGTACCGTTA-1
+cell.ID:  CTCGAGGGTAGCTGCC-1
+cell.ID:  CTCGAGGTCAGTGTTG-1
+cell.ID:  CTCGGAGAGTGACTCT-1
+cell.ID:  CTCGGAGCACCGGAAA-1
+cell.ID:  CTCGTCAAGGCACATG-1
+cell.ID:  CTCGTCAGTATATCCG-1
+cell.ID:  CTCGTCATCCACGCAG-1
+cell.ID:  CTCGTCATCGACGGAA-1
+cell.ID:  CTCTAATAGCTAAGAT-1
+cell.ID:  CTCTACGAGTGAACAT-1
+cell.ID:  CTCTGGTAGAGTTGGC-1
+cell.ID:  CTGAAACTCTCTTATG-1
+cell.ID:  CTGAAACTCTTTAGGG-1
+cell.ID:  CTGAAGTGTGGCAAAC-1
+cell.ID:  CTGATCCGTAGCCTAT-1
+cell.ID:  CTGGTCTGTCTAGGTT-1
+cell.ID:  CTGTGCTCATGTTCCC-1
+cell.ID:  CTGTGCTGTTGTACAC-1
+cell.ID:  CTGTGCTTCAAGAAGT-1
+cell.ID:  CTGTGCTTCATGCATG-1
+cell.ID:  CTGTTTACACGAAGCA-1
+cell.ID:  CTGTTTATCCTGCTTG-1
+cell.ID:  CTTACCGAGGGTCTCC-1
+cell.ID:  CTTACCGCAAGAGGCT-1
+cell.ID:  CTTACCGTCGGACAAG-1
+cell.ID:  CTTAGGATCTCCGGTT-1
+cell.ID:  CTTGGCTCACATTAGC-1
+cell.ID:  CTTGGCTGTCGAGATG-1
+cell.ID:  CTTTGCGAGGGAGTAA-1
+cell.ID:  GAAACTCGTAGCCTAT-1
+cell.ID:  GAAATGACAGGTTTCA-1
+cell.ID:  GAAATGAGTTCATGGT-1
+cell.ID:  GAACGGAAGAAGAAGC-1
+cell.ID:  GAAGCAGCATTATCTC-1
+cell.ID:  GACGGCTCAGGCTGAA-1
+cell.ID:  GACGGCTTCTTGGGTA-1
+cell.ID:  GACTACACATCTCCCA-1
+cell.ID:  GAGCAGATCAACACTG-1
+cell.ID:  GAGCAGATCGGAGCAA-1
+cell.ID:  GAGGTGATCGTGGACC-1
+cell.ID:  GAGGTGATCGTGGTCG-1
+cell.ID:  GAGTCCGCATAGGATA-1
+cell.ID:  GATCAGTTCCATGCTC-1
+cell.ID:  GATGAGGTCCGTCAAA-1
+cell.ID:  GCAAACTAGTATCTCG-1
+cell.ID:  GCAAACTTCAACGCTA-1
+cell.ID:  GCAAACTTCACTGGGC-1
+cell.ID:  GCAATCACAATCTGCA-1
+cell.ID:  GCAATCATCCAGATCA-1
+cell.ID:  GCAATCATCGTGGACC-1
+cell.ID:  GCACTCTAGGTACTCT-1
+cell.ID:  GCACTCTTCGGCGCAT-1
+cell.ID:  GCACTCTTCTGTCTCG-1
+cell.ID:  GCAGTTACAATAACGA-1
+cell.ID:  GCAGTTATCTCCGGTT-1
+cell.ID:  GCATACAAGTGGACGT-1
+cell.ID:  GCCTCTAAGCACAGGT-1
+cell.ID:  GCCTCTAGTTCGCGAC-1
+cell.ID:  GCGAGAAAGACTAGGC-1
+cell.ID:  GCGAGAATCTCGATGA-1
+cell.ID:  GCGCCAAGTCTTCGTC-1
+cell.ID:  GCGCGATCAACTTGAC-1
+cell.ID:  GCGGGTTCACCGAATT-1
+cell.ID:  GCGGGTTTCAGTACGT-1
+cell.ID:  GCTGCAGCAGACACTT-1
+cell.ID:  GCTGCAGGTCGCCATG-1
+cell.ID:  GCTGCTTAGTGCCATT-1
+cell.ID:  GCTGCTTTCACATACG-1
+cell.ID:  GCTTGAAAGTGTTTGC-1
+cell.ID:  GCTTGAACAATAACGA-1
+cell.ID:  GGAAAGCCAAGCCCAC-1
+cell.ID:  GGAAAGCCAAGCGCTC-1
+cell.ID:  GGAACTTAGGATCGCA-1
+cell.ID:  GGAACTTTCCAAACAC-1
+cell.ID:  GGAATAAAGCGTTCCG-1
+cell.ID:  GGACAAGGTTCTCATT-1
+cell.ID:  GGACAGAAGTGCAAGC-1
+cell.ID:  GGACAGATCCGTAGTA-1
+cell.ID:  GGACATTAGAAGGACA-1
+cell.ID:  GGACGTCGTGTAATGA-1
+cell.ID:  GGAGCAACATCTACGA-1
+cell.ID:  GGAGCAATCGTGGTCG-1
+cell.ID:  GGCAATTTCCCTAATT-1
+cell.ID:  GGCGTGTGTAGCACGA-1
+cell.ID:  GGCTCGAAGAACAATC-1
+cell.ID:  GGCTCGATCTACGAGT-1
+cell.ID:  GGCTGGTCAAGGTGTG-1
+cell.ID:  GGGCACTAGGGAACGG-1
+cell.ID:  GGGCACTAGGGAGTAA-1
+cell.ID:  GGGCACTTCGGCGCTA-1
+cell.ID:  GGGTCTGCACGGCTAC-1
+cell.ID:  GGGTCTGGTTCAACCA-1
+cell.ID:  GGGTCTGTCTCACATT-1
+cell.ID:  GGGTTGCCAAGTAATG-1
+cell.ID:  GGTATTGAGTCACGCC-1
+cell.ID:  GGTATTGGTTATTCTC-1
+cell.ID:  GGTATTGTCCTGTAGA-1
+cell.ID:  GGTGAAGAGCTATGCT-1
+cell.ID:  GGTGTTAAGCGTTTAC-1
+cell.ID:  GTACTCCTCTACTCAT-1
+cell.ID:  GTACTTTAGTTAAGTG-1
+cell.ID:  GTAGTCATCAGAAATG-1
+cell.ID:  GTATTCTGTCGCATAT-1
+cell.ID:  GTATTCTTCGGAATCT-1
+cell.ID:  GTCAAGTGTGTATGGG-1
+cell.ID:  GTCACGGCAGACACTT-1
+cell.ID:  GTCACGGGTCGCGGTT-1
+cell.ID:  GTCATTTCACAGGTTT-1
+cell.ID:  GTCATTTGTACAGTTC-1
+cell.ID:  GTCATTTTCAACCAAC-1
+cell.ID:  GTCCTCAGTAGCAAAT-1
+cell.ID:  GTCGGGTGTCAAAGCG-1
+cell.ID:  GTCGTAAGTACTCGCG-1
+cell.ID:  GTCTCGTAGCCACGCT-1
+cell.ID:  GTCTTCGTCAGCACAT-1
+cell.ID:  GTCTTCGTCGATAGAA-1
+cell.ID:  GTGCAGCAGGAATGGA-1
+cell.ID:  GTGCATATCCTGTACC-1
+cell.ID:  GTGCGGTAGACGCTTT-1
+cell.ID:  GTGCGGTTCACCCTCA-1
+cell.ID:  GTGCTTCAGTGTACCT-1
+cell.ID:  GTGCTTCTCATATCGG-1
+cell.ID:  GTGGGTCTCGTTGCCT-1
+cell.ID:  GTGTGCGTCGAATGGG-1
+cell.ID:  GTTAAGCGTCAACTGT-1
+cell.ID:  GTTACAGGTCAGAGGT-1
+cell.ID:  GTTCATTCAATTCCTT-1
+cell.ID:  GTTCTCGCAAGTAGTA-1
+cell.ID:  GTTCTCGTCATTTGGG-1
+cell.ID:  GTTTCTACAAATACAG-1
+cell.ID:  GTTTCTAGTCAATACC-1
+cell.ID:  TAAACCGCAGGATCGA-1
+cell.ID:  TAAACCGTCCCGGATG-1
+cell.ID:  TAAACCGTCGTGGGAA-1
+cell.ID:  TAAGAGACATTCCTCG-1
+cell.ID:  TAAGCGTCAAACCCAT-1
+cell.ID:  TAAGCGTGTTCAGGCC-1
+cell.ID:  TACACGATCCTTAATC-1
+cell.ID:  TACAGTGGTGGGTCAA-1
+cell.ID:  TACAGTGTCAGTGTTG-1
+cell.ID:  TACAGTGTCTATCCCG-1
+cell.ID:  TACCTATCATTTCACT-1
+cell.ID:  TACCTATGTATTAGCC-1
+cell.ID:  TACCTATTCACGATGT-1
+cell.ID:  TACCTTACAAGTAGTA-1
+cell.ID:  TACCTTATCGAACTGT-1
+cell.ID:  TACGGATCATTAACCG-1
+cell.ID:  TACGGATGTGTCCTCT-1
+cell.ID:  TACGGTACACTTAAGC-1
+cell.ID:  TACGGTATCCACGACG-1
+cell.ID:  TAGTGGTAGAATTCCC-1
+cell.ID:  TAGTGGTAGACCTTTG-1
+cell.ID:  TAGTGGTTCAAACCGT-1
+cell.ID:  TAGTGGTTCCAACCAA-1
+cell.ID:  TAGTGGTTCCACTCCA-1
+cell.ID:  TAGTTGGTCTCCTATA-1
+cell.ID:  TATCTCAGTGTTAAGA-1
+cell.ID:  TATTACCCATGCAACT-1
+cell.ID:  TCAACGACAGATGGGT-1
+cell.ID:  TCAACGATCTTGAGAC-1
+cell.ID:  TCACAAGGTTGAACTC-1
+cell.ID:  TCACAAGTCCCAAGAT-1
+cell.ID:  TCAGATGCAGTAACGG-1
+cell.ID:  TCAGATGGTATAGGGC-1
+cell.ID:  TCAGATGGTTATCGGT-1
+cell.ID:  TCAGATGTCCATGAGT-1
+cell.ID:  TCAGCAAGTGGTTTCA-1
+cell.ID:  TCAGGATGTACGCACC-1
+cell.ID:  TCAGGTAAGCCAACAG-1
+cell.ID:  TCAGGTACATGTCCTC-1
+cell.ID:  TCAGGTAGTCCGTTAA-1
+cell.ID:  TCCACACTCTCCGGTT-1
+cell.ID:  TCCCGATTCGATGAGG-1
+cell.ID:  TCGAGGCCATCCGCGA-1
+cell.ID:  TCGCGAGAGAGTAATC-1
+cell.ID:  TCGCGAGTCTGTCTCG-1
+cell.ID:  TCGCGTTGTATTCTCT-1
+cell.ID:  TCGCGTTTCTCGCATC-1
+cell.ID:  TCGGGACCACGAGGTA-1
+cell.ID:  TCGTACCAGCCAGAAC-1
+cell.ID:  TCGTACCCAGTGAGTG-1
+cell.ID:  TCGTACCTCATTGCCC-1
+cell.ID:  TCTATTGAGATGTCGG-1
+cell.ID:  TCTCATAGTAATAGCA-1
+cell.ID:  TCTCATAGTACCCAAT-1
+cell.ID:  TCTCTAAAGTCGTACT-1
+cell.ID:  TCTCTAAAGTTAAGTG-1
+cell.ID:  TCTGAGAGTTCGCTAA-1
+cell.ID:  TCTGAGATCGCCATAA-1
+cell.ID:  TCTGGAACAAGACGTG-1
+cell.ID:  TCTTTCCGTCTGCCAG-1
+cell.ID:  TGACAACAGTACGACG-1
+cell.ID:  TGACGGCGTTTGTGTG-1
+cell.ID:  TGACTTTAGGTGATTA-1
+cell.ID:  TGAGAGGAGGCATGTG-1
+cell.ID:  TGAGAGGCAATAGAGT-1
+cell.ID:  TGAGCATAGCCGGTAA-1
+cell.ID:  TGAGCCGCAACAACCT-1
+cell.ID:  TGAGCCGGTAAATACG-1
+cell.ID:  TGATTTCGTCTCCACT-1
+cell.ID:  TGCACCTTCCCATTAT-1
+cell.ID:  TGCACCTTCTGCTTGC-1
+cell.ID:  TGCCAAAGTGCCTTGG-1
+cell.ID:  TGCCCATAGAGGTTAT-1
+cell.ID:  TGCCCTAGTCTCGTTC-1
+cell.ID:  TGCGCAGGTCTAGGTT-1
+cell.ID:  TGCGTGGTCTTGTACT-1
+cell.ID:  TGCTGCTGTGTTCGAT-1
+cell.ID:  TGGACGCCACAGACAG-1
+cell.ID:  TGGACGCTCCCATTAT-1
+cell.ID:  TGGACGCTCTTGAGAC-1
+cell.ID:  TGGCCAGGTACGACCC-1
+cell.ID:  TGGCGCAAGGAGCGAG-1
+cell.ID:  TGGCGCACATTCGACA-1
+cell.ID:  TGGCGCAGTCCGCTGA-1
+cell.ID:  TGGCGCAGTGCCTGCA-1
+cell.ID:  TGGTTAGAGATCTGAA-1
+cell.ID:  TGTCCCAAGACTGTAA-1
+cell.ID:  TGTCCCAGTTCGCGAC-1
+cell.ID:  TGTGGTAAGCACACAG-1
+cell.ID:  TGTGGTAAGGGTATCG-1
+cell.ID:  TGTGGTAGTGGGTCAA-1
+cell.ID:  TGTGGTATCAACGAAA-1
+cell.ID:  TGTGTTTCATAGAAAC-1
+cell.ID:  TGTGTTTTCTGGGCCA-1
+cell.ID:  TGTTCCGCACCAGTTA-1
+cell.ID:  TTAGGCACACCTGGTG-1
+cell.ID:  TTAGGCAGTAGCTCCG-1
+cell.ID:  TTAGTTCAGATGGCGT-1
+cell.ID:  TTAGTTCAGCTAGTCT-1
+cell.ID:  TTAGTTCAGGCAAAGA-1
+cell.ID:  TTAGTTCCATTCTTAC-1
+cell.ID:  TTATGCTAGCATGGCA-1
+cell.ID:  TTATGCTCACGTGAGA-1
+cell.ID:  TTCTCAACACAAGCCC-1
+cell.ID:  TTCTCAATCGTATCAG-1
+cell.ID:  TTCTCAATCGTGGACC-1
+cell.ID:  TTCTTAGGTAAACGCG-1
+cell.ID:  TTGAACGGTTGCGCAC-1
+cell.ID:  TTGAACGTCCTCAACC-1
+cell.ID:  TTGAACGTCCTGCAGG-1
+cell.ID:  TTGACTTTCACAGTAC-1
+cell.ID:  TTGGAACCATGTCTCC-1
+cell.ID:  TTGGCAAAGCGATGAC-1
+cell.ID:  TTGGCAAGTAGTAGTA-1
+cell.ID:  TTGGCAAGTGTGGCTC-1
+cell.ID:  TTTCCTCTCACATACG-1
+cell.ID:  TTTGCGCCACTCTGTC-1
+cell.ID:  TTTGCGCCAGGGAGAG-1
+cell.ID:  TTTGGTTCAATGGAGC-1
+cell.ID:  TTTGTCACAAGTCATC-1
+cell.ID:  TTTGTCACACTTGGAT-1
+ID:  4.0_1
+index:  3
+P index:  2
+ST:  4.0
+T:  3
+cell.ID:  AACCATGCATATGCTG-1
+cell.ID:  AACCGCGTCCTTGCCA-1
+cell.ID:  AAGCCGCGTTTAAGCC-1
+cell.ID:  AAGTCTGGTTAGATGA-1
+cell.ID:  ACAGCCGCACCGCTAG-1
+cell.ID:  ACAGCTATCAACACGT-1
+cell.ID:  ACGAGCCAGCACCGCT-1
+cell.ID:  ACGCCGAGTACCGTTA-1
+cell.ID:  ACGGCCAAGGCGTACA-1
+cell.ID:  ACGGGTCAGATATGGT-1
+cell.ID:  ACGTCAAAGTTCGCGC-1
+cell.ID:  ACTGAGTGTATATGGA-1
+cell.ID:  ACTTACTCACCAGGTC-1
+cell.ID:  AGAATAGAGGCTACGA-1
+cell.ID:  AGAGCGAGTCTACCTC-1
+cell.ID:  AGCATACCAAGCCGCT-1
+cell.ID:  AGGGATGTCTGTCCGT-1
+cell.ID:  AGTGGGATCGGATGGA-1
+cell.ID:  AGTTGGTCAGGTCGTC-1
+cell.ID:  AGTTGGTCAGTCGATT-1
+cell.ID:  ATCATGGTCCGAACGC-1
+cell.ID:  ATCCACCCAGTTAACC-1
+cell.ID:  ATCCGAACATAGTAAG-1
+cell.ID:  ATCGAGTAGCTGATAA-1
+cell.ID:  ATCTGCCCATCAGTCA-1
+cell.ID:  ATGAGGGTCAGGTAAA-1
+cell.ID:  CACACAAAGCTGCAAG-1
+cell.ID:  CACACCTGTGTGCCTG-1
+cell.ID:  CACTCCATCAGTGTTG-1
+cell.ID:  CAGAATCAGCCGGTAA-1
+cell.ID:  CAGCAGCAGTATCTCG-1
+cell.ID:  CAGCCGATCTCTGTCG-1
+cell.ID:  CAGCTGGAGCTCCTTC-1
+cell.ID:  CATGACAGTCTTGTCC-1
+cell.ID:  CATTATCTCCGCGTTT-1
+cell.ID:  CCATTCGAGACGCTTT-1
+cell.ID:  CCGTACTGTGTAATGA-1
+cell.ID:  CCTACACTCCGTAGTA-1
+cell.ID:  CCTATTAGTCTTCTCG-1
+cell.ID:  CCTATTATCGCTGATA-1
+cell.ID:  CCTTACGGTATATGAG-1
+cell.ID:  CGACTTCTCCGAATGT-1
+cell.ID:  CGCCAAGTCCAAAGTC-1
+cell.ID:  CGCTGGAAGCCTCGTG-1
+cell.ID:  CGGACTGGTAAATACG-1
+cell.ID:  CGTTGGGGTCGAATCT-1
+cell.ID:  CTAACTTAGTGGTAGC-1
+cell.ID:  CTAACTTGTCGTCTTC-1
+cell.ID:  CTAATGGTCGGTTAAC-1
+cell.ID:  CTAGTGAAGTAGCGGT-1
+cell.ID:  CTCGAAAGTGGTACAG-1
+cell.ID:  CTCGGGAAGTCACGCC-1
+cell.ID:  CTCGGGAGTAAGGGCT-1
+cell.ID:  CTGAAGTTCGAATGCT-1
+cell.ID:  CTTACCGTCAACACCA-1
+cell.ID:  CTTCTCTGTGACGCCT-1
+cell.ID:  GACGGCTAGACACGAC-1
+cell.ID:  GACGTTAGTATTAGCC-1
+cell.ID:  GAGGTGAGTGGTGTAG-1
+cell.ID:  GATCAGTCAAGCCCAC-1
+cell.ID:  GATCGATTCGCCTGAG-1
+cell.ID:  GATCGTACAACAACCT-1
+cell.ID:  GATGAGGCACGAAAGC-1
+cell.ID:  GATTCAGAGAGTAATC-1
+cell.ID:  GCAAACTCAGGGTTAG-1
+cell.ID:  GCACATACAGACACTT-1
+cell.ID:  GCAGCCACAAACTGTC-1
+cell.ID:  GCGAGAAAGTGGGTTG-1
+cell.ID:  GCGCGATGTTCCACAA-1
+cell.ID:  GCTGCTTAGTATCGAA-1
+cell.ID:  GCTGCTTGTGCGCTTG-1
+cell.ID:  GGACAGATCCCAGGTG-1
+cell.ID:  GGGAGATGTGATGCCC-1
+cell.ID:  GGGCATCTCCATGCTC-1
+cell.ID:  GGTGTTACACACGCTG-1
+cell.ID:  GTACGTAAGTCAAGGC-1
+cell.ID:  GTACTTTTCCGAAGAG-1
+cell.ID:  GTCAAGTGTTGCCTCT-1
+cell.ID:  GTCGTAACAATGGAAT-1
+cell.ID:  GTCGTAATCCTTGACC-1
+cell.ID:  GTTACAGAGAAACGAG-1
+cell.ID:  TACTCATCAGTCGATT-1
+cell.ID:  TAGGCATTCGTGGGAA-1
+cell.ID:  TAGTGGTTCATGTCCC-1
+cell.ID:  TCAATCTAGGATGGTC-1
+cell.ID:  TCACGAAAGTCGCCGT-1
+cell.ID:  TCATTACTCTGTACGA-1
+cell.ID:  TGACTAGAGCGTCTAT-1
+cell.ID:  TGAGAGGTCTGTTGAG-1
+cell.ID:  TGAGCCGAGCTGCAAG-1
+cell.ID:  TGCCAAATCTACCTGC-1
+cell.ID:  TGCGGGTGTTGATTGC-1
+cell.ID:  TGGACGCCACATGACT-1
+cell.ID:  TGGACGCTCTGAGGGA-1
+cell.ID:  TGTATTCAGTCATGCT-1
+cell.ID:  TGTATTCGTAGATTAG-1
+cell.ID:  TTAGGACGTCGAACAG-1
+cell.ID:  TTATGCTGTAGTGAAT-1
+cell.ID:  TTCCCAGTCGCCAAAT-1
+cell.ID:  TTGACTTGTTCGGCAC-1
+cell.ID:  TTGCCGTCAGTCGATT-1
+cell.ID:  TTTATGCTCATGCTCC-1
+cell.ID:  TTTATGCTCTCAAACG-1
+cell.ID:  TTTCCTCTCTCGTTTA-1
+ID:  6.0_0
+index:  4
+P index:  3
+ST:  6.0
+T:  4
+cell.ID:  AACACGTTCGTCCGTT-1
+cell.ID:  AACTCAGGTGCTGTAT-1
+cell.ID:  AACTCCCCAACGCACC-1
+cell.ID:  AACTCTTGTATGAATG-1
+cell.ID:  AACTTTCGTTAAAGAC-1
+cell.ID:  AAGACCTAGAAGGCCT-1
+cell.ID:  AAGACCTAGTGGACGT-1
+cell.ID:  AAGGCAGGTCAATACC-1
+cell.ID:  AATCCAGGTCTGATTG-1
+cell.ID:  AATCGGTCATGAACCT-1
+cell.ID:  ACACCAATCTGCTGCT-1
+cell.ID:  ACACCGGCAAACCTAC-1
+cell.ID:  ACATCAGTCATCGATG-1
+cell.ID:  ACCCACTCAGTGACAG-1
+cell.ID:  ACCCACTTCTAACGGT-1
+cell.ID:  ACGAGCCTCCTTTCTC-1
+cell.ID:  ACGATACGTCATCCCT-1
+cell.ID:  ACGCCAGGTCTTTCAT-1
+cell.ID:  ACGGAGAGTCTCAACA-1
+cell.ID:  ACGGCCAAGTAGGCCA-1
+cell.ID:  ACGGGTCAGCTAGTCT-1
+cell.ID:  ACTGATGAGTGACATA-1
+cell.ID:  ACTGCTCAGCGTTTAC-1
+cell.ID:  ACTTGTTAGGGTTTCT-1
+cell.ID:  ACTTGTTCAGGGCATA-1
+cell.ID:  ACTTGTTCATCCCACT-1
+cell.ID:  AGAGCTTTCCGATATG-1
+cell.ID:  AGCGTCGGTACATGTC-1
+cell.ID:  AGCTTGAGTACCGTAT-1
+cell.ID:  AGGCCACGTACCGTTA-1
+cell.ID:  AGGGATGAGCTGATAA-1
+cell.ID:  ATAGACCGTGGGTATG-1
+cell.ID:  ATCATCTAGTCACGCC-1
+cell.ID:  ATCATCTGTAAGTTCC-1
+cell.ID:  ATCCGAACATCCTAGA-1
+cell.ID:  ATCGAGTAGTGGTAGC-1
+cell.ID:  ATGAGGGAGGCAGTCA-1
+cell.ID:  ATGGGAGGTGAGGGAG-1
+cell.ID:  ATGTGTGTCTTGACGA-1
+cell.ID:  ATTCTACTCCTGCTTG-1
+cell.ID:  CAACCAATCAGTCAGT-1
+cell.ID:  CAACCTCAGAAACCGC-1
+cell.ID:  CAAGATCGTTTGGGCC-1
+cell.ID:  CAAGATCTCGTCACGG-1
+cell.ID:  CACACCTAGAAACCAT-1
+cell.ID:  CACATTTAGGATGGTC-1
+cell.ID:  CACCAGGAGCAAATCA-1
+cell.ID:  CAGCTAATCAGGCAAG-1
+cell.ID:  CAGTAACGTCTCTTTA-1
+cell.ID:  CAGTCCTCAGCCACCA-1
+cell.ID:  CATCAAGCAATAGAGT-1
+cell.ID:  CATCAGACACAGCCCA-1
+cell.ID:  CATCGAACATTCTCAT-1
+cell.ID:  CATCGAAGTTACAGAA-1
+cell.ID:  CATGACATCTACGAGT-1
+cell.ID:  CATTATCAGACACTAA-1
+cell.ID:  CCAATCCTCATGTCTT-1
+cell.ID:  CCAGCGACATCTATGG-1
+cell.ID:  CCCAATCCATTAACCG-1
+cell.ID:  CCCAGTTCACAAGTAA-1
+cell.ID:  CCGGTAGAGAGCTATA-1
+cell.ID:  CCTAGCTTCACCACCT-1
+cell.ID:  CCTTTCTAGTACACCT-1
+cell.ID:  CGAGCACGTTTGGGCC-1
+cell.ID:  CGAGCCACAGTCGATT-1
+cell.ID:  CGATGGCCACAACTGT-1
+cell.ID:  CGATGTACAGAGCCAA-1
+cell.ID:  CGCGGTAGTCAGCTAT-1
+cell.ID:  CGCTATCGTGCAACTT-1
+cell.ID:  CGCTTCAGTCTGCAAT-1
+cell.ID:  CGCTTCAGTTACGCGC-1
+cell.ID:  CGGACGTTCCCATTTA-1
+cell.ID:  CGGACTGTCTGATACG-1
+cell.ID:  CGGGTCAAGGCGTACA-1
+cell.ID:  CGGGTCAGTCTAGCGC-1
+cell.ID:  CGTCACTAGTGCTGCC-1
+cell.ID:  CGTCCATGTCTCGTTC-1
+cell.ID:  CGTCTACAGCAATCTC-1
+cell.ID:  CGTGAGCGTTTCCACC-1
+cell.ID:  CGTGTCTTCCTCAACC-1
+cell.ID:  CGTTAGAGTGTCAATC-1
+cell.ID:  CGTTAGATCTAGCACA-1
+cell.ID:  CTAATGGCAAGCTGAG-1
+cell.ID:  CTAATGGGTTACGACT-1
+cell.ID:  CTACACCGTTACGTCA-1
+cell.ID:  CTAGAGTAGCCAGTAG-1
+cell.ID:  CTAGAGTCACTGAAGG-1
+cell.ID:  CTAGTGAGTCATTAGC-1
+cell.ID:  CTCACACCACATCCGG-1
+cell.ID:  CTCATTATCAGGTAAA-1
+cell.ID:  CTCGAAAGTACAGTGG-1
+cell.ID:  CTCGAAATCAAACCAC-1
+cell.ID:  CTCGAGGGTCTCCATC-1
+cell.ID:  CTCTAATAGGAGTTTA-1
+cell.ID:  CTGCCTAAGGGTGTGT-1
+cell.ID:  CTGCTGTCAGCTCCGA-1
+cell.ID:  CTGGTCTGTACCGAGA-1
+cell.ID:  CTGTTTACACTGTCGG-1
+cell.ID:  CTTCTCTAGGTGGGTT-1
+cell.ID:  GAAATGATCAACGCTA-1
+cell.ID:  GAACATCTCGTTACAG-1
+cell.ID:  GAACCTAAGAGACTTA-1
+cell.ID:  GAAGCAGGTTATCACG-1
+cell.ID:  GAATAAGGTTCCGTCT-1
+cell.ID:  GACAGAGGTCTAGGTT-1
+cell.ID:  GACCAATAGAGCTTCT-1
+cell.ID:  GACGTGCAGATGCCAG-1
+cell.ID:  GACGTGCCATGGTCTA-1
+cell.ID:  GACGTTAAGGCTATCT-1
+cell.ID:  GAGGTGATCCGTAGGC-1
+cell.ID:  GATCAGTTCAACACAC-1
+cell.ID:  GATGAAAGTTCGCTAA-1
+cell.ID:  GCATGATCAGCGTAAG-1
+cell.ID:  GCGACCAAGTAATCCC-1
+cell.ID:  GGACAAGAGATGCCTT-1
+cell.ID:  GGACAAGTCCTACAGA-1
+cell.ID:  GGACAGAGTAGCCTCG-1
+cell.ID:  GGACATTAGAACTCGG-1
+cell.ID:  GGCCGATGTCGGGTCT-1
+cell.ID:  GGCTGGTAGTACGCGA-1
+cell.ID:  GGCTGGTGTAAACACA-1
+cell.ID:  GGGAGATTCTTTAGTC-1
+cell.ID:  GGGCACTGTTAAAGAC-1
+cell.ID:  GGGCACTTCAACACAC-1
+cell.ID:  GGGCATCGTGGTTTCA-1
+cell.ID:  GGGTCTGTCCCTAATT-1
+cell.ID:  GGTATTGTCTGGCGAC-1
+cell.ID:  GTAACGTCATCGGACC-1
+cell.ID:  GTACGTACAGACAGGT-1
+cell.ID:  GTACTCCTCGTTTAGG-1
+cell.ID:  GTAGTCAGTATTAGCC-1
+cell.ID:  GTATTCTTCTCACATT-1
+cell.ID:  GTGAAGGGTGGAAAGA-1
+cell.ID:  GTGCATAGTGACAAAT-1
+cell.ID:  GTGGGTCCAGCCTTTC-1
+cell.ID:  GTGTTAGAGCCACGCT-1
+cell.ID:  TAAACCGAGAAGATTC-1
+cell.ID:  TACACGAAGGTGTTAA-1
+cell.ID:  TACAGTGGTGTCCTCT-1
+cell.ID:  TACCTATAGGATGCGT-1
+cell.ID:  TACCTTATCGGTGTCG-1
+cell.ID:  TACGGTACAATAGAGT-1
+cell.ID:  TACTTGTCAAACGTGG-1
+cell.ID:  TAGGCATAGGGATGGG-1
+cell.ID:  TAGTTGGTCCAGATCA-1
+cell.ID:  TATTACCAGACTTTCG-1
+cell.ID:  TCAACGAAGACATAAC-1
+cell.ID:  TCAACGACACCATGTA-1
+cell.ID:  TCACGAAGTTACGCGC-1
+cell.ID:  TCAGATGTCGGATGGA-1
+cell.ID:  TCAGGATCATTTGCTT-1
+cell.ID:  TCCCGATCACTGAAGG-1
+cell.ID:  TCCCGATTCAAGAAGT-1
+cell.ID:  TCGAGGCGTACCGCTG-1
+cell.ID:  TCGCGTTGTTTGGCGC-1
+cell.ID:  TCGGGACTCAGTGTTG-1
+cell.ID:  TCTCATAGTAGGACAC-1
+cell.ID:  TCTCTAATCTGTCCGT-1
+cell.ID:  TCTTTCCGTGCACGAA-1
+cell.ID:  TGACTAGCAGCATGAG-1
+cell.ID:  TGCACCTAGTGTGAAT-1
+cell.ID:  TGCACCTGTTTAAGCC-1
+cell.ID:  TGCGGGTCACCCATTC-1
+cell.ID:  TGCGTGGGTGGTTTCA-1
+cell.ID:  TGGCTGGCATGAGCGA-1
+cell.ID:  TGGTTCCTCCTGTAGA-1
+cell.ID:  TGGTTCCTCTTGTACT-1
+cell.ID:  TGTCCCAAGTTCCACA-1
+cell.ID:  TTAGGACAGTGCTGCC-1
+cell.ID:  TTCGGTCCACGAAATA-1
+cell.ID:  TTCTCAATCTGTCCGT-1
+cell.ID:  TTCTCCTCAGACGTAG-1
+cell.ID:  TTCTTAGAGGGTTCCC-1
+cell.ID:  TTGGAACCATGCGCAC-1
+cell.ID:  TTTGGTTTCTACCAGA-1
+cell.ID:  TTTGTCACAGACGCAA-1
+ID:  5.0_0
+index:  5
+P index:  3
+ST:  5.0
+T:  5
+cell.ID:  AAAGCAACACTCAGGC-1
+cell.ID:  AAAGCAATCATTGCCC-1
+cell.ID:  AAAGTAGCAAACAACA-1
+cell.ID:  AACCGCGAGTCGATAA-1
+cell.ID:  AACGTTGGTTTGGCGC-1
+cell.ID:  AAGTCTGGTTGAACTC-1
+cell.ID:  AATCCAGGTGATGTCT-1
+cell.ID:  ACAGCCGTCACGGTTA-1
+cell.ID:  ACCCACTGTTACTGAC-1
+cell.ID:  ACCTTTATCTGAGGGA-1
+cell.ID:  ACGATGTCATGATCCA-1
+cell.ID:  ACGCCGAGTGGCCCTA-1
+cell.ID:  ACTGAACCAGACAAAT-1
+cell.ID:  ACTGAACGTCTGCAAT-1
+cell.ID:  ACTGAGTTCGCACTCT-1
+cell.ID:  ACTGCTCCAAGGTTTC-1
+cell.ID:  AGAATAGCACACTGCG-1
+cell.ID:  AGAATAGGTCATCGGC-1
+cell.ID:  AGTCTTTCAAGAAGAG-1
+cell.ID:  AGTGAGGTCCGGCACA-1
+cell.ID:  AGTTGGTCACGAAGCA-1
+cell.ID:  ATAGACCAGTCGATAA-1
+cell.ID:  ATCACGACATCACGAT-1
+cell.ID:  ATCACGAGTCATGCAT-1
+cell.ID:  ATCTACTAGCTCCTCT-1
+cell.ID:  CAACCAATCCACGTTC-1
+cell.ID:  CAACCTCCATTGGTAC-1
+cell.ID:  CAACTAGCAAATTGCC-1
+cell.ID:  CAAGAAAAGTCCTCCT-1
+cell.ID:  CAAGATCGTACGACCC-1
+cell.ID:  CAAGATCTCGCGATCG-1
+cell.ID:  CACAAACGTGAACCTT-1
+cell.ID:  CACACCTAGCTAACAA-1
+cell.ID:  CACACCTCAGCGTTCG-1
+cell.ID:  CACCAGGAGTGTGGCA-1
+cell.ID:  CACCAGGTCGGCGCAT-1
+cell.ID:  CACTCCAGTTCAGTAC-1
+cell.ID:  CAGTAACAGGTGACCA-1
+cell.ID:  CATCGAATCACCGTAA-1
+cell.ID:  CATGACACACAGATTC-1
+cell.ID:  CATGGCGCAGACAGGT-1
+cell.ID:  CATTATCAGTGAATTG-1
+cell.ID:  CCAATCCAGGACATTA-1
+cell.ID:  CCCTCCTCAATAGAGT-1
+cell.ID:  CCGGTAGGTTCAGGCC-1
+cell.ID:  CCTACACAGGGCTTGA-1
+cell.ID:  CCTTCCCAGACTGTAA-1
+cell.ID:  CCTTCCCGTCTTGATG-1
+cell.ID:  CCTTCCCTCAACCAAC-1
+cell.ID:  CCTTCGAAGCGAGAAA-1
+cell.ID:  CGAGCCAAGGGATCTG-1
+cell.ID:  CGATCGGAGTATCTCG-1
+cell.ID:  CGATGGCAGCGCCTTG-1
+cell.ID:  CGCCAAGCAATCAGAA-1
+cell.ID:  CGGACACAGTACGACG-1
+cell.ID:  CGGCTAGAGAAGCCCA-1
+cell.ID:  CGGGTCATCGTCCAGG-1
+cell.ID:  CGGTTAAGTCCGCTGA-1
+cell.ID:  CGTGAGCCAATCTACG-1
+cell.ID:  CTAGAGTCACAACGTT-1
+cell.ID:  CTAGAGTTCCGCTGTT-1
+cell.ID:  CTAGCCTCATTACGAC-1
+cell.ID:  CTCACACAGTCCAGGA-1
+cell.ID:  CTCCTAGAGGTGCACA-1
+cell.ID:  CTCGTACAGGGTGTTG-1
+cell.ID:  CTGCGGAAGTAGATGT-1
+cell.ID:  CTGGTCTAGGTGACCA-1
+cell.ID:  CTGTTTACACAAGCCC-1
+cell.ID:  CTTAGGACACCCATTC-1
+cell.ID:  CTTAGGACATCGTCGG-1
+cell.ID:  GAACCTATCACATACG-1
+cell.ID:  GAATAAGGTCGACTGC-1
+cell.ID:  GACAGAGAGCAGCGTA-1
+cell.ID:  GACGGCTAGCGGCTTC-1
+cell.ID:  GACGGCTCACTTCTGC-1
+cell.ID:  GACTGCGTCCACGCAG-1
+cell.ID:  GAGGTGAGTCAAGCGA-1
+cell.ID:  GAGTCCGTCATACGGT-1
+cell.ID:  GATCGATGTCGCGGTT-1
+cell.ID:  GATCGATTCAGCCTAA-1
+cell.ID:  GATTCAGCACCTCGGA-1
+cell.ID:  GCAAACTAGCCAGGAT-1
+cell.ID:  GCAATCAGTACAGTGG-1
+cell.ID:  GCACATAGTTCCACAA-1
+cell.ID:  GCACTCTCAGACGTAG-1
+cell.ID:  GCAGTTACAGTTTACG-1
+cell.ID:  GCATGCGCACCCAGTG-1
+cell.ID:  GCATGTACACAGCCCA-1
+cell.ID:  GCATGTACAGTTAACC-1
+cell.ID:  GCCAAATAGGCAGTCA-1
+cell.ID:  GCGAGAAGTCAGTGGA-1
+cell.ID:  GCGCAACGTTCCCGAG-1
+cell.ID:  GGACGTCAGGCGATAC-1
+cell.ID:  GGATTACAGCACCGTC-1
+cell.ID:  GGCTCGAAGTAGCGGT-1
+cell.ID:  GGGAGATCAGCCACCA-1
+cell.ID:  GGGAGATTCATGTCTT-1
+cell.ID:  GGGCACTAGCGAAGGG-1
+cell.ID:  GGGTTGCAGGAATTAC-1
+cell.ID:  GTAACGTGTAAAGTCA-1
+cell.ID:  GTAACGTGTTAAGGGC-1
+cell.ID:  GTACGTACAGTCACTA-1
+cell.ID:  GTACGTAGTACTTCTT-1
+cell.ID:  GTAGGCCGTACCATCA-1
+cell.ID:  GTCTCGTAGGAGCGAG-1
+cell.ID:  GTCTTCGCAGCTGCAC-1
+cell.ID:  GTCTTCGTCTCCTATA-1
+cell.ID:  GTGCATAAGGAGCGAG-1
+cell.ID:  GTGCTTCGTCTGCGGT-1
+cell.ID:  GTTAAGCGTAGCTGCC-1
+cell.ID:  GTTCATTAGGCTCAGA-1
+cell.ID:  GTTCGGGAGGTTACCT-1
+cell.ID:  TACCTATCATGCATGT-1
+cell.ID:  TACGGTAGTAAATGAC-1
+cell.ID:  TACTTACAGAATTGTG-1
+cell.ID:  TAGAGCTGTACTCTCC-1
+cell.ID:  TATGCCCGTGCCTGCA-1
+cell.ID:  TCACAAGCATTAACCG-1
+cell.ID:  TCATTTGGTGTAACGG-1
+cell.ID:  TCCACACCATGGTCTA-1
+cell.ID:  TCGCGTTGTAGAAGGA-1
+cell.ID:  TCGTAGACACAGATTC-1
+cell.ID:  TCGTAGACAGCGTCCA-1
+cell.ID:  TCTCATAAGCCGCCTA-1
+cell.ID:  TCTCATACAGACTCGC-1
+cell.ID:  TCTTCGGTCCTTCAAT-1
+cell.ID:  TCTTTCCTCAAGATCC-1
+cell.ID:  TGAAAGAGTCAGGACA-1
+cell.ID:  TGACAACCATGGTCAT-1
+cell.ID:  TGACGGCTCTGAGTGT-1
+cell.ID:  TGATTTCGTTGGACCC-1
+cell.ID:  TGCCCATAGAGTCTGG-1
+cell.ID:  TGCGGGTTCCTCCTAG-1
+cell.ID:  TGCTGCTAGTCTCAAC-1
+cell.ID:  TGCTGCTTCCAGTAGT-1
+cell.ID:  TGGACGCTCAGTGCAT-1
+cell.ID:  TGGACGCTCGCAAGCC-1
+cell.ID:  TGGCTGGAGACAATAC-1
+cell.ID:  TGGGAAGAGCTGTCTA-1
+cell.ID:  TGGGAAGTCAAACCAC-1
+cell.ID:  TGGGAAGTCGTATCAG-1
+cell.ID:  TGGGCGTTCACCGGGT-1
+cell.ID:  TGTGGTAGTAACGCGA-1
+cell.ID:  TGTTCCGAGGCCCGTT-1
+cell.ID:  TTCTCAACATGGATGG-1
+cell.ID:  TTCTTAGGTTCCACGG-1
+cell.ID:  TTCTTAGTCCGCAGTG-1
+cell.ID:  TTGCCGTAGGAGTTTA-1
+cell.ID:  TTTGCGCTCGTAGATC-1
+ID:  2.0_1
+index:  6
+P index:  1
+ST:  2.0
+T:  5
+cell.ID:  AAAGTAGAGGCCATAG-1
+cell.ID:  ATTCTACTCAATCTCT-1
+cell.ID:  CAAGTTGTCACATACG-1
+cell.ID:  CACATTTGTTCGTTGA-1
+cell.ID:  CAGAATCGTGAGGGAG-1
+cell.ID:  CAGCTGGAGTGGCACA-1
+cell.ID:  CTAATGGCATAGACTC-1
+cell.ID:  CTCGGAGCAGCCAATT-1
+cell.ID:  CTCGTCAGTGCAACGA-1
+cell.ID:  GATCTAGTCTCTGCTG-1
+cell.ID:  GATTCAGAGACTCGGA-1
+cell.ID:  GGAGCAAAGATGGGTC-1
+cell.ID:  GGTATTGAGCCAGGAT-1
+cell.ID:  GTAACGTGTCTAGAGG-1
+cell.ID:  TACTTACCACTGTCGG-1
+cell.ID:  TCTCATATCCCATTAT-1
+cell.ID:  TTGGAACCACCTTGTC-1
+ID:  4.0_0
+index:  7
+P index:  3
+ST:  4.0
+T:  5
+cell.ID:  AAACGGGGTAGCGTGA-1
+cell.ID:  AAAGATGTCTGATACG-1
+cell.ID:  AAATGCCTCCTGCTTG-1
+cell.ID:  AACACGTGTCGCGTGT-1
+cell.ID:  AACCATGGTACCTACA-1
+cell.ID:  AACCGCGCAGTGGAGT-1
+cell.ID:  AACCGCGCATCACGAT-1
+cell.ID:  AACCGCGGTCCATCCT-1
+cell.ID:  AACCGCGTCTACGAGT-1
+cell.ID:  AACTCAGTCAATCACG-1
+cell.ID:  AACTCTTCATACGCTA-1
+cell.ID:  AACTCTTTCTCAAGTG-1
+cell.ID:  AACTGGTGTTAAGATG-1
+cell.ID:  AAGACCTGTCAAACTC-1
+cell.ID:  ACACCCTCATCGATGT-1
+cell.ID:  ACACCCTTCGATAGAA-1
+cell.ID:  ACACCGGAGCGCCTCA-1
+cell.ID:  ACACTGACAGCTTCGG-1
+cell.ID:  ACAGCCGAGATGCCAG-1
+cell.ID:  ACAGCCGGTCTGATTG-1
+cell.ID:  ACAGCTATCCACGACG-1
+cell.ID:  ACAGCTATCGGTTAAC-1
+cell.ID:  ACATACGAGAGCTATA-1
+cell.ID:  ACATACGCACTGAAGG-1
+cell.ID:  ACATACGTCTTAACCT-1
+cell.ID:  ACATCAGTCCAAAGTC-1
+cell.ID:  ACCAGTAAGTTCCACA-1
+cell.ID:  ACCGTAATCACTTACT-1
+cell.ID:  ACCTTTAGTCATGCAT-1
+cell.ID:  ACGAGCCCATGCATGT-1
+cell.ID:  ACGATACGTGGACGAT-1
+cell.ID:  ACGATGTAGATGGCGT-1
+cell.ID:  ACGCAGCAGATGCCAG-1
+cell.ID:  ACGCCGACAATGAAAC-1
+cell.ID:  ACGCCGATCTGTCAAG-1
+cell.ID:  ACGGCCAAGTCATGCT-1
+cell.ID:  ACGGCCATCTGATTCT-1
+cell.ID:  ACGGGTCAGCTTATCG-1
+cell.ID:  ACGTCAAAGATAGTCA-1
+cell.ID:  ACGTCAAGTAAAGTCA-1
+cell.ID:  ACTATCTAGCTAACTC-1
+cell.ID:  ACTATCTCAAGACGTG-1
+cell.ID:  ACTATCTCACCCATTC-1
+cell.ID:  ACTGAACAGGTGACCA-1
+cell.ID:  ACTGAGTAGAACTCGG-1
+cell.ID:  ACTGAGTCACGGTAAG-1
+cell.ID:  ACTGATGCACGAGGTA-1
+cell.ID:  ACTGTCCAGTACGCCC-1
+cell.ID:  ACTGTCCCAGATTGCT-1
+cell.ID:  ACTGTCCCAGCTCGAC-1
+cell.ID:  ACTGTCCCAGCTGTGC-1
+cell.ID:  ACTGTCCGTAGAGGAA-1
+cell.ID:  ACTGTCCGTCGTCTTC-1
+cell.ID:  ACTTACTCAGTAAGAT-1
+cell.ID:  ACTTTCAGTTCCACGG-1
+cell.ID:  AGAGCGAAGCCCAATT-1
+cell.ID:  AGAGCTTGTATATCCG-1
+cell.ID:  AGAGTGGGTTCAACCA-1
+cell.ID:  AGAGTGGTCACCTTAT-1
+cell.ID:  AGATCTGAGAATCTCC-1
+cell.ID:  AGATTGCTCATGTCCC-1
+cell.ID:  AGCAGCCAGTGTCCCG-1
+cell.ID:  AGCAGCCCACGGATAG-1
+cell.ID:  AGCGTATGTATATGGA-1
+cell.ID:  AGCTTGAGTTATCCGA-1
+cell.ID:  AGCTTGATCTCTAGGA-1
+cell.ID:  AGGCCACCAGCTCGCA-1
+cell.ID:  AGGCCACGTTCTGGTA-1
+cell.ID:  AGGGATGCATGAAGTA-1
+cell.ID:  AGTAGTCCATGAAGTA-1
+cell.ID:  AGTGAGGAGGCTCATT-1
+cell.ID:  AGTGTCAGTTTCCACC-1
+cell.ID:  AGTGTCATCCCTCAGT-1
+cell.ID:  AGTGTCATCGGCGCAT-1
+cell.ID:  AGTTGGTAGCACAGGT-1
+cell.ID:  AGTTGGTGTTGATTCG-1
+cell.ID:  ATAACGCGTATATGGA-1
+cell.ID:  ATCACGAAGTGTACGG-1
+cell.ID:  ATCACGAGTCGACTAT-1
+cell.ID:  ATCATGGGTCTCTTAT-1
+cell.ID:  ATCATGGTCAACCATG-1
+cell.ID:  ATCCACCTCCCTTGTG-1
+cell.ID:  ATCGAGTGTCCAACTA-1
+cell.ID:  ATCTACTGTTTGTTTC-1
+cell.ID:  ATCTGCCAGAGTGAGA-1
+cell.ID:  ATGAGGGAGATGTTAG-1
+cell.ID:  ATGAGGGGTTGGGACA-1
+cell.ID:  ATGGGAGCATACTACG-1
+cell.ID:  ATTACTCGTGTTGGGA-1
+cell.ID:  ATTACTCTCACCATAG-1
+cell.ID:  ATTATCCCATCACCCT-1
+cell.ID:  ATTGGTGTCAGTGCAT-1
+cell.ID:  ATTTCTGTCGACCAGC-1
+cell.ID:  CAAGATCTCCATGAGT-1
+cell.ID:  CACAAACTCACGAAGG-1
+cell.ID:  CACACAATCGGATGTT-1
+cell.ID:  CACACCTCAGTCAGAG-1
+cell.ID:  CACACCTTCTCGATGA-1
+cell.ID:  CACATAGCAGCTCGAC-1
+cell.ID:  CACCTTGCAAAGAATC-1
+cell.ID:  CACTCCAGTGACTCAT-1
+cell.ID:  CAGCATACACGCATCG-1
+cell.ID:  CAGCATATCATCTGCC-1
+cell.ID:  CAGCATATCCATGAGT-1
+cell.ID:  CAGCATATCGCCAGCA-1
+cell.ID:  CAGCTAATCGGCCGAT-1
+cell.ID:  CAGCTGGCATCGACGC-1
+cell.ID:  CAGTCCTAGCCACCTG-1
+cell.ID:  CATATTCAGAGTACCG-1
+cell.ID:  CATATTCTCCGTAGGC-1
+cell.ID:  CATATTCTCGTCCGTT-1
+cell.ID:  CATCAAGCACCCATGG-1
+cell.ID:  CATCAAGCATAAGACA-1
+cell.ID:  CATCAGATCGTCCAGG-1
+cell.ID:  CATCCACTCCGCAGTG-1
+cell.ID:  CATCGGGCAGACAGGT-1
+cell.ID:  CATGCCTCAGCGAACA-1
+cell.ID:  CCAATCCAGCTGCAAG-1
+cell.ID:  CCAATCCTCCTACAGA-1
+cell.ID:  CCACCTAAGTAACCCT-1
+cell.ID:  CCACCTAGTGTGGTTT-1
+cell.ID:  CCACCTATCAACACAC-1
+cell.ID:  CCCAATCGTAGAGCTG-1
+cell.ID:  CCCTCCTTCTCCGGTT-1
+cell.ID:  CCCTCCTTCTGGTGTA-1
+cell.ID:  CCCTCCTTCTTCAACT-1
+cell.ID:  CCGGTAGCAACACGCC-1
+cell.ID:  CCGTGGATCATAACCG-1
+cell.ID:  CCGTTCAAGCTGTTCA-1
+cell.ID:  CCTACACAGATGTTAG-1
+cell.ID:  CCTACACCACTCTGTC-1
+cell.ID:  CCTACCAAGACAAGCC-1
+cell.ID:  CCTAGCTAGGGATGGG-1
+cell.ID:  CCTATTAAGCGATATA-1
+cell.ID:  CCTATTAAGTAGCCGA-1
+cell.ID:  CCTCTGACATAGAAAC-1
+cell.ID:  CCTTACGGTCGCATCG-1
+cell.ID:  CCTTACGGTTATGTGC-1
+cell.ID:  CCTTCCCGTCAATACC-1
+cell.ID:  CCTTCCCGTTTAAGCC-1
+cell.ID:  CCTTCGAAGCACGCCT-1
+cell.ID:  CCTTCGACAAATCCGT-1
+cell.ID:  CCTTCGAGTATTAGCC-1
+cell.ID:  CGAACATCAGCTGCTG-1
+cell.ID:  CGAATGTTCATCGCTC-1
+cell.ID:  CGAGAAGAGTGTGGCA-1
+cell.ID:  CGAGAAGTCGATCCCT-1
+cell.ID:  CGAGCACTCAGTTAGC-1
+cell.ID:  CGAGCACTCCATGAAC-1
+cell.ID:  CGAGCCAAGTCTCAAC-1
+cell.ID:  CGAGCCAGTCACTGGC-1
+cell.ID:  CGATGGCAGGTAAACT-1
+cell.ID:  CGATGGCCAAGTTAAG-1
+cell.ID:  CGATGGCCAGCATACT-1
+cell.ID:  CGCGGTATCAACACTG-1
+cell.ID:  CGCGGTATCCGTACAA-1
+cell.ID:  CGCTTCAAGCGGCTTC-1
+cell.ID:  CGCTTCACAAGCCGCT-1
+cell.ID:  CGCTTCAGTTCCACAA-1
+cell.ID:  CGGACGTAGTTGCAGG-1
+cell.ID:  CGGACTGAGGTAGCCA-1
+cell.ID:  CGGAGCTAGCTAGTTC-1
+cell.ID:  CGGAGCTTCTTTAGGG-1
+cell.ID:  CGGGTCATCCGAACGC-1
+cell.ID:  CGGTTAAAGCTACCGC-1
+cell.ID:  CGTAGCGGTTGATTCG-1
+cell.ID:  CGTAGGCCAACGATCT-1
+cell.ID:  CGTCACTCAGCTGCAC-1
+cell.ID:  CGTCTACGTTCAGACT-1
+cell.ID:  CGTGTAAGTTGCTCCT-1
+cell.ID:  CGTGTAATCCGTAGTA-1
+cell.ID:  CGTTAGATCAGTCCCT-1
+cell.ID:  CGTTCTGCAGCGTAAG-1
+cell.ID:  CGTTCTGTCCGTCATC-1
+cell.ID:  CGTTCTGTCCTAGAAC-1
+cell.ID:  CGTTGGGCAAGGTTTC-1
+cell.ID:  CTAACTTGTCGCGTGT-1
+cell.ID:  CTAAGACCATCCCATC-1
+cell.ID:  CTAAGACGTTAGAACA-1
+cell.ID:  CTACACCCAGTATAAG-1
+cell.ID:  CTACACCGTGATGTCT-1
+cell.ID:  CTACACCTCAGAGCTT-1
+cell.ID:  CTACACCTCGAGGTAG-1
+cell.ID:  CTACACCTCTCTTATG-1
+cell.ID:  CTACATTGTGTGCGTC-1
+cell.ID:  CTACATTTCTGGCGTG-1
+cell.ID:  CTACCCAAGAAACGCC-1
+cell.ID:  CTACCCAAGGGTGTTG-1
+cell.ID:  CTACCCAGTCCGTTAA-1
+cell.ID:  CTACGTCCAGACGCAA-1
+cell.ID:  CTAGAGTCACCCATTC-1
+cell.ID:  CTCATTACATTCTCAT-1
+cell.ID:  CTCCTAGCACAGGAGT-1
+cell.ID:  CTCCTAGTCACTTACT-1
+cell.ID:  CTCGAGGCACGTCAGC-1
+cell.ID:  CTCGGGATCTTCTGGC-1
+cell.ID:  CTCGTACAGTCGTTTG-1
+cell.ID:  CTCTAATCACGTTGGC-1
+cell.ID:  CTGAAACAGTACGCGA-1
+cell.ID:  CTGCCTAGTCTAGCCG-1
+cell.ID:  CTGCGGAAGCGGCTTC-1
+cell.ID:  CTGCGGAGTACCGGCT-1
+cell.ID:  CTGCTGTAGTCCAGGA-1
+cell.ID:  CTGCTGTCACCAGGCT-1
+cell.ID:  CTGGTCTTCTCTGTCG-1
+cell.ID:  CTGTGCTTCACCTCGT-1
+cell.ID:  CTTAACTGTGTGACGA-1
+cell.ID:  CTTAACTGTTCTGTTT-1
+cell.ID:  CTTACCGGTCTACCTC-1
+cell.ID:  CTTAGGAAGGATGGAA-1
+cell.ID:  CTTGGCTGTCCCTACT-1
+cell.ID:  GAAATGAAGTTACCCA-1
+cell.ID:  GAACCTAAGACGCTTT-1
+cell.ID:  GAAGCAGTCGTGGACC-1
+cell.ID:  GAATGAATCACTCCTG-1
+cell.ID:  GAATGAATCGGAATCT-1
+cell.ID:  GACACGCAGATCACGG-1
+cell.ID:  GACCAATAGTCTCAAC-1
+cell.ID:  GACCAATTCATGTCTT-1
+cell.ID:  GACCTGGTCCGCATCT-1
+cell.ID:  GACGTGCAGCGTGAAC-1
+cell.ID:  GACGTGCCAATGTAAG-1
+cell.ID:  GACGTGCGTAAATACG-1
+cell.ID:  GACGTGCTCTGGCGTG-1
+cell.ID:  GACTAACCAAGACACG-1
+cell.ID:  GACTACAAGGCATGGT-1
+cell.ID:  GACTGCGCATGTCCTC-1
+cell.ID:  GATCGATCAGACGCTC-1
+cell.ID:  GATCGCGGTTTGTGTG-1
+cell.ID:  GATCGCGTCTCGATGA-1
+cell.ID:  GATCGTACATACTACG-1
+cell.ID:  GATCGTAGTCCGTCAG-1
+cell.ID:  GATCGTATCGCATGAT-1
+cell.ID:  GATCTAGAGACAGACC-1
+cell.ID:  GATCTAGAGTCAATAG-1
+cell.ID:  GATCTAGGTCATGCAT-1
+cell.ID:  GATGAAATCATAAAGG-1
+cell.ID:  GATGAGGAGTCCTCCT-1
+cell.ID:  GATGCTACACTTGGAT-1
+cell.ID:  GATGCTACATCTATGG-1
+cell.ID:  GCAAACTCACACGCTG-1
+cell.ID:  GCACTCTTCCGTCATC-1
+cell.ID:  GCATACAGTCTTCAAG-1
+cell.ID:  GCATACATCAGCTCGG-1
+cell.ID:  GCATACATCCCATTAT-1
+cell.ID:  GCATGCGGTTACGTCA-1
+cell.ID:  GCATGTAAGCGCCTTG-1
+cell.ID:  GCCTCTACACTCAGGC-1
+cell.ID:  GCCTCTAGTCTGCAAT-1
+cell.ID:  GCGAGAATCGAACTGT-1
+cell.ID:  GCTCCTACAGACGCTC-1
+cell.ID:  GCTCCTATCTTCGAGA-1
+cell.ID:  GCTCTGTGTGTGTGCC-1
+cell.ID:  GCTGCAGTCATTCACT-1
+cell.ID:  GCTGGGTAGGCTCTTA-1
+cell.ID:  GCTTGAAAGGTTACCT-1
+cell.ID:  GCTTGAACAAGCCATT-1
+cell.ID:  GGAAAGCGTCAATACC-1
+cell.ID:  GGAAAGCGTTCAGACT-1
+cell.ID:  GGAACTTAGATGGGTC-1
+cell.ID:  GGAATAACACGACTCG-1
+cell.ID:  GGACAAGTCATGTCTT-1
+cell.ID:  GGACATTAGCAATCTC-1
+cell.ID:  GGATGTTCAAGGGTCA-1
+cell.ID:  GGATTACAGTCCCACG-1
+cell.ID:  GGATTACCACAGGAGT-1
+cell.ID:  GGATTACCACTATCTT-1
+cell.ID:  GGATTACCAGCTATTG-1
+cell.ID:  GGCAATTTCCCGGATG-1
+cell.ID:  GGCGACTCATCGATTG-1
+cell.ID:  GGCTGGTAGCCTTGAT-1
+cell.ID:  GGCTGGTTCTTTCCTC-1
+cell.ID:  GGGAATGAGCTCCTTC-1
+cell.ID:  GGGACCTCATTCCTGC-1
+cell.ID:  GGGATGACAGCTGTAT-1
+cell.ID:  GGGCACTTCGTGGGAA-1
+cell.ID:  GGGTTGCAGTGTGGCA-1
+cell.ID:  GGTATTGGTCGACTGC-1
+cell.ID:  GGTGAAGAGCCCAATT-1
+cell.ID:  GGTGCGTAGTACGCGA-1
+cell.ID:  GGTGCGTTCAGTACGT-1
+cell.ID:  GGTGTTACACGGCTAC-1
+cell.ID:  GTACGTAAGTTGCAGG-1
+cell.ID:  GTACGTATCAACACCA-1
+cell.ID:  GTACTCCAGACAAAGG-1
+cell.ID:  GTACTCCAGTGTCCAT-1
+cell.ID:  GTATTCTCAAGCTGGA-1
+cell.ID:  GTCAAGTCACACGCTG-1
+cell.ID:  GTCAAGTTCAACTCTT-1
+cell.ID:  GTCACAAAGGCAGTCA-1
+cell.ID:  GTCACGGAGCGGCTTC-1
+cell.ID:  GTCGGGTCATGACATC-1
+cell.ID:  GTCTTCGAGAGCTGGT-1
+cell.ID:  GTGCATAAGCCACGCT-1
+cell.ID:  GTGCGGTTCTCAACTT-1
+cell.ID:  GTGCTTCCATAAGACA-1
+cell.ID:  GTGGGTCAGGTGATAT-1
+cell.ID:  GTGGGTCTCAATCTCT-1
+cell.ID:  GTGTTAGTCCTCCTAG-1
+cell.ID:  GTTAAGCCATTCGACA-1
+cell.ID:  GTTCATTGTTGCCTCT-1
+cell.ID:  GTTCATTGTTGCTCCT-1
+cell.ID:  GTTCATTTCTTGTCAT-1
+cell.ID:  GTTCGGGTCCGTTGTC-1
+cell.ID:  TAAACCGTCTTTAGGG-1
+cell.ID:  TAAGCGTAGACAGACC-1
+cell.ID:  TAAGCGTCACTCGACG-1
+cell.ID:  TAAGCGTGTACGCACC-1
+cell.ID:  TAAGCGTGTTGGTGGA-1
+cell.ID:  TAAGTGCGTGATGATA-1
+cell.ID:  TACACGATCAGTTCGA-1
+cell.ID:  TACACGATCCGAATGT-1
+cell.ID:  TACACGATCTACTCAT-1
+cell.ID:  TACAGTGCATTAGGCT-1
+cell.ID:  TACGGATTCGGCGGTT-1
+cell.ID:  TACGGGCCACAAGACG-1
+cell.ID:  TACTCATTCTACTATC-1
+cell.ID:  TACTTACGTTATCACG-1
+cell.ID:  TACTTACGTTTAGGAA-1
+cell.ID:  TACTTGTCACGAAAGC-1
+cell.ID:  TAGACCAAGGGTCTCC-1
+cell.ID:  TAGACCATCACATACG-1
+cell.ID:  TAGACCATCGGCATCG-1
+cell.ID:  TAGGCATAGACCACGA-1
+cell.ID:  TAGGCATGTCTAAACC-1
+cell.ID:  TAGTGGTAGTACGTTC-1
+cell.ID:  TAGTGGTGTACGAAAT-1
+cell.ID:  TAGTTGGAGATGCGAC-1
+cell.ID:  TATCTCAAGGAGTAGA-1
+cell.ID:  TCAACGACAATCGAAA-1
+cell.ID:  TCAACGAGTCCGACGT-1
+cell.ID:  TCAATCTCAACTGCTA-1
+cell.ID:  TCACAAGAGAGGGCTT-1
+cell.ID:  TCACGAAGTAATCACC-1
+cell.ID:  TCAGATGTCTTGCATT-1
+cell.ID:  TCAGCAAAGGACATTA-1
+cell.ID:  TCAGCTCAGTAGATGT-1
+cell.ID:  TCAGCTCTCGGTCCGA-1
+cell.ID:  TCAGGATGTGGACGAT-1
+cell.ID:  TCATTACAGGCATGGT-1
+cell.ID:  TCATTACCAGGTTTCA-1
+cell.ID:  TCCACACAGAATCTCC-1
+cell.ID:  TCCCGATAGTGAATTG-1
+cell.ID:  TCCCGATCACAGAGGT-1
+cell.ID:  TCGAGGCCAACTGCTA-1
+cell.ID:  TCGCGAGAGAAACCAT-1
+cell.ID:  TCGCGTTCAATCTGCA-1
+cell.ID:  TCGGGACTCAGTGCAT-1
+cell.ID:  TCGGTAAGTTACTGAC-1
+cell.ID:  TCGTAGACAGTAACGG-1
+cell.ID:  TCGTAGATCCCGGATG-1
+cell.ID:  TCTATTGAGTGTACCT-1
+cell.ID:  TCTCATATCAGTGTTG-1
+cell.ID:  TCTCATATCGTAGATC-1
+cell.ID:  TCTGGAAGTCGAATCT-1
+cell.ID:  TCTTCGGTCGCGTTTC-1
+cell.ID:  TGACGGCCAAATTGCC-1
+cell.ID:  TGACGGCGTGCTAGCC-1
+cell.ID:  TGACTTTCATTCTTAC-1
+cell.ID:  TGAGCATCATCCCACT-1
+cell.ID:  TGATTTCGTGACTACT-1
+cell.ID:  TGCCAAAAGGCTAGGT-1
+cell.ID:  TGCCAAAAGTCTCCTC-1
+cell.ID:  TGCCAAACATCGACGC-1
+cell.ID:  TGCGGGTTCAGCTCTC-1
+cell.ID:  TGCGTGGCACAGTCGC-1
+cell.ID:  TGGCCAGAGGCTCTTA-1
+cell.ID:  TGGCCAGCACCTATCC-1
+cell.ID:  TGGCCAGGTGCACCAC-1
+cell.ID:  TGGCGCAAGTCAAGCG-1
+cell.ID:  TGGCGCATCATCGGAT-1
+cell.ID:  TGGCTGGGTAGAGCTG-1
+cell.ID:  TGGGAAGCACTCGACG-1
+cell.ID:  TGGTTAGGTACAAGTA-1
+cell.ID:  TGGTTCCGTGTTAAGA-1
+cell.ID:  TGTCCCAGTGCAGGTA-1
+cell.ID:  TGTGGTAGTCCAGTAT-1
+cell.ID:  TGTGTTTCAATGGATA-1
+cell.ID:  TGTGTTTCAGGGTTAG-1
+cell.ID:  TGTGTTTTCTAGCACA-1
+cell.ID:  TTAGGACCAGTAACGG-1
+cell.ID:  TTAGTTCTCACTTACT-1
+cell.ID:  TTATGCTAGACTAGGC-1
+cell.ID:  TTATGCTGTCACTGGC-1
+cell.ID:  TTCCCAGCATACTACG-1
+cell.ID:  TTCGAAGTCAAAGTAG-1
+cell.ID:  TTCTACACATATGCTG-1
+cell.ID:  TTCTCAAAGCTCCTCT-1
+cell.ID:  TTGAACGGTGTGCGTC-1
+cell.ID:  TTGACTTAGAGCAATT-1
+cell.ID:  TTGACTTGTAGCCTCG-1
+cell.ID:  TTGCCGTTCAAGAAGT-1
+cell.ID:  TTGTAGGTCCAGGGCT-1
+cell.ID:  TTTACTGTCGACAGCC-1
+cell.ID:  TTTATGCCAATTGCTG-1
+cell.ID:  TTTGTCACACCACCAG-1
+cell.ID:  TTTGTCAGTTAGATGA-1
+ID:  5.0_1
+index:  8
+P index:  5
+ST:  5.0
+T:  6
+cell.ID:  AAACGGGCACATGGGA-1
+cell.ID:  AAAGATGTCCAAATGC-1
+cell.ID:  AAAGCAATCTGTGCAA-1
+cell.ID:  AACTCCCGTTCCAACA-1
+cell.ID:  AACTGGTAGTTCCACA-1
+cell.ID:  AACTTTCGTTTGGCGC-1
+cell.ID:  AAGACCTTCTAAGCCA-1
+cell.ID:  AAGCCGCTCGTTACAG-1
+cell.ID:  ACATACGAGGGCTTCC-1
+cell.ID:  ACATGGTAGGGATGGG-1
+cell.ID:  ACGATGTTCCCGGATG-1
+cell.ID:  ACGGGCTTCCGGCACA-1
+cell.ID:  ACTGAGTTCGTAGATC-1
+cell.ID:  AGATTGCCACGGTGTC-1
+cell.ID:  AGATTGCGTCAGAATA-1
+cell.ID:  AGCTCCTAGCTCCTTC-1
+cell.ID:  AGCTCCTCACCTTGTC-1
+cell.ID:  AGCTCCTTCGGAGCAA-1
+cell.ID:  AGCTCTCGTTAAAGTG-1
+cell.ID:  AGGGAGTTCTTATCTG-1
+cell.ID:  AGGGATGGTGTAACGG-1
+cell.ID:  AGGGTGAGTGTCAATC-1
+cell.ID:  AGTCTTTCAAATACAG-1
+cell.ID:  AGTGAGGCACCGATAT-1
+cell.ID:  AGTGTCATCCGCGGTA-1
+cell.ID:  ATAACGCCATGGAATA-1
+cell.ID:  ATAGACCTCAGTCAGT-1
+cell.ID:  ATCACGAAGTCTCGGC-1
+cell.ID:  ATCACGACAAGTTCTG-1
+cell.ID:  ATCACGACATTCACTT-1
+cell.ID:  ATCCGAATCTTACCGC-1
+cell.ID:  ATCTGCCGTTAAGACA-1
+cell.ID:  ATGGGAGAGCACACAG-1
+cell.ID:  ATTACTCTCCTCGCAT-1
+cell.ID:  ATTATCCTCATAACCG-1
+cell.ID:  ATTCTACAGGCTCAGA-1
+cell.ID:  CAACTAGTCCACGAAT-1
+cell.ID:  CAAGAAAGTCTCAACA-1
+cell.ID:  CAAGAAATCCCAAGTA-1
+cell.ID:  CAAGATCGTATAATGG-1
+cell.ID:  CACATAGTCACCTCGT-1
+cell.ID:  CAGAATCGTATCTGCA-1
+cell.ID:  CAGAGAGCACAACGTT-1
+cell.ID:  CAGAGAGCAGGGATTG-1
+cell.ID:  CAGCTAACACTTACGA-1
+cell.ID:  CAGCTAATCACGATGT-1
+cell.ID:  CATATGGGTTATGCGT-1
+cell.ID:  CATCGGGGTCTAGCCG-1
+cell.ID:  CATGACAGTGGTCCGT-1
+cell.ID:  CATGACATCGTTGCCT-1
+cell.ID:  CATGCCTGTAAGCACG-1
+cell.ID:  CATGGCGCACAACGTT-1
+cell.ID:  CCACCTACATCGTCGG-1
+cell.ID:  CCACTACAGGCCATAG-1
+cell.ID:  CCACTACGTCGGCATC-1
+cell.ID:  CCACTACTCATTTGGG-1
+cell.ID:  CCACTACTCCCAAGAT-1
+cell.ID:  CCGTGGAGTTGGTAAA-1
+cell.ID:  CCTAGCTCATGATCCA-1
+cell.ID:  CCTAGCTTCCGAGCCA-1
+cell.ID:  CCTTCCCTCAAGGTAA-1
+cell.ID:  CCTTCGAGTTAAGTAG-1
+cell.ID:  CGAACATTCGTGGGAA-1
+cell.ID:  CGAATGTTCAGCCTAA-1
+cell.ID:  CGAGAAGGTTAAGAAC-1
+cell.ID:  CGAGCACAGCCCTAAT-1
+cell.ID:  CGAGCCATCGACCAGC-1
+cell.ID:  CGATGGCAGCGCCTCA-1
+cell.ID:  CGGACGTAGGAGCGTT-1
+cell.ID:  CGGACGTTCCAAACTG-1
+cell.ID:  CGGACTGGTCACTTCC-1
+cell.ID:  CGGTTAAGTCTCCATC-1
+cell.ID:  CGGTTAATCCCTCTTT-1
+cell.ID:  CGTAGCGGTAGGGTAC-1
+cell.ID:  CGTAGCGGTCAGCTAT-1
+cell.ID:  CGTGAGCGTGGCAAAC-1
+cell.ID:  CGTTGGGTCTCGTTTA-1
+cell.ID:  CTCGAAACACACGCTG-1
+cell.ID:  CTCGAAACACGGTTTA-1
+cell.ID:  CTCGAAAGTAGGCTGA-1
+cell.ID:  CTCGAAAGTCTAAAGA-1
+cell.ID:  CTCGGAGCACGGCCAT-1
+cell.ID:  CTCGGAGGTAGCGTCC-1
+cell.ID:  CTCGGGAAGTTGAGTA-1
+cell.ID:  CTCGGGATCATGTCCC-1
+cell.ID:  CTCGTACGTTGGTAAA-1
+cell.ID:  CTCGTCACACGGATAG-1
+cell.ID:  CTCGTCAGTACCTACA-1
+cell.ID:  CTCTAATCACTCTGTC-1
+cell.ID:  CTCTAATTCATAACCG-1
+cell.ID:  CTGAAACGTCTAAAGA-1
+cell.ID:  CTGAAGTCAAATTGCC-1
+cell.ID:  CTGATCCCATCTATGG-1
+cell.ID:  CTGATCCGTTGAGTTC-1
+cell.ID:  CTGCTGTGTCCTCTTG-1
+cell.ID:  CTGTTTAAGGAGTACC-1
+cell.ID:  CTTGGCTTCTAACTTC-1
+cell.ID:  GAATGAACAAGGTTCT-1
+cell.ID:  GACAGAGAGACGACGT-1
+cell.ID:  GACGGCTGTATCAGTC-1
+cell.ID:  GAGTCCGGTTGTACAC-1
+cell.ID:  GATCAGTAGACGACGT-1
+cell.ID:  GATCGATAGAGTACAT-1
+cell.ID:  GATCGTACACCTGGTG-1
+cell.ID:  GATCGTATCATGGTCA-1
+cell.ID:  GCAAACTAGGCTACGA-1
+cell.ID:  GCACATAAGTGGACGT-1
+cell.ID:  GCATACACACCATCCT-1
+cell.ID:  GCATACAGTAGCTGCC-1
+cell.ID:  GCATGATGTCCAAGTT-1
+cell.ID:  GCCAAATCACTTAAGC-1
+cell.ID:  GCCTCTATCTGAAAGA-1
+cell.ID:  GCGCCAACACGGATAG-1
+cell.ID:  GCTCTGTAGTCATCCA-1
+cell.ID:  GCTGCAGCATTCACTT-1
+cell.ID:  GCTGCGATCCAAATGC-1
+cell.ID:  GCTTCCAAGGTACTCT-1
+cell.ID:  GGAGCAAGTTTGGCGC-1
+cell.ID:  GGCAATTAGTGGACGT-1
+cell.ID:  GGCTCGATCAACTCTT-1
+cell.ID:  GGCTGGTAGTGCGATG-1
+cell.ID:  GGGAATGTCCACTCCA-1
+cell.ID:  GGGATGAAGCGACGTA-1
+cell.ID:  GGGCACTGTCAGATAA-1
+cell.ID:  GGGCACTTCTGGCGAC-1
+cell.ID:  GGGCATCCAAGCTGTT-1
+cell.ID:  GGGCATCTCGCACTCT-1
+cell.ID:  GGGTCTGAGCTGCAAG-1
+cell.ID:  GGGTCTGAGGGATCTG-1
+cell.ID:  GGGTTGCTCTCACATT-1
+cell.ID:  GGTGAAGGTCTAGTCA-1
+cell.ID:  GTAACGTTCCACGACG-1
+cell.ID:  GTACGTACAGGAATGC-1
+cell.ID:  GTACTTTCACACCGAC-1
+cell.ID:  GTAGTCAAGCAATCTC-1
+cell.ID:  GTCCTCAAGCCGCCTA-1
+cell.ID:  GTCCTCACAAGCTGGA-1
+cell.ID:  GTCGGGTCACCATCCT-1
+cell.ID:  GTCGTAAGTGTGTGCC-1
+cell.ID:  GTGCAGCCAATCTGCA-1
+cell.ID:  GTGCTTCTCCGCTGTT-1
+cell.ID:  GTGGGTCAGAAACGAG-1
+cell.ID:  GTTACAGCATGGATGG-1
+cell.ID:  GTTCTCGCACCGAATT-1
+cell.ID:  GTTTCTACACTTCTGC-1
+cell.ID:  GTTTCTAGTCTCACCT-1
+cell.ID:  TAAGTGCCATTGCGGC-1
+cell.ID:  TACACGATCTGGTTCC-1
+cell.ID:  TACAGTGAGCGTTGCC-1
+cell.ID:  TACAGTGCATAGTAAG-1
+cell.ID:  TACCTTACATCGGAAG-1
+cell.ID:  TACGGTAAGAGTACAT-1
+cell.ID:  TAGCCGGGTCCGCTGA-1
+cell.ID:  TAGTGGTTCACTTCAT-1
+cell.ID:  TATCTCAGTGGCGAAT-1
+cell.ID:  TATCTCAGTTCAGACT-1
+cell.ID:  TATGCCCAGGTTACCT-1
+cell.ID:  TCAACGATCATGTAGC-1
+cell.ID:  TCAATCTGTAAGTGTA-1
+cell.ID:  TCAGCAACACCACCAG-1
+cell.ID:  TCAGCAAGTATTCGTG-1
+cell.ID:  TCGGTAAAGTACGTAA-1
+cell.ID:  TCGTACCGTGTCAATC-1
+cell.ID:  TCGTAGATCGTTGCCT-1
+cell.ID:  TCTCATATCTACTATC-1
+cell.ID:  TCTCTAAGTAGCTAAA-1
+cell.ID:  TCTGAGAGTCTAGTCA-1
+cell.ID:  TCTTTCCGTTGACGTT-1
+cell.ID:  TGACTAGGTAGAAGGA-1
+cell.ID:  TGAGCATAGGTGCAAC-1
+cell.ID:  TGAGCATGTAAAGGAG-1
+cell.ID:  TGAGCCGAGCTCAACT-1
+cell.ID:  TGAGGGAAGTGCCATT-1
+cell.ID:  TGAGGGAGTGTTTGTG-1
+cell.ID:  TGATTTCTCAACTCTT-1
+cell.ID:  TGCGCAGCATGAGCGA-1
+cell.ID:  TGCGTGGTCCAACCAA-1
+cell.ID:  TGGACGCCAGACGCCT-1
+cell.ID:  TGGGAAGAGCTCCTTC-1
+cell.ID:  TGGGCGTGTCAGTGGA-1
+cell.ID:  TGTATTCCAAAGGAAG-1
+cell.ID:  TGTGTTTAGAGTGACC-1
+cell.ID:  TGTTCCGTCGCAAGCC-1
+cell.ID:  TTAGGCAAGCCGTCGT-1
+cell.ID:  TTAGGCAAGTCTTGCA-1
+cell.ID:  TTAGTTCTCATGCAAC-1
+cell.ID:  TTATGCTCAACACCTA-1
+cell.ID:  TTCCCAGAGTGGTCCC-1
+cell.ID:  TTCGAAGAGGCTAGAC-1
+cell.ID:  TTCGGTCAGAAGGACA-1
+cell.ID:  TTCTCCTCACCAGTTA-1
+cell.ID:  TTGACTTCAGATAATG-1
+cell.ID:  TTGCCGTCAAAGTGCG-1
+cell.ID:  TTGCGTCAGGAGTACC-1
+cell.ID:  TTGGAACCAGCTCGAC-1
+cell.ID:  TTTGGTTAGAGGACGG-1
+ID:  3.0_1
+index:  9
+P index:  2
+ST:  3.0
+T:  6
+cell.ID:  ACACCGGCACCCAGTG-1
+cell.ID:  ACGATACTCTTACCTA-1
+cell.ID:  CACTCCAAGGCATTGG-1
+cell.ID:  CCACCTAAGTCGCCGT-1
+cell.ID:  CGAATGTCAAGACGTG-1
+cell.ID:  CTAAGACCACATGGGA-1
+cell.ID:  GGAGCAACATCGATTG-1
+cell.ID:  GTAACGTAGGCTAGGT-1
+cell.ID:  GTGTTAGCAGCTTAAC-1
+ID:  6.0_1
+index:  10
+P index:  5
+ST:  6.0
+T:  6
+cell.ID:  AAACCTGGTCGACTGC-1
+cell.ID:  AACCATGTCGATAGAA-1
+cell.ID:  AACTGGTTCGCATGAT-1
+cell.ID:  AACTTTCTCCATGAGT-1
+cell.ID:  AAGCCGCAGCGCCTCA-1
+cell.ID:  ACACCGGCAGGCTCAC-1
+cell.ID:  ACACTGAAGCAACGGT-1
+cell.ID:  ACGAGGAGTCGCATCG-1
+cell.ID:  ACGGAGATCAATAAGG-1
+cell.ID:  ACGGCCATCCCTTGCA-1
+cell.ID:  ACGTCAAAGATGCCTT-1
+cell.ID:  ACTGTCCCATGTAGTC-1
+cell.ID:  ACTTTCAGTGGTCCGT-1
+cell.ID:  AGATCTGTCTGGTATG-1
+cell.ID:  AGATTGCTCCGCGGTA-1
+cell.ID:  AGCCTAAAGGCTAGGT-1
+cell.ID:  AGCGGTCAGAGCTGCA-1
+cell.ID:  AGCGTATGTCGTTGTA-1
+cell.ID:  AGCGTCGCATGATCCA-1
+cell.ID:  AGCTCCTGTCGAGATG-1
+cell.ID:  AGCTCCTTCACTTATC-1
+cell.ID:  AGCTCTCGTGACTCAT-1
+cell.ID:  AGCTTGAAGGTTACCT-1
+cell.ID:  AGCTTGACATGTCCTC-1
+cell.ID:  AGGCCGTGTGGCAAAC-1
+cell.ID:  AGGGATGAGTAACCCT-1
+cell.ID:  AGTCTTTAGTGAACAT-1
+cell.ID:  AGTCTTTTCCTCAACC-1
+cell.ID:  ATAACGCAGTCGATAA-1
+cell.ID:  ATAAGAGAGACTAAGT-1
+cell.ID:  ATAAGAGAGGATGGAA-1
+cell.ID:  ATCCGAAAGATGCCAG-1
+cell.ID:  ATCGAGTCATCCCATC-1
+cell.ID:  ATTCTACCAAACGTGG-1
+cell.ID:  ATTGGACCATCCTAGA-1
+cell.ID:  CAACCAAGTAGTACCT-1
+cell.ID:  CAAGTTGGTAGCGCTC-1
+cell.ID:  CACAAACCACTTGGAT-1
+cell.ID:  CACAAACGTCAGAAGC-1
+cell.ID:  CACCACTAGTTTGCGT-1
+cell.ID:  CACCAGGCATGCGCAC-1
+cell.ID:  CACCTTGCAGACACTT-1
+cell.ID:  CACCTTGGTTGGTTTG-1
+cell.ID:  CAGCCGAGTCTAAAGA-1
+cell.ID:  CAGCGACGTACATCCA-1
+cell.ID:  CAGCTGGAGGTGCTAG-1
+cell.ID:  CAGCTGGGTACCAGTT-1
+cell.ID:  CATTCGCGTGCAACGA-1
+cell.ID:  CCACCTATCAACCATG-1
+cell.ID:  CCCAATCAGGATGCGT-1
+cell.ID:  CCGGGATTCATGGTCA-1
+cell.ID:  CCTACCACACCATCCT-1
+cell.ID:  CCTTACGAGGCACATG-1
+cell.ID:  CCTTACGAGTCTCGGC-1
+cell.ID:  CCTTTCTTCACGCGGT-1
+cell.ID:  CGAACATAGTTGCAGG-1
+cell.ID:  CGAGAAGTCACATGCA-1
+cell.ID:  CGAGCACAGCCAGTTT-1
+cell.ID:  CGAGCCATCAACGCTA-1
+cell.ID:  CGATGGCTCAATCTCT-1
+cell.ID:  CGATGTAGTTAAGATG-1
+cell.ID:  CGCCAAGAGGTTCCTA-1
+cell.ID:  CGCCAAGTCTAACTCT-1
+cell.ID:  CGCGTTTCAGACAGGT-1
+cell.ID:  CGCTATCGTCTGATTG-1
+cell.ID:  CGTCCATAGAGAGCTC-1
+cell.ID:  CGTGAGCAGAAAGTGG-1
+cell.ID:  CTAACTTAGATCCCGC-1
+cell.ID:  CTACCCATCTTCGAGA-1
+cell.ID:  CTAGAGTGTAGCCTCG-1
+cell.ID:  CTAGCCTTCGTCGTTC-1
+cell.ID:  CTAGTGACAGGACGTA-1
+cell.ID:  CTCAGAATCGTTGCCT-1
+cell.ID:  CTCGGGATCTTGTACT-1
+cell.ID:  CTCGTACGTTGCGTTA-1
+cell.ID:  CTCGTACTCTAACTCT-1
+cell.ID:  CTCGTCACAAGTTCTG-1
+cell.ID:  CTCTAATGTGTTAAGA-1
+cell.ID:  CTGGTCTCATCTACGA-1
+cell.ID:  CTTAACTCATAGACTC-1
+cell.ID:  CTTAACTGTCCGTCAG-1
+cell.ID:  CTTACCGCAAACCTAC-1
+cell.ID:  CTTCTCTGTGTAATGA-1
+cell.ID:  GAAACTCGTTATGTGC-1
+cell.ID:  GAACATCCAGTAAGCG-1
+cell.ID:  GACTACACATGTCTCC-1
+cell.ID:  GATCGTATCTCTTGAT-1
+cell.ID:  GATCGTATCTTAACCT-1
+cell.ID:  GATGAGGGTTTGTTGG-1
+cell.ID:  GCAAACTCACGTGAGA-1
+cell.ID:  GCCTCTAAGAAACGAG-1
+cell.ID:  GCGCAGTAGCGTGAGT-1
+cell.ID:  GCGCGATCAACTGGCC-1
+cell.ID:  GCGCGATGTCCGACGT-1
+cell.ID:  GCGGGTTCACCAGGCT-1
+cell.ID:  GCTCTGTGTGTTTGTG-1
+cell.ID:  GCTGCGATCTTACCGC-1
+cell.ID:  GGAACTTCAATCTACG-1
+cell.ID:  GGACAGAGTGTCCTCT-1
+cell.ID:  GGACATTGTCACCTAA-1
+cell.ID:  GGAGCAACAAACGTGG-1
+cell.ID:  GGATTACAGGCAGTCA-1
+cell.ID:  GGCCGATAGGTAGCTG-1
+cell.ID:  GGCCGATCAATGGACG-1
+cell.ID:  GGCGACTCATGTTCCC-1
+cell.ID:  GGCTCGAGTTCTCATT-1
+cell.ID:  GGGTTGCAGGTACTCT-1
+cell.ID:  GGTGAAGGTACTTGAC-1
+cell.ID:  GGTGTTACATCACCCT-1
+cell.ID:  GTAACTGGTCGCTTCT-1
+cell.ID:  GTACGTAAGACTAGAT-1
+cell.ID:  GTCACAAGTCTTTCAT-1
+cell.ID:  GTCACGGAGGCAATTA-1
+cell.ID:  GTCATTTCAATGGAGC-1
+cell.ID:  GTCCTCAGTAGGCATG-1
+cell.ID:  GTCGTAAAGATCGATA-1
+cell.ID:  GTCGTAAAGCTGATAA-1
+cell.ID:  GTGCGGTAGGGTGTTG-1
+cell.ID:  GTGCGGTTCAGCTCGG-1
+cell.ID:  GTGCTTCGTAGTGAAT-1
+cell.ID:  GTGGGTCCAAACGTGG-1
+cell.ID:  GTTACAGAGCACAGGT-1
+cell.ID:  GTTCATTCAGTAACGG-1
+cell.ID:  TAAGAGACACCCAGTG-1
+cell.ID:  TACAGTGAGATCCTGT-1
+cell.ID:  TACTCATAGTTAGGTA-1
+cell.ID:  TAGTGGTAGATGCCAG-1
+cell.ID:  TATTACCGTCGGATCC-1
+cell.ID:  TCAACGACAGATGGCA-1
+cell.ID:  TCAGCTCAGGGCTTGA-1
+cell.ID:  TCAGGATAGAGAACAG-1
+cell.ID:  TCAGGTAGTTGTGGCC-1
+cell.ID:  TCATTACGTAGTACCT-1
+cell.ID:  TCATTTGTCTTCAACT-1
+cell.ID:  TCCACACCAAATACAG-1
+cell.ID:  TCCACACCATATGGTC-1
+cell.ID:  TCGCGAGAGTGTACGG-1
+cell.ID:  TCGCGAGTCCGCGTTT-1
+cell.ID:  TCGGGACGTCTCAACA-1
+cell.ID:  TCGGGACTCAAGATCC-1
+cell.ID:  TCGTAGAAGAGTGAGA-1
+cell.ID:  TCTCATAAGATCACGG-1
+cell.ID:  TCTCATAAGGAATGGA-1
+cell.ID:  TCTCTAAAGTGTCCAT-1
+cell.ID:  TCTGGAATCTGGCGTG-1
+cell.ID:  TGACAACTCAGCATGT-1
+cell.ID:  TGCACCTAGCGTTGCC-1
+cell.ID:  TGCCCATCAAGGTGTG-1
+cell.ID:  TGCCCTAGTGACGCCT-1
+cell.ID:  TGCGTGGCAAGCGTAG-1
+cell.ID:  TGGACGCGTCCGAAGA-1
+cell.ID:  TGTGGTATCTACGAGT-1
+cell.ID:  TTAGTTCTCAGCCTAA-1
+cell.ID:  TTCCCAGTCGAATGCT-1
+cell.ID:  TTCCCAGTCGTCGTTC-1
+cell.ID:  TTCTCAAGTTGTTTGG-1
+cell.ID:  TTCTCCTCACACCGAC-1
+cell.ID:  TTCTTAGCACTTGGAT-1
+cell.ID:  TTGGAACTCCATGCTC-1
+cell.ID:  TTTACTGCATTATCTC-1
+cell.ID:  TTTGCGCGTTCGTCTC-1
+['0 1', '1 2', '2 3', '3 4', '3 5', '1 6', '3 7', '5 8', '2 9', '5 10']
+['AAAGATGTCCAAGTAC-1 0', 'AAAGTAGCATACAGCT-1 0', 'AACACGTGTCCTGCTT-1 0', 'AACGTTGGTCGGCACT-1 0', 'AACTCCCAGCTGAAAT-1 0', 'AACTCTTTCCGAACGC-1 0', 'ACATCAGCACCATGTA-1 0', 'ACATGGTGTTAAGATG-1 0', 'ACCGTAAAGCTCCCAG-1 0', 'ACGCAGCTCCCGACTT-1 0', 'ACTGTCCTCATGGTCA-1 0', 'AGGCCACCAAGGTGTG-1 0', 'AGGTCCGTCAAGAAGT-1 0', 'AGTAGTCAGCCATCGC-1 0', 'AGTAGTCTCCTCGCAT-1 0', 'AGTGAGGCAGGGATTG-1 0', 'ATTGGTGCATCGGAAG-1 0', 'CAACCTCAGAAGATTC-1 0', 'CAACCTCAGTTAACGA-1 0', 'CAAGATCTCTTCCTTC-1 0', 'CAAGGCCGTATATGAG-1 0', 'CACACAACATCTATGG-1 0', 'CACAGTATCTTGTTTG-1 0', 'CAGCGACTCTGTACGA-1 0', 'CAGTCCTCATGAAGTA-1 0', 'CATGCCTAGTTTAGGA-1 0', 'CCACTACAGCCCAGCT-1 0', 'CCCAGTTGTGATGCCC-1 0', 'CGGAGCTAGGCAGGTT-1 0', 'CGTGTAAAGGAACTGC-1 0', 'CGTTCTGGTAGAAAGG-1 0', 'CTAATGGGTGTTTGTG-1 0', 'CTCACACGTCCTGCTT-1 0', 'CTCAGAATCTCACATT-1 0', 'CTCTGGTCATTGTGCA-1 0', 'GAAATGAAGCCCAGCT-1 0', 'GAATAAGAGCACAGGT-1 0', 'GACGGCTCACGGTGTC-1 0', 'GACGGCTCATAACCTG-1 0', 'GAGGTGACAAGCCCAC-1 0', 'GATGAGGAGAAGGGTA-1 0', 'GCAATCACAGACGTAG-1 0', 'GCACATAGTCCTGCTT-1 0', 'GCAGTTAAGCTGCGAA-1 0', 'GCAGTTATCTGGTGTA-1 0', 'GCATGTATCCTTCAAT-1 0', 'GGAAAGCTCGCAAGCC-1 0', 'GGACATTCAAACCTAC-1 0', 'GGCAATTCACGAAGCA-1 0', 'GGCCGATGTAAGGGCT-1 0', 'GGGAGATGTGCAGTAG-1 0', 'GGGCATCGTCGGCATC-1 0', 'GTATTCTGTTGTTTGG-1 0', 'GTCACAAAGATCGATA-1 0', 'GTGGGTCTCTTGAGAC-1 0', 'TAAACCGTCAAGATCC-1 0', 'TACGGTATCAGTTAGC-1 0', 'TACTCATGTGATAAGT-1 0', 'TACTTACTCCACGCAG-1 0', 'TACTTGTAGGAATTAC-1 0', 'TAGGCATTCTTTACGT-1 0', 'TCAGATGCAATACGCT-1 0', 'TCAGCTCGTCATGCCG-1 0', 'TCGGTAAAGGCTCAGA-1 0', 'TGACTTTTCTATGTGG-1 0', 'TGAGAGGGTACGAAAT-1 0', 'TGAGGGACATGCAATC-1 0', 'TGCCCATAGGTACTCT-1 0', 'TGCGTGGCAAGTACCT-1 0', 'TGTCCCATCAGATAAG-1 0', 'TGTGGTACATCTCGCT-1 0', 'TTAGGCATCCTATGTT-1 0', 'TTCCCAGAGTCGATAA-1 0', 'TTCCCAGCAATGTAAG-1 0', 'TTCGAAGAGAAGCCCA-1 0', 'TTCTCAATCATCTGCC-1 0', 'TTGTAGGGTAAACCTC-1 0', 'TTTATGCCAGTGGGAT-1 0', 'AAACGGGGTATCGCAT-1 1', 'AAAGTAGGTCAGGACA-1 1', 'AACTGGTCAAGCCGCT-1 1', 'AACTTTCAGGTGTTAA-1 1', 'AACTTTCCAATTCCTT-1 1', 'AAGACCTGTCGAGATG-1 1', 'AAGGCAGGTCAGGACA-1 1', 'AAGGCAGGTGGTCCGT-1 1', 'ACATCAGTCACCACCT-1 1', 'ACCCACTAGGCGCTCT-1 1', 'ACGAGGAAGCTGAACG-1 1', 'ACGAGGAGTTAGAACA-1 1', 'ACGATACGTGAGCGAT-1 1', 'ACGCAGCGTCTGATTG-1 1', 'ACGGCCAAGCCGATTT-1 1', 'ACGGGCTTCTGAGGGA-1 1', 'ACTGAACAGAGCTATA-1 1', 'AGAGCGAAGCACCGTC-1 1', 'AGAGCGAGTGATGATA-1 1', 'AGAGCGATCTACCTGC-1 1', 'AGAGCTTTCATCGGAT-1 1', 'AGCCTAATCTGTTTGT-1 1', 'AGCGTCGTCTACCAGA-1 1', 'AGCTCCTAGCACGCCT-1 1', 'AGGCCACAGGACACCA-1 1', 'AGGCCGTTCCAGATCA-1 1', 'AGTTGGTTCTTGAGGT-1 1', 'ATAGACCGTTAAAGAC-1 1', 'ATCGAGTAGAGGTAGA-1 1', 'ATGAGGGCACGCCAGT-1 1', 'ATGTGTGCAGTCCTTC-1 1', 'ATTGGTGAGCTGTTCA-1 1', 'CAACCTCGTTAGAACA-1 1', 'CAACTAGAGAGACGAA-1 1', 'CAACTAGCACTTAACG-1 1', 'CAAGAAACACTCGACG-1 1', 'CAAGTTGAGGCGATAC-1 1', 'CACACCTGTAACGCGA-1 1', 'CACACTCGTCAGATAA-1 1', 'CACAGTATCGTGTAGT-1 1', 'CACATAGTCTTCGAGA-1 1', 'CACCTTGCAGATTGCT-1 1', 'CAGCAGCCACGCGAAA-1 1', 'CAGCTAACACCCTATC-1 1', 'CAGCTGGGTCACCCAG-1 1', 'CAGTAACTCGGCTACG-1 1', 'CAGTCCTAGGACCACA-1 1', 'CATCAGATCAGAGCTT-1 1', 'CATCGAAGTTCGCTAA-1 1', 'CATGGCGCAAGTAGTA-1 1', 'CCAGCGAAGTGGTAAT-1 1', 'CCGGTAGCATAAGACA-1 1', 'CCTACCACATGACATC-1 1', 'CCTACCAGTCGAGTTT-1 1', 'CCTAGCTCAAGACACG-1 1', 'CCTAGCTTCCATTCTA-1 1', 'CGAACATGTAGCTGCC-1 1', 'CGACCTTCATTTCAGG-1 1', 'CGACCTTTCACCCGAG-1 1', 'CGATTGATCCCAGGTG-1 1', 'CGCTGGATCGAACTGT-1 1', 'CGCTTCACAGGATCGA-1 1', 'CGGACTGAGGCATGGT-1 1', 'CGGAGTCCATCGGTTA-1 1', 'CGGGTCACACCGGAAA-1 1', 'CGTAGGCGTTTGACAC-1 1', 'CGTCACTAGACGACGT-1 1', 'CGTCAGGTCAGCCTAA-1 1', 'CGTGAGCAGGAGTAGA-1 1', 'CGTTCTGCAGCCTGTG-1 1', 'CTACATTCACAGGCCT-1 1', 'CTACATTGTTCCGTCT-1 1', 'CTCGGAGCAGTGGGAT-1 1', 'CTCGTCATCAGGCAAG-1 1', 'CTCGTCATCTGCAGTA-1 1', 'CTCTAATGTGACCAAG-1 1', 'CTGATCCCACCGCTAG-1 1', 'CTGATCCTCGGCTTGG-1 1', 'CTGCCTAGTACTTGAC-1 1', 'CTTACCGCAACGATGG-1 1', 'CTTACCGGTCATTAGC-1 1', 'GAACGGATCTGCAGTA-1 1', 'GAAGCAGAGAACAATC-1 1', 'GAAGCAGTCACTTATC-1 1', 'GAATAAGGTACCCAAT-1 1', 'GACCAATGTCTGGAGA-1 1', 'GACTAACAGCGTAGTG-1 1', 'GACTACAGTCCGTCAG-1 1', 'GAGCAGACACCCTATC-1 1', 'GAGGTGAAGGATGGTC-1 1', 'GATCAGTTCACTCTTA-1 1', 'GATCGATTCATAAAGG-1 1', 'GCAATCATCAGTTAGC-1 1', 'GCAGTTAGTTACTGAC-1 1', 'GCCAAATGTTCCACAA-1 1', 'GCCTCTACAAATACAG-1 1', 'GCTGCGAGTCGACTAT-1 1', 'GGCGTGTCATTGTGCA-1 1', 'GGGACCTCATAGACTC-1 1', 'GGGAGATGTAAAGTCA-1 1', 'GGTGCGTGTTGTACAC-1 1', 'GTAACGTGTTCCACAA-1 1', 'GTACTCCTCCCGACTT-1 1', 'GTACTTTGTGCACTTA-1 1', 'GTAGGCCAGATCGGGT-1 1', 'GTAGGCCTCACCCTCA-1 1', 'GTCGGGTCAAGTAGTA-1 1', 'GTCGGGTTCTGGTGTA-1 1', 'GTCTTCGGTCTAGAGG-1 1', 'GTCTTCGGTGTCGCTG-1 1', 'GTGCGGTGTATTCGTG-1 1', 'GTTTCTATCACAAACC-1 1', 'TACAGTGGTAAGGGAA-1 1', 'TACTCATAGTACCGGA-1 1', 'TAGACCAAGAGTCTGG-1 1', 'TAGCCGGCAAGTACCT-1 1', 'TAGGCATTCCACGTTC-1 1', 'TATTACCAGGCTAGAC-1 1', 'TCAGCTCTCGTCTGAA-1 1', 'TCGCGAGAGAAACGAG-1 1', 'TCGGGACAGTCCCACG-1 1', 'TCTATTGCAGAGTGTG-1 1', 'TCTATTGCAGCTGTTA-1 1', 'TCTTTCCAGGTCGGAT-1 1', 'TGAGAGGCAAGGGTCA-1 1', 'TGAGAGGGTCAACTGT-1 1', 'TGAGCCGGTACGCACC-1 1', 'TGAGGGAAGCACCGTC-1 1', 'TGCCAAAAGACTAAGT-1 1', 'TGCTGCTCACAGGTTT-1 1', 'TGCTGCTCACGGATAG-1 1', 'TGGCGCATCCACGAAT-1 1', 'TGGCTGGGTGTGGTTT-1 1', 'TGTGGTAAGTTAAGTG-1 1', 'TGTGGTAGTACTCAAC-1 1', 'TTCGGTCGTTTGGGCC-1 1', 'TTCTCAATCCCATTTA-1 1', 'TTGCGTCAGCGAAGGG-1 1', 'TTTATGCGTTAAGATG-1 1', 'TTTGGTTGTGTTTGTG-1 1', 'AAAGATGAGGACCACA-1 2', 'AAAGATGCAATCTGCA-1 2', 'AAAGATGGTGCAGGTA-1 2', 'AAAGATGGTTTGTTTC-1 2', 'AAAGTAGAGCTGTCTA-1 2', 'AAATGCCAGGGATACC-1 2', 'AACACGTAGTGTTGAA-1 2', 'AACCATGGTGGACGAT-1 2', 'AACGTTGAGTTCCACA-1 2', 'AACGTTGCATTCTCAT-1 2', 'AACTCAGGTTACGCGC-1 2', 'AACTCCCCAGTTCATG-1 2', 'AACTCTTTCTGCTGTC-1 2', 'AACTGGTTCGATCCCT-1 2', 'AACTGGTTCGTCCAGG-1 2', 'AACTTTCAGGTACTCT-1 2', 'AACTTTCTCCACTCCA-1 2', 'AAGACCTGTGCCTGTG-1 2', 'AAGCCGCCAGCTTCGG-1 2', 'AAGCCGCGTTCTGTTT-1 2', 'AAGGAGCTCTTCATGT-1 2', 'AAGGTTCTCTGCGTAA-1 2', 'ACACCGGGTGTGCCTG-1 2', 'ACAGCCGGTGAGTATA-1 2', 'ACATACGAGGCTAGAC-1 2', 'ACATACGAGTAGCCGA-1 2', 'ACATACGTCCTGTACC-1 2', 'ACATCAGCAATGAATG-1 2', 'ACATCAGCAGTGGAGT-1 2', 'ACCCACTAGCTAAACA-1 2', 'ACCGTAACAATACGCT-1 2', 'ACCTTTATCTACTATC-1 2', 'ACCTTTATCTCTGTCG-1 2', 'ACGAGCCAGTTCGATC-1 2', 'ACGAGCCGTGCTTCTC-1 2', 'ACGAGCCGTTGTCGCG-1 2', 'ACGATACGTTAAAGAC-1 2', 'ACGCCAGCAGGCGATA-1 2', 'ACGCCGAAGGAGTACC-1 2', 'ACGCCGATCACGCATA-1 2', 'ACGCCGATCGCCTGAG-1 2', 'ACGGCCATCAATAAGG-1 2', 'ACGGGCTCATCCGTGG-1 2', 'ACGGGTCCATGGTCTA-1 2', 'ACGGGTCGTGCGATAG-1 2', 'ACGGGTCGTTCTGTTT-1 2', 'ACTGAGTAGCCCAACC-1 2', 'ACTGAGTAGCCGCCTA-1 2', 'ACTGAGTCAAGGACTG-1 2', 'ACTGATGAGCAGGTCA-1 2', 'ACTGATGCACTAAGTC-1 2', 'ACTGTCCAGGGCATGT-1 2', 'ACTGTCCTCCTCAACC-1 2', 'ACTTTCATCACGGTTA-1 2', 'AGAATAGTCCCATTTA-1 2', 'AGACGTTAGTCTCGGC-1 2', 'AGAGCGAAGCGCTCCA-1 2', 'AGAGCTTAGACTTTCG-1 2', 'AGAGCTTTCAATAAGG-1 2', 'AGAGCTTTCGATGAGG-1 2', 'AGAGTGGAGGGCTTCC-1 2', 'AGAGTGGAGTGCGTGA-1 2', 'AGAGTGGCAGACGTAG-1 2', 'AGAGTGGGTCTCCATC-1 2', 'AGAGTGGGTGGACGAT-1 2', 'AGCAGCCAGCGATGAC-1 2', 'AGCAGCCGTAAGTAGT-1 2', 'AGCGGTCTCGCGGATC-1 2', 'AGCGTATCAATAGCAA-1 2', 'AGCGTCGGTCGGATCC-1 2', 'AGCGTCGGTCTTCAAG-1 2', 'AGGCCACAGTTGAGAT-1 2', 'AGGCCACCACAGTCGC-1 2', 'AGGCCACTCGTGACAT-1 2', 'AGGGATGAGTGGACGT-1 2', 'AGGGTGAAGAGGGCTT-1 2', 'AGGGTGAGTGAGTATA-1 2', 'AGGTCATCAGTGAGTG-1 2', 'AGGTCATGTTTAAGCC-1 2', 'AGTAGTCCACGTCTCT-1 2', 'AGTAGTCTCGTACCGG-1 2', 'AGTCTTTTCACAATGC-1 2', 'AGTGTCAGTAAAGGAG-1 2', 'AGTTGGTGTGAGCGAT-1 2', 'ATAAGAGTCCAATGGT-1 2', 'ATAGACCAGTAGTGCG-1 2', 'ATCACGACATGCCCGA-1 2', 'ATCATCTAGATCACGG-1 2', 'ATCATCTCAGCTTAAC-1 2', 'ATCATGGAGTGTCTCA-1 2', 'ATCATGGGTCCTCTTG-1 2', 'ATCCACCCATTCTCAT-1 2', 'ATCGAGTAGGCGCTCT-1 2', 'ATCGAGTCACAAGACG-1 2', 'ATCGAGTCACAGCGTC-1 2', 'ATCGAGTGTCTACCTC-1 2', 'ATCTACTCAGATAATG-1 2', 'ATCTACTGTAGAGCTG-1 2', 'ATCTGCCAGGTCGGAT-1 2', 'ATCTGCCGTCTCTCGT-1 2', 'ATCTGCCTCCAAACAC-1 2', 'ATGCGATAGATCACGG-1 2', 'ATGGGAGGTCTCTTTA-1 2', 'ATGTGTGCATTATCTC-1 2', 'ATTACTCGTGTGAAAT-1 2', 'ATTCTACTCTGGAGCC-1 2', 'ATTGGACTCTACTATC-1 2', 'ATTGGTGTCGGTGTCG-1 2', 'CAACCAACAATGGAGC-1 2', 'CAACCAATCACCACCT-1 2', 'CAACCAATCACGATGT-1 2', 'CAACTAGAGGCTATCT-1 2', 'CAACTAGTCACATACG-1 2', 'CAAGAAACACCACCAG-1 2', 'CAAGATCGTATGGTTC-1 2', 'CAAGGCCCAAGTTGTC-1 2', 'CAAGGCCGTCTAAAGA-1 2', 'CAAGGCCTCCTTTCGG-1 2', 'CAAGTTGAGCCACTAT-1 2', 'CAAGTTGCAGGTGCCT-1 2', 'CAAGTTGTCCGTCATC-1 2', 'CACAAACAGTGGGCTA-1 2', 'CACAAACCATGGATGG-1 2', 'CACACCTAGTGAAGTT-1 2', 'CACACCTCACCTCGGA-1 2', 'CACACCTCACGGACAA-1 2', 'CACACCTTCAGTCAGT-1 2', 'CACACTCAGAAGGGTA-1 2', 'CACACTCAGTTCCACA-1 2', 'CACAGGCGTAAGGGAA-1 2', 'CACAGGCTCAGTCCCT-1 2', 'CACAGGCTCCACTCCA-1 2', 'CACATTTCATGCAATC-1 2', 'CACATTTGTAATCACC-1 2', 'CACATTTTCCGTCATC-1 2', 'CACCACTGTGCTTCTC-1 2', 'CACCAGGCACACCGCA-1 2', 'CACCAGGCATGTAAGA-1 2', 'CACCTTGAGTACGTTC-1 2', 'CACCTTGGTCGAAAGC-1 2', 'CAGAATCAGCTAGTTC-1 2', 'CAGAATCGTTGTTTGG-1 2', 'CAGATCAGTCTAGAGG-1 2', 'CAGCAGCAGACCGGAT-1 2', 'CAGCAGCCATTGGGCC-1 2', 'CAGCTAAAGTTGCAGG-1 2', 'CAGCTGGTCCACGCAG-1 2', 'CAGGTGCCAACGATGG-1 2', 'CAGGTGCCATGCGCAC-1 2', 'CAGTAACTCGAACGGA-1 2', 'CATATGGGTTGCTCCT-1 2', 'CATATTCCATGCTAGT-1 2', 'CATATTCGTCCGCTGA-1 2', 'CATATTCTCCGCGTTT-1 2', 'CATCAAGCATCTCCCA-1 2', 'CATCAAGGTGGACGAT-1 2', 'CATCAAGTCGCATGGC-1 2', 'CATCAGATCCGAACGC-1 2', 'CATCCACAGCTAACAA-1 2', 'CATCGGGGTTGAACTC-1 2', 'CATGACAAGAGCCTAG-1 2', 'CATGCCTGTCTAGCGC-1 2', 'CATGGCGGTTCGCGAC-1 2', 'CATTATCCACGAAATA-1 2', 'CATTATCGTAGCGCTC-1 2', 'CCACCTAAGAAGATTC-1 2', 'CCACCTAAGGTGACCA-1 2', 'CCACCTACAGTGACAG-1 2', 'CCACCTAGTGGCCCTA-1 2', 'CCACCTATCCGCATAA-1 2', 'CCACGGAGTTCGTCTC-1 2', 'CCACGGATCCAACCAA-1 2', 'CCACTACAGGAATTAC-1 2', 'CCAGCGAGTAGATTAG-1 2', 'CCATGTCGTCAGAGGT-1 2', 'CCCAATCGTGCTAGCC-1 2', 'CCCATACAGTCCGTAT-1 2', 'CCGGTAGCATCACGTA-1 2', 'CCGGTAGCATTACGAC-1 2', 'CCGGTAGTCATTCACT-1 2', 'CCGTACTCAGCAGTTT-1 2', 'CCGTGGAAGTTATCGC-1 2', 'CCGTGGAGTGGTAACG-1 2', 'CCGTGGAGTTCAGGCC-1 2', 'CCGTTCAAGATGTTAG-1 2', 'CCTACCACAGCGTTCG-1 2', 'CCTAGCTCAAACGTGG-1 2', 'CCTAGCTTCCTTCAAT-1 2', 'CCTCAGTTCGGATGGA-1 2', 'CCTCTGACAGGAATGC-1 2', 'CCTTACGCAAAGTGCG-1 2', 'CCTTCCCTCATGCAAC-1 2', 'CCTTCGAGTACCCAAT-1 2', 'CCTTTCTTCTCCAACC-1 2', 'CGAATGTAGAGTCGGT-1 2', 'CGAATGTGTACAGACG-1 2', 'CGACCTTAGTTGAGAT-1 2', 'CGAGAAGAGCGATGAC-1 2', 'CGAGCACCACACCGAC-1 2', 'CGAGCACCATAAGACA-1 2', 'CGAGCACGTCAAGCGA-1 2', 'CGAGCACGTTCAGTAC-1 2', 'CGATCGGAGTGAATTG-1 2', 'CGATGGCGTACGACCC-1 2', 'CGATGGCGTATTACCG-1 2', 'CGCGGTAAGGGATACC-1 2', 'CGCGGTATCACCACCT-1 2', 'CGCTGGATCTGCCAGG-1 2', 'CGGACACGTCTGGAGA-1 2', 'CGGACGTGTGTTGGGA-1 2', 'CGGACTGAGCCAGGAT-1 2', 'CGGCTAGCATATGGTC-1 2', 'CGGCTAGCATGTCGAT-1 2', 'CGGCTAGGTGAGTGAC-1 2', 'CGGCTAGGTGGTACAG-1 2', 'CGTAGCGGTGTGCCTG-1 2', 'CGTCACTTCTGAAAGA-1 2', 'CGTCCATTCAAACGGG-1 2', 'CGTCTACAGATGGGTC-1 2', 'CGTGTAATCGATAGAA-1 2', 'CGTGTCTGTCATACTG-1 2', 'CGTGTCTTCGCGTAGC-1 2', 'CGTTAGACAGTGACAG-1 2', 'CGTTAGATCAGCGACC-1 2', 'CGTTGGGGTCAACTGT-1 2', 'CTAAGACAGATAGTCA-1 2', 'CTAAGACTCAACGAAA-1 2', 'CTAATGGCAGTCAGAG-1 2', 'CTAATGGTCGTCTGCT-1 2', 'CTACACCGTCGCATAT-1 2', 'CTACACCGTCGTGGCT-1 2', 'CTACACCTCTTGAGAC-1 2', 'CTACCCATCGCATGGC-1 2', 'CTAGAGTCAAACTGTC-1 2', 'CTAGAGTGTGTTAAGA-1 2', 'CTAGCCTAGCCACCTG-1 2', 'CTAGCCTGTACAGACG-1 2', 'CTCAGAAAGCCAGTAG-1 2', 'CTCATTAAGGATCGCA-1 2', 'CTCATTATCTTTAGGG-1 2', 'CTCCTAGAGTACTTGC-1 2', 'CTCCTAGAGTGCCAGA-1 2', 'CTCGAAAGTACCGTTA-1 2', 'CTCGAGGGTAGCTGCC-1 2', 'CTCGAGGTCAGTGTTG-1 2', 'CTCGGAGAGTGACTCT-1 2', 'CTCGGAGCACCGGAAA-1 2', 'CTCGTCAAGGCACATG-1 2', 'CTCGTCAGTATATCCG-1 2', 'CTCGTCATCCACGCAG-1 2', 'CTCGTCATCGACGGAA-1 2', 'CTCTAATAGCTAAGAT-1 2', 'CTCTACGAGTGAACAT-1 2', 'CTCTGGTAGAGTTGGC-1 2', 'CTGAAACTCTCTTATG-1 2', 'CTGAAACTCTTTAGGG-1 2', 'CTGAAGTGTGGCAAAC-1 2', 'CTGATCCGTAGCCTAT-1 2', 'CTGGTCTGTCTAGGTT-1 2', 'CTGTGCTCATGTTCCC-1 2', 'CTGTGCTGTTGTACAC-1 2', 'CTGTGCTTCAAGAAGT-1 2', 'CTGTGCTTCATGCATG-1 2', 'CTGTTTACACGAAGCA-1 2', 'CTGTTTATCCTGCTTG-1 2', 'CTTACCGAGGGTCTCC-1 2', 'CTTACCGCAAGAGGCT-1 2', 'CTTACCGTCGGACAAG-1 2', 'CTTAGGATCTCCGGTT-1 2', 'CTTGGCTCACATTAGC-1 2', 'CTTGGCTGTCGAGATG-1 2', 'CTTTGCGAGGGAGTAA-1 2', 'GAAACTCGTAGCCTAT-1 2', 'GAAATGACAGGTTTCA-1 2', 'GAAATGAGTTCATGGT-1 2', 'GAACGGAAGAAGAAGC-1 2', 'GAAGCAGCATTATCTC-1 2', 'GACGGCTCAGGCTGAA-1 2', 'GACGGCTTCTTGGGTA-1 2', 'GACTACACATCTCCCA-1 2', 'GAGCAGATCAACACTG-1 2', 'GAGCAGATCGGAGCAA-1 2', 'GAGGTGATCGTGGACC-1 2', 'GAGGTGATCGTGGTCG-1 2', 'GAGTCCGCATAGGATA-1 2', 'GATCAGTTCCATGCTC-1 2', 'GATGAGGTCCGTCAAA-1 2', 'GCAAACTAGTATCTCG-1 2', 'GCAAACTTCAACGCTA-1 2', 'GCAAACTTCACTGGGC-1 2', 'GCAATCACAATCTGCA-1 2', 'GCAATCATCCAGATCA-1 2', 'GCAATCATCGTGGACC-1 2', 'GCACTCTAGGTACTCT-1 2', 'GCACTCTTCGGCGCAT-1 2', 'GCACTCTTCTGTCTCG-1 2', 'GCAGTTACAATAACGA-1 2', 'GCAGTTATCTCCGGTT-1 2', 'GCATACAAGTGGACGT-1 2', 'GCCTCTAAGCACAGGT-1 2', 'GCCTCTAGTTCGCGAC-1 2', 'GCGAGAAAGACTAGGC-1 2', 'GCGAGAATCTCGATGA-1 2', 'GCGCCAAGTCTTCGTC-1 2', 'GCGCGATCAACTTGAC-1 2', 'GCGGGTTCACCGAATT-1 2', 'GCGGGTTTCAGTACGT-1 2', 'GCTGCAGCAGACACTT-1 2', 'GCTGCAGGTCGCCATG-1 2', 'GCTGCTTAGTGCCATT-1 2', 'GCTGCTTTCACATACG-1 2', 'GCTTGAAAGTGTTTGC-1 2', 'GCTTGAACAATAACGA-1 2', 'GGAAAGCCAAGCCCAC-1 2', 'GGAAAGCCAAGCGCTC-1 2', 'GGAACTTAGGATCGCA-1 2', 'GGAACTTTCCAAACAC-1 2', 'GGAATAAAGCGTTCCG-1 2', 'GGACAAGGTTCTCATT-1 2', 'GGACAGAAGTGCAAGC-1 2', 'GGACAGATCCGTAGTA-1 2', 'GGACATTAGAAGGACA-1 2', 'GGACGTCGTGTAATGA-1 2', 'GGAGCAACATCTACGA-1 2', 'GGAGCAATCGTGGTCG-1 2', 'GGCAATTTCCCTAATT-1 2', 'GGCGTGTGTAGCACGA-1 2', 'GGCTCGAAGAACAATC-1 2', 'GGCTCGATCTACGAGT-1 2', 'GGCTGGTCAAGGTGTG-1 2', 'GGGCACTAGGGAACGG-1 2', 'GGGCACTAGGGAGTAA-1 2', 'GGGCACTTCGGCGCTA-1 2', 'GGGTCTGCACGGCTAC-1 2', 'GGGTCTGGTTCAACCA-1 2', 'GGGTCTGTCTCACATT-1 2', 'GGGTTGCCAAGTAATG-1 2', 'GGTATTGAGTCACGCC-1 2', 'GGTATTGGTTATTCTC-1 2', 'GGTATTGTCCTGTAGA-1 2', 'GGTGAAGAGCTATGCT-1 2', 'GGTGTTAAGCGTTTAC-1 2', 'GTACTCCTCTACTCAT-1 2', 'GTACTTTAGTTAAGTG-1 2', 'GTAGTCATCAGAAATG-1 2', 'GTATTCTGTCGCATAT-1 2', 'GTATTCTTCGGAATCT-1 2', 'GTCAAGTGTGTATGGG-1 2', 'GTCACGGCAGACACTT-1 2', 'GTCACGGGTCGCGGTT-1 2', 'GTCATTTCACAGGTTT-1 2', 'GTCATTTGTACAGTTC-1 2', 'GTCATTTTCAACCAAC-1 2', 'GTCCTCAGTAGCAAAT-1 2', 'GTCGGGTGTCAAAGCG-1 2', 'GTCGTAAGTACTCGCG-1 2', 'GTCTCGTAGCCACGCT-1 2', 'GTCTTCGTCAGCACAT-1 2', 'GTCTTCGTCGATAGAA-1 2', 'GTGCAGCAGGAATGGA-1 2', 'GTGCATATCCTGTACC-1 2', 'GTGCGGTAGACGCTTT-1 2', 'GTGCGGTTCACCCTCA-1 2', 'GTGCTTCAGTGTACCT-1 2', 'GTGCTTCTCATATCGG-1 2', 'GTGGGTCTCGTTGCCT-1 2', 'GTGTGCGTCGAATGGG-1 2', 'GTTAAGCGTCAACTGT-1 2', 'GTTACAGGTCAGAGGT-1 2', 'GTTCATTCAATTCCTT-1 2', 'GTTCTCGCAAGTAGTA-1 2', 'GTTCTCGTCATTTGGG-1 2', 'GTTTCTACAAATACAG-1 2', 'GTTTCTAGTCAATACC-1 2', 'TAAACCGCAGGATCGA-1 2', 'TAAACCGTCCCGGATG-1 2', 'TAAACCGTCGTGGGAA-1 2', 'TAAGAGACATTCCTCG-1 2', 'TAAGCGTCAAACCCAT-1 2', 'TAAGCGTGTTCAGGCC-1 2', 'TACACGATCCTTAATC-1 2', 'TACAGTGGTGGGTCAA-1 2', 'TACAGTGTCAGTGTTG-1 2', 'TACAGTGTCTATCCCG-1 2', 'TACCTATCATTTCACT-1 2', 'TACCTATGTATTAGCC-1 2', 'TACCTATTCACGATGT-1 2', 'TACCTTACAAGTAGTA-1 2', 'TACCTTATCGAACTGT-1 2', 'TACGGATCATTAACCG-1 2', 'TACGGATGTGTCCTCT-1 2', 'TACGGTACACTTAAGC-1 2', 'TACGGTATCCACGACG-1 2', 'TAGTGGTAGAATTCCC-1 2', 'TAGTGGTAGACCTTTG-1 2', 'TAGTGGTTCAAACCGT-1 2', 'TAGTGGTTCCAACCAA-1 2', 'TAGTGGTTCCACTCCA-1 2', 'TAGTTGGTCTCCTATA-1 2', 'TATCTCAGTGTTAAGA-1 2', 'TATTACCCATGCAACT-1 2', 'TCAACGACAGATGGGT-1 2', 'TCAACGATCTTGAGAC-1 2', 'TCACAAGGTTGAACTC-1 2', 'TCACAAGTCCCAAGAT-1 2', 'TCAGATGCAGTAACGG-1 2', 'TCAGATGGTATAGGGC-1 2', 'TCAGATGGTTATCGGT-1 2', 'TCAGATGTCCATGAGT-1 2', 'TCAGCAAGTGGTTTCA-1 2', 'TCAGGATGTACGCACC-1 2', 'TCAGGTAAGCCAACAG-1 2', 'TCAGGTACATGTCCTC-1 2', 'TCAGGTAGTCCGTTAA-1 2', 'TCCACACTCTCCGGTT-1 2', 'TCCCGATTCGATGAGG-1 2', 'TCGAGGCCATCCGCGA-1 2', 'TCGCGAGAGAGTAATC-1 2', 'TCGCGAGTCTGTCTCG-1 2', 'TCGCGTTGTATTCTCT-1 2', 'TCGCGTTTCTCGCATC-1 2', 'TCGGGACCACGAGGTA-1 2', 'TCGTACCAGCCAGAAC-1 2', 'TCGTACCCAGTGAGTG-1 2', 'TCGTACCTCATTGCCC-1 2', 'TCTATTGAGATGTCGG-1 2', 'TCTCATAGTAATAGCA-1 2', 'TCTCATAGTACCCAAT-1 2', 'TCTCTAAAGTCGTACT-1 2', 'TCTCTAAAGTTAAGTG-1 2', 'TCTGAGAGTTCGCTAA-1 2', 'TCTGAGATCGCCATAA-1 2', 'TCTGGAACAAGACGTG-1 2', 'TCTTTCCGTCTGCCAG-1 2', 'TGACAACAGTACGACG-1 2', 'TGACGGCGTTTGTGTG-1 2', 'TGACTTTAGGTGATTA-1 2', 'TGAGAGGAGGCATGTG-1 2', 'TGAGAGGCAATAGAGT-1 2', 'TGAGCATAGCCGGTAA-1 2', 'TGAGCCGCAACAACCT-1 2', 'TGAGCCGGTAAATACG-1 2', 'TGATTTCGTCTCCACT-1 2', 'TGCACCTTCCCATTAT-1 2', 'TGCACCTTCTGCTTGC-1 2', 'TGCCAAAGTGCCTTGG-1 2', 'TGCCCATAGAGGTTAT-1 2', 'TGCCCTAGTCTCGTTC-1 2', 'TGCGCAGGTCTAGGTT-1 2', 'TGCGTGGTCTTGTACT-1 2', 'TGCTGCTGTGTTCGAT-1 2', 'TGGACGCCACAGACAG-1 2', 'TGGACGCTCCCATTAT-1 2', 'TGGACGCTCTTGAGAC-1 2', 'TGGCCAGGTACGACCC-1 2', 'TGGCGCAAGGAGCGAG-1 2', 'TGGCGCACATTCGACA-1 2', 'TGGCGCAGTCCGCTGA-1 2', 'TGGCGCAGTGCCTGCA-1 2', 'TGGTTAGAGATCTGAA-1 2', 'TGTCCCAAGACTGTAA-1 2', 'TGTCCCAGTTCGCGAC-1 2', 'TGTGGTAAGCACACAG-1 2', 'TGTGGTAAGGGTATCG-1 2', 'TGTGGTAGTGGGTCAA-1 2', 'TGTGGTATCAACGAAA-1 2', 'TGTGTTTCATAGAAAC-1 2', 'TGTGTTTTCTGGGCCA-1 2', 'TGTTCCGCACCAGTTA-1 2', 'TTAGGCACACCTGGTG-1 2', 'TTAGGCAGTAGCTCCG-1 2', 'TTAGTTCAGATGGCGT-1 2', 'TTAGTTCAGCTAGTCT-1 2', 'TTAGTTCAGGCAAAGA-1 2', 'TTAGTTCCATTCTTAC-1 2', 'TTATGCTAGCATGGCA-1 2', 'TTATGCTCACGTGAGA-1 2', 'TTCTCAACACAAGCCC-1 2', 'TTCTCAATCGTATCAG-1 2', 'TTCTCAATCGTGGACC-1 2', 'TTCTTAGGTAAACGCG-1 2', 'TTGAACGGTTGCGCAC-1 2', 'TTGAACGTCCTCAACC-1 2', 'TTGAACGTCCTGCAGG-1 2', 'TTGACTTTCACAGTAC-1 2', 'TTGGAACCATGTCTCC-1 2', 'TTGGCAAAGCGATGAC-1 2', 'TTGGCAAGTAGTAGTA-1 2', 'TTGGCAAGTGTGGCTC-1 2', 'TTTCCTCTCACATACG-1 2', 'TTTGCGCCACTCTGTC-1 2', 'TTTGCGCCAGGGAGAG-1 2', 'TTTGGTTCAATGGAGC-1 2', 'TTTGTCACAAGTCATC-1 2', 'TTTGTCACACTTGGAT-1 2', 'AACCATGCATATGCTG-1 3', 'AACCGCGTCCTTGCCA-1 3', 'AAGCCGCGTTTAAGCC-1 3', 'AAGTCTGGTTAGATGA-1 3', 'ACAGCCGCACCGCTAG-1 3', 'ACAGCTATCAACACGT-1 3', 'ACGAGCCAGCACCGCT-1 3', 'ACGCCGAGTACCGTTA-1 3', 'ACGGCCAAGGCGTACA-1 3', 'ACGGGTCAGATATGGT-1 3', 'ACGTCAAAGTTCGCGC-1 3', 'ACTGAGTGTATATGGA-1 3', 'ACTTACTCACCAGGTC-1 3', 'AGAATAGAGGCTACGA-1 3', 'AGAGCGAGTCTACCTC-1 3', 'AGCATACCAAGCCGCT-1 3', 'AGGGATGTCTGTCCGT-1 3', 'AGTGGGATCGGATGGA-1 3', 'AGTTGGTCAGGTCGTC-1 3', 'AGTTGGTCAGTCGATT-1 3', 'ATCATGGTCCGAACGC-1 3', 'ATCCACCCAGTTAACC-1 3', 'ATCCGAACATAGTAAG-1 3', 'ATCGAGTAGCTGATAA-1 3', 'ATCTGCCCATCAGTCA-1 3', 'ATGAGGGTCAGGTAAA-1 3', 'CACACAAAGCTGCAAG-1 3', 'CACACCTGTGTGCCTG-1 3', 'CACTCCATCAGTGTTG-1 3', 'CAGAATCAGCCGGTAA-1 3', 'CAGCAGCAGTATCTCG-1 3', 'CAGCCGATCTCTGTCG-1 3', 'CAGCTGGAGCTCCTTC-1 3', 'CATGACAGTCTTGTCC-1 3', 'CATTATCTCCGCGTTT-1 3', 'CCATTCGAGACGCTTT-1 3', 'CCGTACTGTGTAATGA-1 3', 'CCTACACTCCGTAGTA-1 3', 'CCTATTAGTCTTCTCG-1 3', 'CCTATTATCGCTGATA-1 3', 'CCTTACGGTATATGAG-1 3', 'CGACTTCTCCGAATGT-1 3', 'CGCCAAGTCCAAAGTC-1 3', 'CGCTGGAAGCCTCGTG-1 3', 'CGGACTGGTAAATACG-1 3', 'CGTTGGGGTCGAATCT-1 3', 'CTAACTTAGTGGTAGC-1 3', 'CTAACTTGTCGTCTTC-1 3', 'CTAATGGTCGGTTAAC-1 3', 'CTAGTGAAGTAGCGGT-1 3', 'CTCGAAAGTGGTACAG-1 3', 'CTCGGGAAGTCACGCC-1 3', 'CTCGGGAGTAAGGGCT-1 3', 'CTGAAGTTCGAATGCT-1 3', 'CTTACCGTCAACACCA-1 3', 'CTTCTCTGTGACGCCT-1 3', 'GACGGCTAGACACGAC-1 3', 'GACGTTAGTATTAGCC-1 3', 'GAGGTGAGTGGTGTAG-1 3', 'GATCAGTCAAGCCCAC-1 3', 'GATCGATTCGCCTGAG-1 3', 'GATCGTACAACAACCT-1 3', 'GATGAGGCACGAAAGC-1 3', 'GATTCAGAGAGTAATC-1 3', 'GCAAACTCAGGGTTAG-1 3', 'GCACATACAGACACTT-1 3', 'GCAGCCACAAACTGTC-1 3', 'GCGAGAAAGTGGGTTG-1 3', 'GCGCGATGTTCCACAA-1 3', 'GCTGCTTAGTATCGAA-1 3', 'GCTGCTTGTGCGCTTG-1 3', 'GGACAGATCCCAGGTG-1 3', 'GGGAGATGTGATGCCC-1 3', 'GGGCATCTCCATGCTC-1 3', 'GGTGTTACACACGCTG-1 3', 'GTACGTAAGTCAAGGC-1 3', 'GTACTTTTCCGAAGAG-1 3', 'GTCAAGTGTTGCCTCT-1 3', 'GTCGTAACAATGGAAT-1 3', 'GTCGTAATCCTTGACC-1 3', 'GTTACAGAGAAACGAG-1 3', 'TACTCATCAGTCGATT-1 3', 'TAGGCATTCGTGGGAA-1 3', 'TAGTGGTTCATGTCCC-1 3', 'TCAATCTAGGATGGTC-1 3', 'TCACGAAAGTCGCCGT-1 3', 'TCATTACTCTGTACGA-1 3', 'TGACTAGAGCGTCTAT-1 3', 'TGAGAGGTCTGTTGAG-1 3', 'TGAGCCGAGCTGCAAG-1 3', 'TGCCAAATCTACCTGC-1 3', 'TGCGGGTGTTGATTGC-1 3', 'TGGACGCCACATGACT-1 3', 'TGGACGCTCTGAGGGA-1 3', 'TGTATTCAGTCATGCT-1 3', 'TGTATTCGTAGATTAG-1 3', 'TTAGGACGTCGAACAG-1 3', 'TTATGCTGTAGTGAAT-1 3', 'TTCCCAGTCGCCAAAT-1 3', 'TTGACTTGTTCGGCAC-1 3', 'TTGCCGTCAGTCGATT-1 3', 'TTTATGCTCATGCTCC-1 3', 'TTTATGCTCTCAAACG-1 3', 'TTTCCTCTCTCGTTTA-1 3', 'AACACGTTCGTCCGTT-1 4', 'AACTCAGGTGCTGTAT-1 4', 'AACTCCCCAACGCACC-1 4', 'AACTCTTGTATGAATG-1 4', 'AACTTTCGTTAAAGAC-1 4', 'AAGACCTAGAAGGCCT-1 4', 'AAGACCTAGTGGACGT-1 4', 'AAGGCAGGTCAATACC-1 4', 'AATCCAGGTCTGATTG-1 4', 'AATCGGTCATGAACCT-1 4', 'ACACCAATCTGCTGCT-1 4', 'ACACCGGCAAACCTAC-1 4', 'ACATCAGTCATCGATG-1 4', 'ACCCACTCAGTGACAG-1 4', 'ACCCACTTCTAACGGT-1 4', 'ACGAGCCTCCTTTCTC-1 4', 'ACGATACGTCATCCCT-1 4', 'ACGCCAGGTCTTTCAT-1 4', 'ACGGAGAGTCTCAACA-1 4', 'ACGGCCAAGTAGGCCA-1 4', 'ACGGGTCAGCTAGTCT-1 4', 'ACTGATGAGTGACATA-1 4', 'ACTGCTCAGCGTTTAC-1 4', 'ACTTGTTAGGGTTTCT-1 4', 'ACTTGTTCAGGGCATA-1 4', 'ACTTGTTCATCCCACT-1 4', 'AGAGCTTTCCGATATG-1 4', 'AGCGTCGGTACATGTC-1 4', 'AGCTTGAGTACCGTAT-1 4', 'AGGCCACGTACCGTTA-1 4', 'AGGGATGAGCTGATAA-1 4', 'ATAGACCGTGGGTATG-1 4', 'ATCATCTAGTCACGCC-1 4', 'ATCATCTGTAAGTTCC-1 4', 'ATCCGAACATCCTAGA-1 4', 'ATCGAGTAGTGGTAGC-1 4', 'ATGAGGGAGGCAGTCA-1 4', 'ATGGGAGGTGAGGGAG-1 4', 'ATGTGTGTCTTGACGA-1 4', 'ATTCTACTCCTGCTTG-1 4', 'CAACCAATCAGTCAGT-1 4', 'CAACCTCAGAAACCGC-1 4', 'CAAGATCGTTTGGGCC-1 4', 'CAAGATCTCGTCACGG-1 4', 'CACACCTAGAAACCAT-1 4', 'CACATTTAGGATGGTC-1 4', 'CACCAGGAGCAAATCA-1 4', 'CAGCTAATCAGGCAAG-1 4', 'CAGTAACGTCTCTTTA-1 4', 'CAGTCCTCAGCCACCA-1 4', 'CATCAAGCAATAGAGT-1 4', 'CATCAGACACAGCCCA-1 4', 'CATCGAACATTCTCAT-1 4', 'CATCGAAGTTACAGAA-1 4', 'CATGACATCTACGAGT-1 4', 'CATTATCAGACACTAA-1 4', 'CCAATCCTCATGTCTT-1 4', 'CCAGCGACATCTATGG-1 4', 'CCCAATCCATTAACCG-1 4', 'CCCAGTTCACAAGTAA-1 4', 'CCGGTAGAGAGCTATA-1 4', 'CCTAGCTTCACCACCT-1 4', 'CCTTTCTAGTACACCT-1 4', 'CGAGCACGTTTGGGCC-1 4', 'CGAGCCACAGTCGATT-1 4', 'CGATGGCCACAACTGT-1 4', 'CGATGTACAGAGCCAA-1 4', 'CGCGGTAGTCAGCTAT-1 4', 'CGCTATCGTGCAACTT-1 4', 'CGCTTCAGTCTGCAAT-1 4', 'CGCTTCAGTTACGCGC-1 4', 'CGGACGTTCCCATTTA-1 4', 'CGGACTGTCTGATACG-1 4', 'CGGGTCAAGGCGTACA-1 4', 'CGGGTCAGTCTAGCGC-1 4', 'CGTCACTAGTGCTGCC-1 4', 'CGTCCATGTCTCGTTC-1 4', 'CGTCTACAGCAATCTC-1 4', 'CGTGAGCGTTTCCACC-1 4', 'CGTGTCTTCCTCAACC-1 4', 'CGTTAGAGTGTCAATC-1 4', 'CGTTAGATCTAGCACA-1 4', 'CTAATGGCAAGCTGAG-1 4', 'CTAATGGGTTACGACT-1 4', 'CTACACCGTTACGTCA-1 4', 'CTAGAGTAGCCAGTAG-1 4', 'CTAGAGTCACTGAAGG-1 4', 'CTAGTGAGTCATTAGC-1 4', 'CTCACACCACATCCGG-1 4', 'CTCATTATCAGGTAAA-1 4', 'CTCGAAAGTACAGTGG-1 4', 'CTCGAAATCAAACCAC-1 4', 'CTCGAGGGTCTCCATC-1 4', 'CTCTAATAGGAGTTTA-1 4', 'CTGCCTAAGGGTGTGT-1 4', 'CTGCTGTCAGCTCCGA-1 4', 'CTGGTCTGTACCGAGA-1 4', 'CTGTTTACACTGTCGG-1 4', 'CTTCTCTAGGTGGGTT-1 4', 'GAAATGATCAACGCTA-1 4', 'GAACATCTCGTTACAG-1 4', 'GAACCTAAGAGACTTA-1 4', 'GAAGCAGGTTATCACG-1 4', 'GAATAAGGTTCCGTCT-1 4', 'GACAGAGGTCTAGGTT-1 4', 'GACCAATAGAGCTTCT-1 4', 'GACGTGCAGATGCCAG-1 4', 'GACGTGCCATGGTCTA-1 4', 'GACGTTAAGGCTATCT-1 4', 'GAGGTGATCCGTAGGC-1 4', 'GATCAGTTCAACACAC-1 4', 'GATGAAAGTTCGCTAA-1 4', 'GCATGATCAGCGTAAG-1 4', 'GCGACCAAGTAATCCC-1 4', 'GGACAAGAGATGCCTT-1 4', 'GGACAAGTCCTACAGA-1 4', 'GGACAGAGTAGCCTCG-1 4', 'GGACATTAGAACTCGG-1 4', 'GGCCGATGTCGGGTCT-1 4', 'GGCTGGTAGTACGCGA-1 4', 'GGCTGGTGTAAACACA-1 4', 'GGGAGATTCTTTAGTC-1 4', 'GGGCACTGTTAAAGAC-1 4', 'GGGCACTTCAACACAC-1 4', 'GGGCATCGTGGTTTCA-1 4', 'GGGTCTGTCCCTAATT-1 4', 'GGTATTGTCTGGCGAC-1 4', 'GTAACGTCATCGGACC-1 4', 'GTACGTACAGACAGGT-1 4', 'GTACTCCTCGTTTAGG-1 4', 'GTAGTCAGTATTAGCC-1 4', 'GTATTCTTCTCACATT-1 4', 'GTGAAGGGTGGAAAGA-1 4', 'GTGCATAGTGACAAAT-1 4', 'GTGGGTCCAGCCTTTC-1 4', 'GTGTTAGAGCCACGCT-1 4', 'TAAACCGAGAAGATTC-1 4', 'TACACGAAGGTGTTAA-1 4', 'TACAGTGGTGTCCTCT-1 4', 'TACCTATAGGATGCGT-1 4', 'TACCTTATCGGTGTCG-1 4', 'TACGGTACAATAGAGT-1 4', 'TACTTGTCAAACGTGG-1 4', 'TAGGCATAGGGATGGG-1 4', 'TAGTTGGTCCAGATCA-1 4', 'TATTACCAGACTTTCG-1 4', 'TCAACGAAGACATAAC-1 4', 'TCAACGACACCATGTA-1 4', 'TCACGAAGTTACGCGC-1 4', 'TCAGATGTCGGATGGA-1 4', 'TCAGGATCATTTGCTT-1 4', 'TCCCGATCACTGAAGG-1 4', 'TCCCGATTCAAGAAGT-1 4', 'TCGAGGCGTACCGCTG-1 4', 'TCGCGTTGTTTGGCGC-1 4', 'TCGGGACTCAGTGTTG-1 4', 'TCTCATAGTAGGACAC-1 4', 'TCTCTAATCTGTCCGT-1 4', 'TCTTTCCGTGCACGAA-1 4', 'TGACTAGCAGCATGAG-1 4', 'TGCACCTAGTGTGAAT-1 4', 'TGCACCTGTTTAAGCC-1 4', 'TGCGGGTCACCCATTC-1 4', 'TGCGTGGGTGGTTTCA-1 4', 'TGGCTGGCATGAGCGA-1 4', 'TGGTTCCTCCTGTAGA-1 4', 'TGGTTCCTCTTGTACT-1 4', 'TGTCCCAAGTTCCACA-1 4', 'TTAGGACAGTGCTGCC-1 4', 'TTCGGTCCACGAAATA-1 4', 'TTCTCAATCTGTCCGT-1 4', 'TTCTCCTCAGACGTAG-1 4', 'TTCTTAGAGGGTTCCC-1 4', 'TTGGAACCATGCGCAC-1 4', 'TTTGGTTTCTACCAGA-1 4', 'TTTGTCACAGACGCAA-1 4', 'AAAGCAACACTCAGGC-1 5', 'AAAGCAATCATTGCCC-1 5', 'AAAGTAGCAAACAACA-1 5', 'AACCGCGAGTCGATAA-1 5', 'AACGTTGGTTTGGCGC-1 5', 'AAGTCTGGTTGAACTC-1 5', 'AATCCAGGTGATGTCT-1 5', 'ACAGCCGTCACGGTTA-1 5', 'ACCCACTGTTACTGAC-1 5', 'ACCTTTATCTGAGGGA-1 5', 'ACGATGTCATGATCCA-1 5', 'ACGCCGAGTGGCCCTA-1 5', 'ACTGAACCAGACAAAT-1 5', 'ACTGAACGTCTGCAAT-1 5', 'ACTGAGTTCGCACTCT-1 5', 'ACTGCTCCAAGGTTTC-1 5', 'AGAATAGCACACTGCG-1 5', 'AGAATAGGTCATCGGC-1 5', 'AGTCTTTCAAGAAGAG-1 5', 'AGTGAGGTCCGGCACA-1 5', 'AGTTGGTCACGAAGCA-1 5', 'ATAGACCAGTCGATAA-1 5', 'ATCACGACATCACGAT-1 5', 'ATCACGAGTCATGCAT-1 5', 'ATCTACTAGCTCCTCT-1 5', 'CAACCAATCCACGTTC-1 5', 'CAACCTCCATTGGTAC-1 5', 'CAACTAGCAAATTGCC-1 5', 'CAAGAAAAGTCCTCCT-1 5', 'CAAGATCGTACGACCC-1 5', 'CAAGATCTCGCGATCG-1 5', 'CACAAACGTGAACCTT-1 5', 'CACACCTAGCTAACAA-1 5', 'CACACCTCAGCGTTCG-1 5', 'CACCAGGAGTGTGGCA-1 5', 'CACCAGGTCGGCGCAT-1 5', 'CACTCCAGTTCAGTAC-1 5', 'CAGTAACAGGTGACCA-1 5', 'CATCGAATCACCGTAA-1 5', 'CATGACACACAGATTC-1 5', 'CATGGCGCAGACAGGT-1 5', 'CATTATCAGTGAATTG-1 5', 'CCAATCCAGGACATTA-1 5', 'CCCTCCTCAATAGAGT-1 5', 'CCGGTAGGTTCAGGCC-1 5', 'CCTACACAGGGCTTGA-1 5', 'CCTTCCCAGACTGTAA-1 5', 'CCTTCCCGTCTTGATG-1 5', 'CCTTCCCTCAACCAAC-1 5', 'CCTTCGAAGCGAGAAA-1 5', 'CGAGCCAAGGGATCTG-1 5', 'CGATCGGAGTATCTCG-1 5', 'CGATGGCAGCGCCTTG-1 5', 'CGCCAAGCAATCAGAA-1 5', 'CGGACACAGTACGACG-1 5', 'CGGCTAGAGAAGCCCA-1 5', 'CGGGTCATCGTCCAGG-1 5', 'CGGTTAAGTCCGCTGA-1 5', 'CGTGAGCCAATCTACG-1 5', 'CTAGAGTCACAACGTT-1 5', 'CTAGAGTTCCGCTGTT-1 5', 'CTAGCCTCATTACGAC-1 5', 'CTCACACAGTCCAGGA-1 5', 'CTCCTAGAGGTGCACA-1 5', 'CTCGTACAGGGTGTTG-1 5', 'CTGCGGAAGTAGATGT-1 5', 'CTGGTCTAGGTGACCA-1 5', 'CTGTTTACACAAGCCC-1 5', 'CTTAGGACACCCATTC-1 5', 'CTTAGGACATCGTCGG-1 5', 'GAACCTATCACATACG-1 5', 'GAATAAGGTCGACTGC-1 5', 'GACAGAGAGCAGCGTA-1 5', 'GACGGCTAGCGGCTTC-1 5', 'GACGGCTCACTTCTGC-1 5', 'GACTGCGTCCACGCAG-1 5', 'GAGGTGAGTCAAGCGA-1 5', 'GAGTCCGTCATACGGT-1 5', 'GATCGATGTCGCGGTT-1 5', 'GATCGATTCAGCCTAA-1 5', 'GATTCAGCACCTCGGA-1 5', 'GCAAACTAGCCAGGAT-1 5', 'GCAATCAGTACAGTGG-1 5', 'GCACATAGTTCCACAA-1 5', 'GCACTCTCAGACGTAG-1 5', 'GCAGTTACAGTTTACG-1 5', 'GCATGCGCACCCAGTG-1 5', 'GCATGTACACAGCCCA-1 5', 'GCATGTACAGTTAACC-1 5', 'GCCAAATAGGCAGTCA-1 5', 'GCGAGAAGTCAGTGGA-1 5', 'GCGCAACGTTCCCGAG-1 5', 'GGACGTCAGGCGATAC-1 5', 'GGATTACAGCACCGTC-1 5', 'GGCTCGAAGTAGCGGT-1 5', 'GGGAGATCAGCCACCA-1 5', 'GGGAGATTCATGTCTT-1 5', 'GGGCACTAGCGAAGGG-1 5', 'GGGTTGCAGGAATTAC-1 5', 'GTAACGTGTAAAGTCA-1 5', 'GTAACGTGTTAAGGGC-1 5', 'GTACGTACAGTCACTA-1 5', 'GTACGTAGTACTTCTT-1 5', 'GTAGGCCGTACCATCA-1 5', 'GTCTCGTAGGAGCGAG-1 5', 'GTCTTCGCAGCTGCAC-1 5', 'GTCTTCGTCTCCTATA-1 5', 'GTGCATAAGGAGCGAG-1 5', 'GTGCTTCGTCTGCGGT-1 5', 'GTTAAGCGTAGCTGCC-1 5', 'GTTCATTAGGCTCAGA-1 5', 'GTTCGGGAGGTTACCT-1 5', 'TACCTATCATGCATGT-1 5', 'TACGGTAGTAAATGAC-1 5', 'TACTTACAGAATTGTG-1 5', 'TAGAGCTGTACTCTCC-1 5', 'TATGCCCGTGCCTGCA-1 5', 'TCACAAGCATTAACCG-1 5', 'TCATTTGGTGTAACGG-1 5', 'TCCACACCATGGTCTA-1 5', 'TCGCGTTGTAGAAGGA-1 5', 'TCGTAGACACAGATTC-1 5', 'TCGTAGACAGCGTCCA-1 5', 'TCTCATAAGCCGCCTA-1 5', 'TCTCATACAGACTCGC-1 5', 'TCTTCGGTCCTTCAAT-1 5', 'TCTTTCCTCAAGATCC-1 5', 'TGAAAGAGTCAGGACA-1 5', 'TGACAACCATGGTCAT-1 5', 'TGACGGCTCTGAGTGT-1 5', 'TGATTTCGTTGGACCC-1 5', 'TGCCCATAGAGTCTGG-1 5', 'TGCGGGTTCCTCCTAG-1 5', 'TGCTGCTAGTCTCAAC-1 5', 'TGCTGCTTCCAGTAGT-1 5', 'TGGACGCTCAGTGCAT-1 5', 'TGGACGCTCGCAAGCC-1 5', 'TGGCTGGAGACAATAC-1 5', 'TGGGAAGAGCTGTCTA-1 5', 'TGGGAAGTCAAACCAC-1 5', 'TGGGAAGTCGTATCAG-1 5', 'TGGGCGTTCACCGGGT-1 5', 'TGTGGTAGTAACGCGA-1 5', 'TGTTCCGAGGCCCGTT-1 5', 'TTCTCAACATGGATGG-1 5', 'TTCTTAGGTTCCACGG-1 5', 'TTCTTAGTCCGCAGTG-1 5', 'TTGCCGTAGGAGTTTA-1 5', 'TTTGCGCTCGTAGATC-1 5', 'AAAGTAGAGGCCATAG-1 6', 'ATTCTACTCAATCTCT-1 6', 'CAAGTTGTCACATACG-1 6', 'CACATTTGTTCGTTGA-1 6', 'CAGAATCGTGAGGGAG-1 6', 'CAGCTGGAGTGGCACA-1 6', 'CTAATGGCATAGACTC-1 6', 'CTCGGAGCAGCCAATT-1 6', 'CTCGTCAGTGCAACGA-1 6', 'GATCTAGTCTCTGCTG-1 6', 'GATTCAGAGACTCGGA-1 6', 'GGAGCAAAGATGGGTC-1 6', 'GGTATTGAGCCAGGAT-1 6', 'GTAACGTGTCTAGAGG-1 6', 'TACTTACCACTGTCGG-1 6', 'TCTCATATCCCATTAT-1 6', 'TTGGAACCACCTTGTC-1 6', 'AAACGGGGTAGCGTGA-1 7', 'AAAGATGTCTGATACG-1 7', 'AAATGCCTCCTGCTTG-1 7', 'AACACGTGTCGCGTGT-1 7', 'AACCATGGTACCTACA-1 7', 'AACCGCGCAGTGGAGT-1 7', 'AACCGCGCATCACGAT-1 7', 'AACCGCGGTCCATCCT-1 7', 'AACCGCGTCTACGAGT-1 7', 'AACTCAGTCAATCACG-1 7', 'AACTCTTCATACGCTA-1 7', 'AACTCTTTCTCAAGTG-1 7', 'AACTGGTGTTAAGATG-1 7', 'AAGACCTGTCAAACTC-1 7', 'ACACCCTCATCGATGT-1 7', 'ACACCCTTCGATAGAA-1 7', 'ACACCGGAGCGCCTCA-1 7', 'ACACTGACAGCTTCGG-1 7', 'ACAGCCGAGATGCCAG-1 7', 'ACAGCCGGTCTGATTG-1 7', 'ACAGCTATCCACGACG-1 7', 'ACAGCTATCGGTTAAC-1 7', 'ACATACGAGAGCTATA-1 7', 'ACATACGCACTGAAGG-1 7', 'ACATACGTCTTAACCT-1 7', 'ACATCAGTCCAAAGTC-1 7', 'ACCAGTAAGTTCCACA-1 7', 'ACCGTAATCACTTACT-1 7', 'ACCTTTAGTCATGCAT-1 7', 'ACGAGCCCATGCATGT-1 7', 'ACGATACGTGGACGAT-1 7', 'ACGATGTAGATGGCGT-1 7', 'ACGCAGCAGATGCCAG-1 7', 'ACGCCGACAATGAAAC-1 7', 'ACGCCGATCTGTCAAG-1 7', 'ACGGCCAAGTCATGCT-1 7', 'ACGGCCATCTGATTCT-1 7', 'ACGGGTCAGCTTATCG-1 7', 'ACGTCAAAGATAGTCA-1 7', 'ACGTCAAGTAAAGTCA-1 7', 'ACTATCTAGCTAACTC-1 7', 'ACTATCTCAAGACGTG-1 7', 'ACTATCTCACCCATTC-1 7', 'ACTGAACAGGTGACCA-1 7', 'ACTGAGTAGAACTCGG-1 7', 'ACTGAGTCACGGTAAG-1 7', 'ACTGATGCACGAGGTA-1 7', 'ACTGTCCAGTACGCCC-1 7', 'ACTGTCCCAGATTGCT-1 7', 'ACTGTCCCAGCTCGAC-1 7', 'ACTGTCCCAGCTGTGC-1 7', 'ACTGTCCGTAGAGGAA-1 7', 'ACTGTCCGTCGTCTTC-1 7', 'ACTTACTCAGTAAGAT-1 7', 'ACTTTCAGTTCCACGG-1 7', 'AGAGCGAAGCCCAATT-1 7', 'AGAGCTTGTATATCCG-1 7', 'AGAGTGGGTTCAACCA-1 7', 'AGAGTGGTCACCTTAT-1 7', 'AGATCTGAGAATCTCC-1 7', 'AGATTGCTCATGTCCC-1 7', 'AGCAGCCAGTGTCCCG-1 7', 'AGCAGCCCACGGATAG-1 7', 'AGCGTATGTATATGGA-1 7', 'AGCTTGAGTTATCCGA-1 7', 'AGCTTGATCTCTAGGA-1 7', 'AGGCCACCAGCTCGCA-1 7', 'AGGCCACGTTCTGGTA-1 7', 'AGGGATGCATGAAGTA-1 7', 'AGTAGTCCATGAAGTA-1 7', 'AGTGAGGAGGCTCATT-1 7', 'AGTGTCAGTTTCCACC-1 7', 'AGTGTCATCCCTCAGT-1 7', 'AGTGTCATCGGCGCAT-1 7', 'AGTTGGTAGCACAGGT-1 7', 'AGTTGGTGTTGATTCG-1 7', 'ATAACGCGTATATGGA-1 7', 'ATCACGAAGTGTACGG-1 7', 'ATCACGAGTCGACTAT-1 7', 'ATCATGGGTCTCTTAT-1 7', 'ATCATGGTCAACCATG-1 7', 'ATCCACCTCCCTTGTG-1 7', 'ATCGAGTGTCCAACTA-1 7', 'ATCTACTGTTTGTTTC-1 7', 'ATCTGCCAGAGTGAGA-1 7', 'ATGAGGGAGATGTTAG-1 7', 'ATGAGGGGTTGGGACA-1 7', 'ATGGGAGCATACTACG-1 7', 'ATTACTCGTGTTGGGA-1 7', 'ATTACTCTCACCATAG-1 7', 'ATTATCCCATCACCCT-1 7', 'ATTGGTGTCAGTGCAT-1 7', 'ATTTCTGTCGACCAGC-1 7', 'CAAGATCTCCATGAGT-1 7', 'CACAAACTCACGAAGG-1 7', 'CACACAATCGGATGTT-1 7', 'CACACCTCAGTCAGAG-1 7', 'CACACCTTCTCGATGA-1 7', 'CACATAGCAGCTCGAC-1 7', 'CACCTTGCAAAGAATC-1 7', 'CACTCCAGTGACTCAT-1 7', 'CAGCATACACGCATCG-1 7', 'CAGCATATCATCTGCC-1 7', 'CAGCATATCCATGAGT-1 7', 'CAGCATATCGCCAGCA-1 7', 'CAGCTAATCGGCCGAT-1 7', 'CAGCTGGCATCGACGC-1 7', 'CAGTCCTAGCCACCTG-1 7', 'CATATTCAGAGTACCG-1 7', 'CATATTCTCCGTAGGC-1 7', 'CATATTCTCGTCCGTT-1 7', 'CATCAAGCACCCATGG-1 7', 'CATCAAGCATAAGACA-1 7', 'CATCAGATCGTCCAGG-1 7', 'CATCCACTCCGCAGTG-1 7', 'CATCGGGCAGACAGGT-1 7', 'CATGCCTCAGCGAACA-1 7', 'CCAATCCAGCTGCAAG-1 7', 'CCAATCCTCCTACAGA-1 7', 'CCACCTAAGTAACCCT-1 7', 'CCACCTAGTGTGGTTT-1 7', 'CCACCTATCAACACAC-1 7', 'CCCAATCGTAGAGCTG-1 7', 'CCCTCCTTCTCCGGTT-1 7', 'CCCTCCTTCTGGTGTA-1 7', 'CCCTCCTTCTTCAACT-1 7', 'CCGGTAGCAACACGCC-1 7', 'CCGTGGATCATAACCG-1 7', 'CCGTTCAAGCTGTTCA-1 7', 'CCTACACAGATGTTAG-1 7', 'CCTACACCACTCTGTC-1 7', 'CCTACCAAGACAAGCC-1 7', 'CCTAGCTAGGGATGGG-1 7', 'CCTATTAAGCGATATA-1 7', 'CCTATTAAGTAGCCGA-1 7', 'CCTCTGACATAGAAAC-1 7', 'CCTTACGGTCGCATCG-1 7', 'CCTTACGGTTATGTGC-1 7', 'CCTTCCCGTCAATACC-1 7', 'CCTTCCCGTTTAAGCC-1 7', 'CCTTCGAAGCACGCCT-1 7', 'CCTTCGACAAATCCGT-1 7', 'CCTTCGAGTATTAGCC-1 7', 'CGAACATCAGCTGCTG-1 7', 'CGAATGTTCATCGCTC-1 7', 'CGAGAAGAGTGTGGCA-1 7', 'CGAGAAGTCGATCCCT-1 7', 'CGAGCACTCAGTTAGC-1 7', 'CGAGCACTCCATGAAC-1 7', 'CGAGCCAAGTCTCAAC-1 7', 'CGAGCCAGTCACTGGC-1 7', 'CGATGGCAGGTAAACT-1 7', 'CGATGGCCAAGTTAAG-1 7', 'CGATGGCCAGCATACT-1 7', 'CGCGGTATCAACACTG-1 7', 'CGCGGTATCCGTACAA-1 7', 'CGCTTCAAGCGGCTTC-1 7', 'CGCTTCACAAGCCGCT-1 7', 'CGCTTCAGTTCCACAA-1 7', 'CGGACGTAGTTGCAGG-1 7', 'CGGACTGAGGTAGCCA-1 7', 'CGGAGCTAGCTAGTTC-1 7', 'CGGAGCTTCTTTAGGG-1 7', 'CGGGTCATCCGAACGC-1 7', 'CGGTTAAAGCTACCGC-1 7', 'CGTAGCGGTTGATTCG-1 7', 'CGTAGGCCAACGATCT-1 7', 'CGTCACTCAGCTGCAC-1 7', 'CGTCTACGTTCAGACT-1 7', 'CGTGTAAGTTGCTCCT-1 7', 'CGTGTAATCCGTAGTA-1 7', 'CGTTAGATCAGTCCCT-1 7', 'CGTTCTGCAGCGTAAG-1 7', 'CGTTCTGTCCGTCATC-1 7', 'CGTTCTGTCCTAGAAC-1 7', 'CGTTGGGCAAGGTTTC-1 7', 'CTAACTTGTCGCGTGT-1 7', 'CTAAGACCATCCCATC-1 7', 'CTAAGACGTTAGAACA-1 7', 'CTACACCCAGTATAAG-1 7', 'CTACACCGTGATGTCT-1 7', 'CTACACCTCAGAGCTT-1 7', 'CTACACCTCGAGGTAG-1 7', 'CTACACCTCTCTTATG-1 7', 'CTACATTGTGTGCGTC-1 7', 'CTACATTTCTGGCGTG-1 7', 'CTACCCAAGAAACGCC-1 7', 'CTACCCAAGGGTGTTG-1 7', 'CTACCCAGTCCGTTAA-1 7', 'CTACGTCCAGACGCAA-1 7', 'CTAGAGTCACCCATTC-1 7', 'CTCATTACATTCTCAT-1 7', 'CTCCTAGCACAGGAGT-1 7', 'CTCCTAGTCACTTACT-1 7', 'CTCGAGGCACGTCAGC-1 7', 'CTCGGGATCTTCTGGC-1 7', 'CTCGTACAGTCGTTTG-1 7', 'CTCTAATCACGTTGGC-1 7', 'CTGAAACAGTACGCGA-1 7', 'CTGCCTAGTCTAGCCG-1 7', 'CTGCGGAAGCGGCTTC-1 7', 'CTGCGGAGTACCGGCT-1 7', 'CTGCTGTAGTCCAGGA-1 7', 'CTGCTGTCACCAGGCT-1 7', 'CTGGTCTTCTCTGTCG-1 7', 'CTGTGCTTCACCTCGT-1 7', 'CTTAACTGTGTGACGA-1 7', 'CTTAACTGTTCTGTTT-1 7', 'CTTACCGGTCTACCTC-1 7', 'CTTAGGAAGGATGGAA-1 7', 'CTTGGCTGTCCCTACT-1 7', 'GAAATGAAGTTACCCA-1 7', 'GAACCTAAGACGCTTT-1 7', 'GAAGCAGTCGTGGACC-1 7', 'GAATGAATCACTCCTG-1 7', 'GAATGAATCGGAATCT-1 7', 'GACACGCAGATCACGG-1 7', 'GACCAATAGTCTCAAC-1 7', 'GACCAATTCATGTCTT-1 7', 'GACCTGGTCCGCATCT-1 7', 'GACGTGCAGCGTGAAC-1 7', 'GACGTGCCAATGTAAG-1 7', 'GACGTGCGTAAATACG-1 7', 'GACGTGCTCTGGCGTG-1 7', 'GACTAACCAAGACACG-1 7', 'GACTACAAGGCATGGT-1 7', 'GACTGCGCATGTCCTC-1 7', 'GATCGATCAGACGCTC-1 7', 'GATCGCGGTTTGTGTG-1 7', 'GATCGCGTCTCGATGA-1 7', 'GATCGTACATACTACG-1 7', 'GATCGTAGTCCGTCAG-1 7', 'GATCGTATCGCATGAT-1 7', 'GATCTAGAGACAGACC-1 7', 'GATCTAGAGTCAATAG-1 7', 'GATCTAGGTCATGCAT-1 7', 'GATGAAATCATAAAGG-1 7', 'GATGAGGAGTCCTCCT-1 7', 'GATGCTACACTTGGAT-1 7', 'GATGCTACATCTATGG-1 7', 'GCAAACTCACACGCTG-1 7', 'GCACTCTTCCGTCATC-1 7', 'GCATACAGTCTTCAAG-1 7', 'GCATACATCAGCTCGG-1 7', 'GCATACATCCCATTAT-1 7', 'GCATGCGGTTACGTCA-1 7', 'GCATGTAAGCGCCTTG-1 7', 'GCCTCTACACTCAGGC-1 7', 'GCCTCTAGTCTGCAAT-1 7', 'GCGAGAATCGAACTGT-1 7', 'GCTCCTACAGACGCTC-1 7', 'GCTCCTATCTTCGAGA-1 7', 'GCTCTGTGTGTGTGCC-1 7', 'GCTGCAGTCATTCACT-1 7', 'GCTGGGTAGGCTCTTA-1 7', 'GCTTGAAAGGTTACCT-1 7', 'GCTTGAACAAGCCATT-1 7', 'GGAAAGCGTCAATACC-1 7', 'GGAAAGCGTTCAGACT-1 7', 'GGAACTTAGATGGGTC-1 7', 'GGAATAACACGACTCG-1 7', 'GGACAAGTCATGTCTT-1 7', 'GGACATTAGCAATCTC-1 7', 'GGATGTTCAAGGGTCA-1 7', 'GGATTACAGTCCCACG-1 7', 'GGATTACCACAGGAGT-1 7', 'GGATTACCACTATCTT-1 7', 'GGATTACCAGCTATTG-1 7', 'GGCAATTTCCCGGATG-1 7', 'GGCGACTCATCGATTG-1 7', 'GGCTGGTAGCCTTGAT-1 7', 'GGCTGGTTCTTTCCTC-1 7', 'GGGAATGAGCTCCTTC-1 7', 'GGGACCTCATTCCTGC-1 7', 'GGGATGACAGCTGTAT-1 7', 'GGGCACTTCGTGGGAA-1 7', 'GGGTTGCAGTGTGGCA-1 7', 'GGTATTGGTCGACTGC-1 7', 'GGTGAAGAGCCCAATT-1 7', 'GGTGCGTAGTACGCGA-1 7', 'GGTGCGTTCAGTACGT-1 7', 'GGTGTTACACGGCTAC-1 7', 'GTACGTAAGTTGCAGG-1 7', 'GTACGTATCAACACCA-1 7', 'GTACTCCAGACAAAGG-1 7', 'GTACTCCAGTGTCCAT-1 7', 'GTATTCTCAAGCTGGA-1 7', 'GTCAAGTCACACGCTG-1 7', 'GTCAAGTTCAACTCTT-1 7', 'GTCACAAAGGCAGTCA-1 7', 'GTCACGGAGCGGCTTC-1 7', 'GTCGGGTCATGACATC-1 7', 'GTCTTCGAGAGCTGGT-1 7', 'GTGCATAAGCCACGCT-1 7', 'GTGCGGTTCTCAACTT-1 7', 'GTGCTTCCATAAGACA-1 7', 'GTGGGTCAGGTGATAT-1 7', 'GTGGGTCTCAATCTCT-1 7', 'GTGTTAGTCCTCCTAG-1 7', 'GTTAAGCCATTCGACA-1 7', 'GTTCATTGTTGCCTCT-1 7', 'GTTCATTGTTGCTCCT-1 7', 'GTTCATTTCTTGTCAT-1 7', 'GTTCGGGTCCGTTGTC-1 7', 'TAAACCGTCTTTAGGG-1 7', 'TAAGCGTAGACAGACC-1 7', 'TAAGCGTCACTCGACG-1 7', 'TAAGCGTGTACGCACC-1 7', 'TAAGCGTGTTGGTGGA-1 7', 'TAAGTGCGTGATGATA-1 7', 'TACACGATCAGTTCGA-1 7', 'TACACGATCCGAATGT-1 7', 'TACACGATCTACTCAT-1 7', 'TACAGTGCATTAGGCT-1 7', 'TACGGATTCGGCGGTT-1 7', 'TACGGGCCACAAGACG-1 7', 'TACTCATTCTACTATC-1 7', 'TACTTACGTTATCACG-1 7', 'TACTTACGTTTAGGAA-1 7', 'TACTTGTCACGAAAGC-1 7', 'TAGACCAAGGGTCTCC-1 7', 'TAGACCATCACATACG-1 7', 'TAGACCATCGGCATCG-1 7', 'TAGGCATAGACCACGA-1 7', 'TAGGCATGTCTAAACC-1 7', 'TAGTGGTAGTACGTTC-1 7', 'TAGTGGTGTACGAAAT-1 7', 'TAGTTGGAGATGCGAC-1 7', 'TATCTCAAGGAGTAGA-1 7', 'TCAACGACAATCGAAA-1 7', 'TCAACGAGTCCGACGT-1 7', 'TCAATCTCAACTGCTA-1 7', 'TCACAAGAGAGGGCTT-1 7', 'TCACGAAGTAATCACC-1 7', 'TCAGATGTCTTGCATT-1 7', 'TCAGCAAAGGACATTA-1 7', 'TCAGCTCAGTAGATGT-1 7', 'TCAGCTCTCGGTCCGA-1 7', 'TCAGGATGTGGACGAT-1 7', 'TCATTACAGGCATGGT-1 7', 'TCATTACCAGGTTTCA-1 7', 'TCCACACAGAATCTCC-1 7', 'TCCCGATAGTGAATTG-1 7', 'TCCCGATCACAGAGGT-1 7', 'TCGAGGCCAACTGCTA-1 7', 'TCGCGAGAGAAACCAT-1 7', 'TCGCGTTCAATCTGCA-1 7', 'TCGGGACTCAGTGCAT-1 7', 'TCGGTAAGTTACTGAC-1 7', 'TCGTAGACAGTAACGG-1 7', 'TCGTAGATCCCGGATG-1 7', 'TCTATTGAGTGTACCT-1 7', 'TCTCATATCAGTGTTG-1 7', 'TCTCATATCGTAGATC-1 7', 'TCTGGAAGTCGAATCT-1 7', 'TCTTCGGTCGCGTTTC-1 7', 'TGACGGCCAAATTGCC-1 7', 'TGACGGCGTGCTAGCC-1 7', 'TGACTTTCATTCTTAC-1 7', 'TGAGCATCATCCCACT-1 7', 'TGATTTCGTGACTACT-1 7', 'TGCCAAAAGGCTAGGT-1 7', 'TGCCAAAAGTCTCCTC-1 7', 'TGCCAAACATCGACGC-1 7', 'TGCGGGTTCAGCTCTC-1 7', 'TGCGTGGCACAGTCGC-1 7', 'TGGCCAGAGGCTCTTA-1 7', 'TGGCCAGCACCTATCC-1 7', 'TGGCCAGGTGCACCAC-1 7', 'TGGCGCAAGTCAAGCG-1 7', 'TGGCGCATCATCGGAT-1 7', 'TGGCTGGGTAGAGCTG-1 7', 'TGGGAAGCACTCGACG-1 7', 'TGGTTAGGTACAAGTA-1 7', 'TGGTTCCGTGTTAAGA-1 7', 'TGTCCCAGTGCAGGTA-1 7', 'TGTGGTAGTCCAGTAT-1 7', 'TGTGTTTCAATGGATA-1 7', 'TGTGTTTCAGGGTTAG-1 7', 'TGTGTTTTCTAGCACA-1 7', 'TTAGGACCAGTAACGG-1 7', 'TTAGTTCTCACTTACT-1 7', 'TTATGCTAGACTAGGC-1 7', 'TTATGCTGTCACTGGC-1 7', 'TTCCCAGCATACTACG-1 7', 'TTCGAAGTCAAAGTAG-1 7', 'TTCTACACATATGCTG-1 7', 'TTCTCAAAGCTCCTCT-1 7', 'TTGAACGGTGTGCGTC-1 7', 'TTGACTTAGAGCAATT-1 7', 'TTGACTTGTAGCCTCG-1 7', 'TTGCCGTTCAAGAAGT-1 7', 'TTGTAGGTCCAGGGCT-1 7', 'TTTACTGTCGACAGCC-1 7', 'TTTATGCCAATTGCTG-1 7', 'TTTGTCACACCACCAG-1 7', 'TTTGTCAGTTAGATGA-1 7', 'AAACGGGCACATGGGA-1 8', 'AAAGATGTCCAAATGC-1 8', 'AAAGCAATCTGTGCAA-1 8', 'AACTCCCGTTCCAACA-1 8', 'AACTGGTAGTTCCACA-1 8', 'AACTTTCGTTTGGCGC-1 8', 'AAGACCTTCTAAGCCA-1 8', 'AAGCCGCTCGTTACAG-1 8', 'ACATACGAGGGCTTCC-1 8', 'ACATGGTAGGGATGGG-1 8', 'ACGATGTTCCCGGATG-1 8', 'ACGGGCTTCCGGCACA-1 8', 'ACTGAGTTCGTAGATC-1 8', 'AGATTGCCACGGTGTC-1 8', 'AGATTGCGTCAGAATA-1 8', 'AGCTCCTAGCTCCTTC-1 8', 'AGCTCCTCACCTTGTC-1 8', 'AGCTCCTTCGGAGCAA-1 8', 'AGCTCTCGTTAAAGTG-1 8', 'AGGGAGTTCTTATCTG-1 8', 'AGGGATGGTGTAACGG-1 8', 'AGGGTGAGTGTCAATC-1 8', 'AGTCTTTCAAATACAG-1 8', 'AGTGAGGCACCGATAT-1 8', 'AGTGTCATCCGCGGTA-1 8', 'ATAACGCCATGGAATA-1 8', 'ATAGACCTCAGTCAGT-1 8', 'ATCACGAAGTCTCGGC-1 8', 'ATCACGACAAGTTCTG-1 8', 'ATCACGACATTCACTT-1 8', 'ATCCGAATCTTACCGC-1 8', 'ATCTGCCGTTAAGACA-1 8', 'ATGGGAGAGCACACAG-1 8', 'ATTACTCTCCTCGCAT-1 8', 'ATTATCCTCATAACCG-1 8', 'ATTCTACAGGCTCAGA-1 8', 'CAACTAGTCCACGAAT-1 8', 'CAAGAAAGTCTCAACA-1 8', 'CAAGAAATCCCAAGTA-1 8', 'CAAGATCGTATAATGG-1 8', 'CACATAGTCACCTCGT-1 8', 'CAGAATCGTATCTGCA-1 8', 'CAGAGAGCACAACGTT-1 8', 'CAGAGAGCAGGGATTG-1 8', 'CAGCTAACACTTACGA-1 8', 'CAGCTAATCACGATGT-1 8', 'CATATGGGTTATGCGT-1 8', 'CATCGGGGTCTAGCCG-1 8', 'CATGACAGTGGTCCGT-1 8', 'CATGACATCGTTGCCT-1 8', 'CATGCCTGTAAGCACG-1 8', 'CATGGCGCACAACGTT-1 8', 'CCACCTACATCGTCGG-1 8', 'CCACTACAGGCCATAG-1 8', 'CCACTACGTCGGCATC-1 8', 'CCACTACTCATTTGGG-1 8', 'CCACTACTCCCAAGAT-1 8', 'CCGTGGAGTTGGTAAA-1 8', 'CCTAGCTCATGATCCA-1 8', 'CCTAGCTTCCGAGCCA-1 8', 'CCTTCCCTCAAGGTAA-1 8', 'CCTTCGAGTTAAGTAG-1 8', 'CGAACATTCGTGGGAA-1 8', 'CGAATGTTCAGCCTAA-1 8', 'CGAGAAGGTTAAGAAC-1 8', 'CGAGCACAGCCCTAAT-1 8', 'CGAGCCATCGACCAGC-1 8', 'CGATGGCAGCGCCTCA-1 8', 'CGGACGTAGGAGCGTT-1 8', 'CGGACGTTCCAAACTG-1 8', 'CGGACTGGTCACTTCC-1 8', 'CGGTTAAGTCTCCATC-1 8', 'CGGTTAATCCCTCTTT-1 8', 'CGTAGCGGTAGGGTAC-1 8', 'CGTAGCGGTCAGCTAT-1 8', 'CGTGAGCGTGGCAAAC-1 8', 'CGTTGGGTCTCGTTTA-1 8', 'CTCGAAACACACGCTG-1 8', 'CTCGAAACACGGTTTA-1 8', 'CTCGAAAGTAGGCTGA-1 8', 'CTCGAAAGTCTAAAGA-1 8', 'CTCGGAGCACGGCCAT-1 8', 'CTCGGAGGTAGCGTCC-1 8', 'CTCGGGAAGTTGAGTA-1 8', 'CTCGGGATCATGTCCC-1 8', 'CTCGTACGTTGGTAAA-1 8', 'CTCGTCACACGGATAG-1 8', 'CTCGTCAGTACCTACA-1 8', 'CTCTAATCACTCTGTC-1 8', 'CTCTAATTCATAACCG-1 8', 'CTGAAACGTCTAAAGA-1 8', 'CTGAAGTCAAATTGCC-1 8', 'CTGATCCCATCTATGG-1 8', 'CTGATCCGTTGAGTTC-1 8', 'CTGCTGTGTCCTCTTG-1 8', 'CTGTTTAAGGAGTACC-1 8', 'CTTGGCTTCTAACTTC-1 8', 'GAATGAACAAGGTTCT-1 8', 'GACAGAGAGACGACGT-1 8', 'GACGGCTGTATCAGTC-1 8', 'GAGTCCGGTTGTACAC-1 8', 'GATCAGTAGACGACGT-1 8', 'GATCGATAGAGTACAT-1 8', 'GATCGTACACCTGGTG-1 8', 'GATCGTATCATGGTCA-1 8', 'GCAAACTAGGCTACGA-1 8', 'GCACATAAGTGGACGT-1 8', 'GCATACACACCATCCT-1 8', 'GCATACAGTAGCTGCC-1 8', 'GCATGATGTCCAAGTT-1 8', 'GCCAAATCACTTAAGC-1 8', 'GCCTCTATCTGAAAGA-1 8', 'GCGCCAACACGGATAG-1 8', 'GCTCTGTAGTCATCCA-1 8', 'GCTGCAGCATTCACTT-1 8', 'GCTGCGATCCAAATGC-1 8', 'GCTTCCAAGGTACTCT-1 8', 'GGAGCAAGTTTGGCGC-1 8', 'GGCAATTAGTGGACGT-1 8', 'GGCTCGATCAACTCTT-1 8', 'GGCTGGTAGTGCGATG-1 8', 'GGGAATGTCCACTCCA-1 8', 'GGGATGAAGCGACGTA-1 8', 'GGGCACTGTCAGATAA-1 8', 'GGGCACTTCTGGCGAC-1 8', 'GGGCATCCAAGCTGTT-1 8', 'GGGCATCTCGCACTCT-1 8', 'GGGTCTGAGCTGCAAG-1 8', 'GGGTCTGAGGGATCTG-1 8', 'GGGTTGCTCTCACATT-1 8', 'GGTGAAGGTCTAGTCA-1 8', 'GTAACGTTCCACGACG-1 8', 'GTACGTACAGGAATGC-1 8', 'GTACTTTCACACCGAC-1 8', 'GTAGTCAAGCAATCTC-1 8', 'GTCCTCAAGCCGCCTA-1 8', 'GTCCTCACAAGCTGGA-1 8', 'GTCGGGTCACCATCCT-1 8', 'GTCGTAAGTGTGTGCC-1 8', 'GTGCAGCCAATCTGCA-1 8', 'GTGCTTCTCCGCTGTT-1 8', 'GTGGGTCAGAAACGAG-1 8', 'GTTACAGCATGGATGG-1 8', 'GTTCTCGCACCGAATT-1 8', 'GTTTCTACACTTCTGC-1 8', 'GTTTCTAGTCTCACCT-1 8', 'TAAGTGCCATTGCGGC-1 8', 'TACACGATCTGGTTCC-1 8', 'TACAGTGAGCGTTGCC-1 8', 'TACAGTGCATAGTAAG-1 8', 'TACCTTACATCGGAAG-1 8', 'TACGGTAAGAGTACAT-1 8', 'TAGCCGGGTCCGCTGA-1 8', 'TAGTGGTTCACTTCAT-1 8', 'TATCTCAGTGGCGAAT-1 8', 'TATCTCAGTTCAGACT-1 8', 'TATGCCCAGGTTACCT-1 8', 'TCAACGATCATGTAGC-1 8', 'TCAATCTGTAAGTGTA-1 8', 'TCAGCAACACCACCAG-1 8', 'TCAGCAAGTATTCGTG-1 8', 'TCGGTAAAGTACGTAA-1 8', 'TCGTACCGTGTCAATC-1 8', 'TCGTAGATCGTTGCCT-1 8', 'TCTCATATCTACTATC-1 8', 'TCTCTAAGTAGCTAAA-1 8', 'TCTGAGAGTCTAGTCA-1 8', 'TCTTTCCGTTGACGTT-1 8', 'TGACTAGGTAGAAGGA-1 8', 'TGAGCATAGGTGCAAC-1 8', 'TGAGCATGTAAAGGAG-1 8', 'TGAGCCGAGCTCAACT-1 8', 'TGAGGGAAGTGCCATT-1 8', 'TGAGGGAGTGTTTGTG-1 8', 'TGATTTCTCAACTCTT-1 8', 'TGCGCAGCATGAGCGA-1 8', 'TGCGTGGTCCAACCAA-1 8', 'TGGACGCCAGACGCCT-1 8', 'TGGGAAGAGCTCCTTC-1 8', 'TGGGCGTGTCAGTGGA-1 8', 'TGTATTCCAAAGGAAG-1 8', 'TGTGTTTAGAGTGACC-1 8', 'TGTTCCGTCGCAAGCC-1 8', 'TTAGGCAAGCCGTCGT-1 8', 'TTAGGCAAGTCTTGCA-1 8', 'TTAGTTCTCATGCAAC-1 8', 'TTATGCTCAACACCTA-1 8', 'TTCCCAGAGTGGTCCC-1 8', 'TTCGAAGAGGCTAGAC-1 8', 'TTCGGTCAGAAGGACA-1 8', 'TTCTCCTCACCAGTTA-1 8', 'TTGACTTCAGATAATG-1 8', 'TTGCCGTCAAAGTGCG-1 8', 'TTGCGTCAGGAGTACC-1 8', 'TTGGAACCAGCTCGAC-1 8', 'TTTGGTTAGAGGACGG-1 8', 'ACACCGGCACCCAGTG-1 9', 'ACGATACTCTTACCTA-1 9', 'CACTCCAAGGCATTGG-1 9', 'CCACCTAAGTCGCCGT-1 9', 'CGAATGTCAAGACGTG-1 9', 'CTAAGACCACATGGGA-1 9', 'GGAGCAACATCGATTG-1 9', 'GTAACGTAGGCTAGGT-1 9', 'GTGTTAGCAGCTTAAC-1 9', 'AAACCTGGTCGACTGC-1 10', 'AACCATGTCGATAGAA-1 10', 'AACTGGTTCGCATGAT-1 10', 'AACTTTCTCCATGAGT-1 10', 'AAGCCGCAGCGCCTCA-1 10', 'ACACCGGCAGGCTCAC-1 10', 'ACACTGAAGCAACGGT-1 10', 'ACGAGGAGTCGCATCG-1 10', 'ACGGAGATCAATAAGG-1 10', 'ACGGCCATCCCTTGCA-1 10', 'ACGTCAAAGATGCCTT-1 10', 'ACTGTCCCATGTAGTC-1 10', 'ACTTTCAGTGGTCCGT-1 10', 'AGATCTGTCTGGTATG-1 10', 'AGATTGCTCCGCGGTA-1 10', 'AGCCTAAAGGCTAGGT-1 10', 'AGCGGTCAGAGCTGCA-1 10', 'AGCGTATGTCGTTGTA-1 10', 'AGCGTCGCATGATCCA-1 10', 'AGCTCCTGTCGAGATG-1 10', 'AGCTCCTTCACTTATC-1 10', 'AGCTCTCGTGACTCAT-1 10', 'AGCTTGAAGGTTACCT-1 10', 'AGCTTGACATGTCCTC-1 10', 'AGGCCGTGTGGCAAAC-1 10', 'AGGGATGAGTAACCCT-1 10', 'AGTCTTTAGTGAACAT-1 10', 'AGTCTTTTCCTCAACC-1 10', 'ATAACGCAGTCGATAA-1 10', 'ATAAGAGAGACTAAGT-1 10', 'ATAAGAGAGGATGGAA-1 10', 'ATCCGAAAGATGCCAG-1 10', 'ATCGAGTCATCCCATC-1 10', 'ATTCTACCAAACGTGG-1 10', 'ATTGGACCATCCTAGA-1 10', 'CAACCAAGTAGTACCT-1 10', 'CAAGTTGGTAGCGCTC-1 10', 'CACAAACCACTTGGAT-1 10', 'CACAAACGTCAGAAGC-1 10', 'CACCACTAGTTTGCGT-1 10', 'CACCAGGCATGCGCAC-1 10', 'CACCTTGCAGACACTT-1 10', 'CACCTTGGTTGGTTTG-1 10', 'CAGCCGAGTCTAAAGA-1 10', 'CAGCGACGTACATCCA-1 10', 'CAGCTGGAGGTGCTAG-1 10', 'CAGCTGGGTACCAGTT-1 10', 'CATTCGCGTGCAACGA-1 10', 'CCACCTATCAACCATG-1 10', 'CCCAATCAGGATGCGT-1 10', 'CCGGGATTCATGGTCA-1 10', 'CCTACCACACCATCCT-1 10', 'CCTTACGAGGCACATG-1 10', 'CCTTACGAGTCTCGGC-1 10', 'CCTTTCTTCACGCGGT-1 10', 'CGAACATAGTTGCAGG-1 10', 'CGAGAAGTCACATGCA-1 10', 'CGAGCACAGCCAGTTT-1 10', 'CGAGCCATCAACGCTA-1 10', 'CGATGGCTCAATCTCT-1 10', 'CGATGTAGTTAAGATG-1 10', 'CGCCAAGAGGTTCCTA-1 10', 'CGCCAAGTCTAACTCT-1 10', 'CGCGTTTCAGACAGGT-1 10', 'CGCTATCGTCTGATTG-1 10', 'CGTCCATAGAGAGCTC-1 10', 'CGTGAGCAGAAAGTGG-1 10', 'CTAACTTAGATCCCGC-1 10', 'CTACCCATCTTCGAGA-1 10', 'CTAGAGTGTAGCCTCG-1 10', 'CTAGCCTTCGTCGTTC-1 10', 'CTAGTGACAGGACGTA-1 10', 'CTCAGAATCGTTGCCT-1 10', 'CTCGGGATCTTGTACT-1 10', 'CTCGTACGTTGCGTTA-1 10', 'CTCGTACTCTAACTCT-1 10', 'CTCGTCACAAGTTCTG-1 10', 'CTCTAATGTGTTAAGA-1 10', 'CTGGTCTCATCTACGA-1 10', 'CTTAACTCATAGACTC-1 10', 'CTTAACTGTCCGTCAG-1 10', 'CTTACCGCAAACCTAC-1 10', 'CTTCTCTGTGTAATGA-1 10', 'GAAACTCGTTATGTGC-1 10', 'GAACATCCAGTAAGCG-1 10', 'GACTACACATGTCTCC-1 10', 'GATCGTATCTCTTGAT-1 10', 'GATCGTATCTTAACCT-1 10', 'GATGAGGGTTTGTTGG-1 10', 'GCAAACTCACGTGAGA-1 10', 'GCCTCTAAGAAACGAG-1 10', 'GCGCAGTAGCGTGAGT-1 10', 'GCGCGATCAACTGGCC-1 10', 'GCGCGATGTCCGACGT-1 10', 'GCGGGTTCACCAGGCT-1 10', 'GCTCTGTGTGTTTGTG-1 10', 'GCTGCGATCTTACCGC-1 10', 'GGAACTTCAATCTACG-1 10', 'GGACAGAGTGTCCTCT-1 10', 'GGACATTGTCACCTAA-1 10', 'GGAGCAACAAACGTGG-1 10', 'GGATTACAGGCAGTCA-1 10', 'GGCCGATAGGTAGCTG-1 10', 'GGCCGATCAATGGACG-1 10', 'GGCGACTCATGTTCCC-1 10', 'GGCTCGAGTTCTCATT-1 10', 'GGGTTGCAGGTACTCT-1 10', 'GGTGAAGGTACTTGAC-1 10', 'GGTGTTACATCACCCT-1 10', 'GTAACTGGTCGCTTCT-1 10', 'GTACGTAAGACTAGAT-1 10', 'GTCACAAGTCTTTCAT-1 10', 'GTCACGGAGGCAATTA-1 10', 'GTCATTTCAATGGAGC-1 10', 'GTCCTCAGTAGGCATG-1 10', 'GTCGTAAAGATCGATA-1 10', 'GTCGTAAAGCTGATAA-1 10', 'GTGCGGTAGGGTGTTG-1 10', 'GTGCGGTTCAGCTCGG-1 10', 'GTGCTTCGTAGTGAAT-1 10', 'GTGGGTCCAAACGTGG-1 10', 'GTTACAGAGCACAGGT-1 10', 'GTTCATTCAGTAACGG-1 10', 'TAAGAGACACCCAGTG-1 10', 'TACAGTGAGATCCTGT-1 10', 'TACTCATAGTTAGGTA-1 10', 'TAGTGGTAGATGCCAG-1 10', 'TATTACCGTCGGATCC-1 10', 'TCAACGACAGATGGCA-1 10', 'TCAGCTCAGGGCTTGA-1 10', 'TCAGGATAGAGAACAG-1 10', 'TCAGGTAGTTGTGGCC-1 10', 'TCATTACGTAGTACCT-1 10', 'TCATTTGTCTTCAACT-1 10', 'TCCACACCAAATACAG-1 10', 'TCCACACCATATGGTC-1 10', 'TCGCGAGAGTGTACGG-1 10', 'TCGCGAGTCCGCGTTT-1 10', 'TCGGGACGTCTCAACA-1 10', 'TCGGGACTCAAGATCC-1 10', 'TCGTAGAAGAGTGAGA-1 10', 'TCTCATAAGATCACGG-1 10', 'TCTCATAAGGAATGGA-1 10', 'TCTCTAAAGTGTCCAT-1 10', 'TCTGGAATCTGGCGTG-1 10', 'TGACAACTCAGCATGT-1 10', 'TGCACCTAGCGTTGCC-1 10', 'TGCCCATCAAGGTGTG-1 10', 'TGCCCTAGTGACGCCT-1 10', 'TGCGTGGCAAGCGTAG-1 10', 'TGGACGCGTCCGAAGA-1 10', 'TGTGGTATCTACGAGT-1 10', 'TTAGTTCTCAGCCTAA-1 10', 'TTCCCAGTCGAATGCT-1 10', 'TTCCCAGTCGTCGTTC-1 10', 'TTCTCAAGTTGTTTGG-1 10', 'TTCTCCTCACACCGAC-1 10', 'TTCTTAGCACTTGGAT-1 10', 'TTGGAACTCCATGCTC-1 10', 'TTTACTGCATTATCTC-1 10', 'TTTGCGCGTTCGTCTC-1 10']
+copying files
+sending incremental file list
+
+sent 19,939 bytes  received 59 bytes  39,996.00 bytes/sec
+total size is 2,184,195,910  speedup is 109,220.72
