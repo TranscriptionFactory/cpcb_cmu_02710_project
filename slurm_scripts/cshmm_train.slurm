@@ -24,4 +24,4 @@ module load cuda
 eval "$(conda shell.bash hook)"
 
 source activate cshmm
-python CSHMM-for-time-series-scRNA-Seq/CSHMM_train.py --data_file data/tcell_data.E --structure_file data/tcell_data.Einit_cluster.txt --n_split 100 -ng 16000 --n_iteration 10 --cross_validation 1 --random_seed 0 --model_name tcell_data_slurm
+python CSHMM-for-time-series-scRNA-Seq/CSHMM_train.py --data_file data/tcell_data.E --structure_file data/tcell_data.Einit_cluster.txt --n_split 100 -ng 1000 --n_iteration 10 --cross_validation 1 --random_seed 0 --model_name tcell_data_ng_cv

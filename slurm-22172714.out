@@ -1329,3 +1329,218 @@ calculating  ALL  score......
 model score:  ('(AIC,BIC,G2,G3,G4,G5,G6)=', (-27120852.92667639, -28254458.13756222, -39361411.391680226, -31904390.90080668, -32968803.679517057, -31886880.7400081, -45808936.77683389))
 M-step: optimizing g param with CVX......
 after M-step g_param full log-likelihood:  -13347149.611420792
+M-step: optimizing sigma param......
+after M-step sigma_param full log-likelihood:  -13347149.236639338
+M-step: optimizing K param......
+after M-step K_param full log-likelihood:  -13346873.000213511
+E-step: assigning new path and time for cell......
+after E-step full log-likelihood:  -13346791.561042558
+adjusting model structure 
+0 -> 1
+1 -> 2
+1 -> 6
+2 -> 3
+2 -> 9
+3 -> 4
+3 -> 5
+3 -> 7
+5 -> 8
+5 -> 10
+M-step: optimizing w param......
+after setting w_nz full log-likelihood:  -13346791.561042558
+after setting trans_prob full log-likelihood:  -13346901.35364957
+confussion matrix:
+['6CD4sp', '5DPsel', '4DPre', '2preDP', '3DPbla', '1DN', '7CD8sp']
+[[  0.   0.   0.   0.   1.  54.   0.]
+ [  1.   0.   3. 103.  41.   6.   0.]
+ [  0.   2.   1.   2. 220.   0.   0.]
+ [  0.   0.  81.   0.  45.   0.   0.]
+ [ 66.   9.   1.   2.   0.   0.  58.]
+ [  6.  77.   0.   0.   0.   0.   0.]
+ [  5.   1.   1.  17.  47.   2.   3.]
+ [  3.  27. 314.   0.   1.   0.   0.]
+ [  1. 104.   0.   1.   5.   1.   0.]
+ [  0.   0.   0.   0.  43.   0.   0.]
+ [109.  56.   0.   1.   1.   0.  18.]]
+ARI:  0.494331497972
+maximum training iteration reached.
+E-step: assigning new path and time for cell......
+iteration:	  4 	 train_LL:	  -13346901.35 	 test_ll: 	-3318637.68
+training iteration:  1
+cell paths:  (array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10]), array([ 55, 154, 225, 126, 136,  83,  76, 345, 112,  43, 185]))
+calculating  ALL  score......
+model score:  ('(AIC,BIC,G2,G3,G4,G5,G6)=', (-27118410.70729914, -28252015.91818497, -39358969.172302976, -31901948.68142943, -32966361.460139807, -31884438.52063085, -45806494.55745664))
+M-step: optimizing g param with CVX......
+after M-step g_param full log-likelihood:  -13346401.67005757
+M-step: optimizing sigma param......
+after M-step sigma_param full log-likelihood:  -13346401.631488614
+M-step: optimizing K param......
+after M-step K_param full log-likelihood:  -13346252.22263472
+E-step: assigning new path and time for cell......
+after E-step full log-likelihood:  -13345927.978032436
+adjusting model structure 
+0 -> 1
+1 -> 2
+1 -> 6
+2 -> 3
+2 -> 9
+3 -> 4
+3 -> 5
+3 -> 7
+5 -> 8
+5 -> 10
+M-step: optimizing w param......
+after setting w_nz full log-likelihood:  -13345927.978032436
+after setting trans_prob full log-likelihood:  -13346007.780409584
+confussion matrix:
+['6CD4sp', '5DPsel', '4DPre', '2preDP', '3DPbla', '1DN', '7CD8sp']
+[[  0.   0.   0.   0.   1.  54.   0.]
+ [  1.   0.   3. 103.  35.   6.   0.]
+ [  1.   2.   1.   2. 214.   1.   0.]
+ [  0.   0.  80.   0.  38.   0.   0.]
+ [ 67.   9.   1.   2.   0.   0.  58.]
+ [  6.  76.   0.   0.   0.   0.   0.]
+ [  3.   1.   1.  17.  64.   1.   3.]
+ [  3.  27. 315.   0.   1.   0.   0.]
+ [  1.  97.   0.   1.   5.   1.   0.]
+ [  0.   0.   0.   0.  45.   0.   0.]
+ [109.  64.   0.   1.   1.   0.  18.]]
+ARI:  0.490141948829
+maximum training iteration reached.
+E-step: assigning new path and time for cell......
+iteration:	  5 	 train_LL:	  -13346007.78 	 test_ll: 	-3318584.09
+training iteration:  1
+cell paths:  (array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10]), array([ 55, 148, 221, 118, 137,  82,  90, 346, 105,  45, 193]))
+calculating  ALL  score......
+model score:  ('(AIC,BIC,G2,G3,G4,G5,G6)=', (-27116623.560819168, -28250228.771704998, -39357182.025823005, -31900161.53494946, -32964574.313659836, -31882651.37415088, -45804707.41097667))
+M-step: optimizing g param with CVX......
+after M-step g_param full log-likelihood:  -13345617.845604314
+M-step: optimizing sigma param......
+after M-step sigma_param full log-likelihood:  -13345617.844265198
+M-step: optimizing K param......
+after M-step K_param full log-likelihood:  -13345515.905515824
+E-step: assigning new path and time for cell......
+after E-step full log-likelihood:  -13345930.199009692
+adjusting model structure 
+0 -> 1
+1 -> 2
+1 -> 6
+2 -> 3
+2 -> 9
+3 -> 4
+3 -> 5
+3 -> 7
+5 -> 8
+5 -> 10
+M-step: optimizing w param......
+after setting w_nz full log-likelihood:  -13345930.199009692
+after setting trans_prob full log-likelihood:  -13345982.384446634
+confussion matrix:
+['6CD4sp', '5DPsel', '4DPre', '2preDP', '3DPbla', '1DN', '7CD8sp']
+[[  0.   0.   0.   0.   1.  54.   0.]
+ [  1.   0.   3. 103.  32.   6.   0.]
+ [  1.   2.   1.   1. 207.   0.   0.]
+ [  0.   1.  80.   0.  35.   0.   0.]
+ [ 66.  10.   1.   2.   0.   0.  58.]
+ [  6.  76.   0.   1.   0.   0.   0.]
+ [  3.   0.   1.  17.  78.   2.   3.]
+ [  3.  25. 315.   0.   1.   0.   0.]
+ [  1. 101.   0.   1.   5.   1.   0.]
+ [  0.   0.   0.   0.  44.   0.   0.]
+ [110.  61.   0.   1.   1.   0.  18.]]
+ARI:  0.490893694569
+maximum training iteration reached.
+E-step: assigning new path and time for cell......
+iteration:	  6 	 train_LL:	  -13345982.38 	 test_ll: 	-3318515.52
+training iteration:  1
+cell paths:  (array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10]), array([ 55, 145, 212, 116, 137,  83, 104, 344, 109,  44, 191]))
+calculating  ALL  score......
+model score:  ('(AIC,BIC,G2,G3,G4,G5,G6)=', (-27116572.768893268, -28250177.9797791, -39357131.233897105, -31900110.74302356, -32964523.521733936, -31882600.58222498, -45804656.61905077))
+M-step: optimizing g param with CVX......
+after M-step g_param full log-likelihood:  -13345678.789271025
+M-step: optimizing sigma param......
+after M-step sigma_param full log-likelihood:  -13345678.759168372
+M-step: optimizing K param......
+after M-step K_param full log-likelihood:  -13345598.48182381
+E-step: assigning new path and time for cell......
+after E-step full log-likelihood:  -13345275.398761172
+adjusting model structure 
+0 -> 1
+1 -> 2
+1 -> 6
+2 -> 3
+2 -> 9
+3 -> 4
+3 -> 5
+3 -> 7
+5 -> 8
+5 -> 10
+M-step: optimizing w param......
+after setting w_nz full log-likelihood:  -13345275.398761172
+after setting trans_prob full log-likelihood:  -13345314.736444347
+confussion matrix:
+['6CD4sp', '5DPsel', '4DPre', '2preDP', '3DPbla', '1DN', '7CD8sp']
+[[  0.   0.   0.   0.   1.  54.   0.]
+ [  1.   0.   3. 103.  31.   6.   0.]
+ [  1.   2.   1.   2. 202.   0.   0.]
+ [  0.   1.  80.   0.  31.   0.   0.]
+ [ 66.  11.   1.   2.   0.   0.  58.]
+ [  6.  73.   0.   4.   0.   0.   0.]
+ [  3.   0.   1.  13.  86.   2.   3.]
+ [  3.  25. 315.   0.   1.   0.   0.]
+ [  1. 100.   0.   1.   5.   1.   0.]
+ [  0.   0.   0.   0.  46.   0.   0.]
+ [110.  64.   0.   1.   1.   0.  18.]]
+ARI:  0.487704195336
+maximum training iteration reached.
+E-step: assigning new path and time for cell......
+iteration:	  7 	 train_LL:	  -13345314.74 	 test_ll: 	-3318469.2
+training iteration:  1
+cell paths:  (array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10]), array([ 55, 144, 208, 112, 138,  83, 108, 344, 108,  46, 194]))
+calculating  ALL  score......
+model score:  ('(AIC,BIC,G2,G3,G4,G5,G6)=', (-27115237.472888693, -28248842.683774523, -39355795.93789253, -31898775.447018985, -32963188.22572936, -31881265.286220405, -45803321.32304619))
+M-step: optimizing g param with CVX......
+after M-step g_param full log-likelihood:  -13345041.542791627
+M-step: optimizing sigma param......
+after M-step sigma_param full log-likelihood:  -13345041.519725023
+M-step: optimizing K param......
+after M-step K_param full log-likelihood:  -13344986.461682685
+E-step: assigning new path and time for cell......
+after E-step full log-likelihood:  -13345004.971898343
+adjusting model structure 
+0 -> 1
+1 -> 2
+1 -> 6
+2 -> 3
+2 -> 9
+3 -> 4
+3 -> 5
+3 -> 7
+5 -> 8
+5 -> 10
+M-step: optimizing w param......
+after setting w_nz full log-likelihood:  -13345004.971898343
+after setting trans_prob full log-likelihood:  -13345060.962715214
+confussion matrix:
+['6CD4sp', '5DPsel', '4DPre', '2preDP', '3DPbla', '1DN', '7CD8sp']
+[[  0.   0.   0.   0.   1.  54.   0.]
+ [  1.   0.   3. 103.  29.   6.   0.]
+ [  1.   2.   0.   1. 195.   1.   0.]
+ [  0.   1.  80.   0.  29.   0.   0.]
+ [ 67.  12.   1.   2.   0.   0.  58.]
+ [  6.  74.   0.   4.   0.   0.   0.]
+ [  3.   0.   2.  14.  96.   1.   3.]
+ [  3.  23. 315.   0.   1.   0.   0.]
+ [  1.  95.   0.   1.   5.   1.   0.]
+ [  0.   0.   0.   0.  47.   0.   0.]
+ [109.  69.   0.   1.   1.   0.  18.]]
+ARI:  0.485255677565
+maximum training iteration reached.
+E-step: assigning new path and time for cell......
+iteration:	  8 	 train_LL:	  -13345060.96 	 test_ll: 	-3318468.46
+training iteration:  1
+cell paths:  (array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10]), array([ 55, 142, 200, 110, 140,  84, 119, 342, 103,  47, 198]))
+calculating  ALL  score......
+model score:  ('(AIC,BIC,G2,G3,G4,G5,G6)=', (-27114729.92543043, -28248335.13631626, -39355288.390434265, -31898267.89956072, -32962680.678271096, -31880757.73876214, -45802813.77558793))
+M-step: optimizing g param with CVX......
+after M-step g_param full log-likelihood:  -13344885.105076525
