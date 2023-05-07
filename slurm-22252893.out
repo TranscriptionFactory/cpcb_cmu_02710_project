@@ -143,3 +143,8 @@ confussion matrix:
 ARI:  0.484288869125
 saving model to file:  tcell_data_nocv_split6_it3.pickle
 training iteration:  4
+cell paths:  (array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10]), array([ 74, 185, 264, 177, 148,  96,  85, 423, 147,  59, 264]))
+calculating  ALL  score......
+model score:  ('(AIC,BIC,G2,G3,G4,G5,G6)=', (-33749895.829906926, -34930544.18785056, -45990454.294910766, -38533433.80403722, -39597846.58274759, -38593378.3600524, -53015000.3131177))
+M-step: optimizing g param with CVX......
+after M-step g_param full log-likelihood:  -16661120.347534418
