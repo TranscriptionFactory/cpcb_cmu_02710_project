@@ -23,5 +23,5 @@ module load cuda
 
 eval "$(conda shell.bash hook)"
 
-source activate scdiffenv
-prerun -i filtered_data.E -o filtered.out -f norm
+source activate scdiff2
+prerun -i integrated_data.E -o integrated_data.out -f norm

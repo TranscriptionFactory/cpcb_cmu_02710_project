@@ -23,6 +23,6 @@ module load cuda
 
 eval "$(conda shell.bash hook)"
 
-source activate scdiffenv
-scdiff2 -i newout3.out/tcell_data2.E.h5ad -o scdiff_filterednewout2.out -t /net/dali/home/mscbio/aar126/genomics/scdiff2/tf_dna/Mouse_TF_targets.txt --maxloop 0
+source activate scdiff2
+scdiff2 -i integrated_data.out/integrated_data.E.h5ad -o integrated_data.out -t /net/dali/home/mscbio/aar126/genomics/scdiff2/tf_dna/Mouse_TF_targets.txt --maxloop 0
 #prerun -i tcell_data2.E -o newout3.out

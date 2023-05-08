@@ -1,0 +1,21 @@
+The program starts at : 2023-05-08 11:31:20.190642 
+    The program runs with the following arguments
+
+    $scdiff2
+    -i integrated_data.out/integrated_data.E.h5ad
+    -o integrated_data.out
+    -t /net/dali/home/mscbio/aar126/genomics/scdiff2/tf_dna/Mouse_TF_targets.txt
+    --etfListFile None
+    --log2fc 0.6
+    --ncores 4
+    --root None
+    --llhCut 0.05
+    --maxloop 0 
+    
+reading cells ...
+Total # of cells: 3185 
+clustering cells ...
+building graph(tree) ...
+job completed!
+The program ends at : 2023-05-08 11:33:08.719308 
+
